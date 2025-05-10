@@ -6,7 +6,7 @@ st.set_page_config(
 
 st.write("""# Submitted To: 
          
-         TBA""")
+         Dr. Neeraj Paathak""")
 
 st.markdown(
     """

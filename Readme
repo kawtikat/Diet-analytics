@@ -1,5 +1,74 @@
-cd backend
-uvicorn main:app --reload                  
+# Food Analysis System
 
-cd frontend
+A comprehensive food recommendation and analysis system with recipe recommendations based on nutritional requirements and food image segmentation.
+
+## Project Structure
+
+```
+├── Backend/
+│   ├── api/            # FastAPI endpoints
+│   ├── models/         # ML models and model-related code
+│   ├── data/           # Datasets
+│   ├── config/         # Configuration files
+│   └── checkpoints/    # Model checkpoints
+├── Frontend/
+│   ├── pages/          # Streamlit pages
+│   ├── ImageFinder/    # Image finding utilities
+│   ├── Hello.py        # Main entry point
+│   └── Generate_Recommendations.py  # Recommendation generator
+└── requirements.txt    # Project dependencies
+```
+
+## Setup
+
+### Install Backend Package
+
+The Backend is structured as a Python package. You need to install it in development mode:
+
+```bash
+# From the project root directory
+pip install -e .
+```
+
+This makes the Backend package available to Python, allowing the imports to work correctly.
+
+## Running the Application
+
+### Backend
+
+To run the backend API server:
+
+```bash
+cd Backend/api
+uvicorn main:app --reload
+```
+
+### Frontend
+
+To run the frontend Streamlit application:
+
+```bash
+cd Frontend
 streamlit run Hello.py
+```
+
+## Features
+
+- Diet recommendation based on nutritional requirements
+- Food image segmentation to identify ingredients
+- Custom food recommendation with ingredient filtering
+- Dietitian chatbot
+- Food processing utilities
+
+## Package Structure
+
+The Backend is organized as a Python package with the following structure:
+
+- `Backend/` - Main package
+  - `api/` - FastAPI application
+  - `models/` - ML models and algorithms
+  - `data/` - Dataset files
+  - `config/` - Configuration files
+  - `checkpoints/` - Model checkpoint files
+
+This structure allows for clean imports between modules and better organization of the codebase.

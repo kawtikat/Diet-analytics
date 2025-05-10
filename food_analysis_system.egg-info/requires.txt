@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+torch
+pillow
+scikit-learn
+mmengine
+mmsegmentation

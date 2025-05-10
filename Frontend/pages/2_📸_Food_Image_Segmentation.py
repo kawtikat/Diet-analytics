@@ -4,6 +4,7 @@ from PIL import Image
 import io
 import numpy as np
 import cv2
+import matplotlib.pyplot as plt
 
 # FastAPI backend URL
 BACKEND_URL = "http://localhost:8000/segment_food/"
@@ -145,8 +146,43 @@ def main():
                     # Process mask with the original image size
                     overlayed_image = process_segmentation_mask(segmentation_mask, image)
 
-                    # Display only the segmented image
+                    # Display the segmented image
                     st.image(overlayed_image, caption="Segmented Image with Ingredients", use_column_width=True)
+                    
+                    # Extract ingredient percentages and create pie chart
+                    ingredient_percentages = result["ingredient_percentages"]
+                    
+                    # Filter out ingredients with very small percentages (less than 1%)
+                    filtered_percentages = {k: v for k, v in ingredient_percentages.items() if v > 1.0}
+                    
+                    if filtered_percentages:
+                        st.subheader("Ingredient Composition")
+                        
+                        # Create pie chart using matplotlib
+                        fig, ax = plt.subplots(figsize=(10, 6))
+                        wedges, texts, autotexts = ax.pie(
+                            filtered_percentages.values(), 
+                            labels=filtered_percentages.keys(),
+                            autopct='%1.1f%%',
+                            textprops={'fontsize': 9},
+                            startangle=90
+                        )
+                        
+                        # Equal aspect ratio ensures that pie is drawn as a circle
+                        ax.axis('equal')
+                        plt.setp(autotexts, size=8, weight='bold')
+                        plt.tight_layout()
+                        
+                        # Display the pie chart
+                        st.pyplot(fig)
+                        
+                        # Also display as a table for accessibility
+                        st.subheader("Ingredient Percentages")
+                        percentage_data = {"Ingredient": list(filtered_percentages.keys()), 
+                                          "Percentage (%)": [f"{v:.1f}%" for v in filtered_percentages.values()]}
+                        st.table(percentage_data)
+                    else:
+                        st.info("No significant ingredients detected for percentage visualization.")
 
                 except requests.exceptions.RequestException as e:
                     st.error(f"Error connecting to the backend server: {str(e)}")

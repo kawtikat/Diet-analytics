@@ -1,0 +1,12 @@
+setup.py
+Backend/__init__.py
+Backend/api/__init__.py
+Backend/api/main.py
+Backend/models/Diet_rec_model.py
+Backend/models/__init__.py
+Backend/models/segmentation_model.py
+food_analysis_system.egg-info/PKG-INFO
+food_analysis_system.egg-info/SOURCES.txt
+food_analysis_system.egg-info/dependency_links.txt
+food_analysis_system.egg-info/requires.txt
+food_analysis_system.egg-info/top_level.txt

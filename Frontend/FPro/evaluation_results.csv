@@ -1,0 +1,1739 @@
+Food Description,True NOVA Class,Predicted NOVA Class,P1 (Unprocessed),P2 (Processed Culinary),P3 (Processed),P4 (Ultra-processed),Correct Prediction
+Cereal (General Mills Raisin Nut Bran),3,3,9.655285e-38,1.7864297e-38,6.599621e-38,1.0,True
+"Frozen daiquiri mix, from frozen concentrate, reconstituted",3,3,0.053888965,2.529106e-11,8.3809376e-10,0.946111,True
+"Cheese, Swiss, reduced fat",2,2,1.3166336e-07,1.6586074e-12,0.99999917,7.092387e-07,True
+"Tomato and corn, cooked, fat not added in cooking",2,2,6.811002e-17,1.4005504e-12,0.999984,1.5973108e-05,True
+"Frankfurter or hot dog sandwich, meatless, on bun, with meatless chili",3,3,0.0,1.527763e-39,1.8995086e-35,1.0,True
+"Broccoli, chinese, cooked, from frozen, NS as to fat added in cooking",3,3,8.779494e-26,2.5640253e-14,3.45191e-19,1.0,True
+"Bean salad, yellow and/or green string beans",3,3,5.0873045e-28,2.6767364e-11,9.634046e-10,1.0,True
+"Soybean curd, breaded, fried",3,3,1.0629033e-16,1.1770273e-12,3.0291435e-08,1.0,True
+"Mixed vegetables, garden vegetables, baby food, junior",2,2,1.3813462e-06,1.4660162e-10,0.9999968,1.8186499e-06,True
+"Fruit smoothie juice drink, no dairy",0,0,0.98087054,1.0597046e-11,0.019129466,5.4784152e-08,True
+Flounder with crab stuffing,3,3,2.6994167e-16,7.18303e-12,0.0050360323,0.994964,True
+"Celery, cooked, made with oil",3,3,8.494154e-08,0.00040467232,0.05623479,0.94336045,True
+"Cream puff, no filling or icing",3,3,2.249856e-39,7.350363e-25,2.757392e-24,1.0,True
+"Pancakes, whole grain and nuts, from fast food / restaurant",3,3,2.8664194e-35,6.2158083e-21,1.2866977e-15,1.0,True
+"Soft drink, cola, decaffeinated, diet",3,3,3.1298772e-10,2.4390105e-18,1.1672207e-14,1.0,True
+"Almonds, lightly salted",2,2,2.9651665e-06,2.789558e-09,0.9999802,1.6834449e-05,True
+"Rice, white, with vegetables, cheese and/or cream based sauce, fat added in cooking",3,3,4.4442402e-35,2.3852183e-20,1.905826e-17,1.0,True
+"Pizza with meat and vegetables, from restaurant or fast food, medium crust",3,3,0.0,6.5376578e-37,3.9775917e-37,1.0,True
+"Croissant sandwich, filled with ham and cheese",3,3,5.1552737e-34,1.5269911e-20,2.1035094e-14,1.0,True
+"Fish, NS as to type, baked or broiled, made with butter",2,2,1.9503689e-06,1.9006712e-12,0.9999975,5.798219e-07,True
+"Coffee and chicory, brewed, decaffeinated",0,0,0.99989784,3.7637455e-13,2.720366e-10,0.00010217049,True
+"Cheese, American and Swiss blends",3,2,4.0057353e-15,2.4766507e-08,0.97422385,0.02577617,False
+"Tripe, cooked",2,2,5.21722e-14,1.0231245e-23,1.0,3.6743873e-14,True
+Buffalo chicken submarine sandwich,3,3,0.0,1.9384894e-34,5.17106e-40,1.0,True
+"Roll, oatmeal",3,3,3.9676384e-28,2.8550048e-20,4.4204845e-20,1.0,True
+"Chicken or turkey salad, made with mayonnaise",3,3,3.002591e-38,1.3752937e-17,2.7779374e-24,1.0,True
+"Papaya, green, cooked",0,0,0.99959,3.1355724e-17,0.00040998642,1.1912375e-13,True
+Cereal (Malt-O-Meal Crispy Rice),3,3,0.0,0.0,0.0,1.0,True
+"Empanada, Mexican turnover, filled with meat and vegetables",3,3,0.0,5.5472515e-30,2.7248148e-28,1.0,True
+"Pastry, made with bean or lotus seed paste filling, baked",3,3,1.38918e-35,8.163541e-30,1.9294598e-26,1.0,True
+"Roll, garlic",3,3,4e-45,2.765115e-30,4.8698145e-33,1.0,True
+"Beans, string, yellow, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,1.6023725e-22,1.0663266e-09,2.1761358e-13,1.0,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, fat added in cooking, NS as to type of fat",3,3,2.3882884e-26,2.7585934e-15,3.608999e-18,1.0,True
+"Chicken or turkey a la king with vegetables excluding carrorts, broccoli, and dark-green leafy; no potatoes, cream, white, or soup-based sauce",3,3,1.296728e-33,2.9512367e-18,7.635593e-17,1.0,True
+"Veal stew with potatoes and vegetables excluding carrots, broccoli, and/or dark-green leafy; tomato-based sauce",3,3,9.1918615e-23,9.666038e-13,2.1634696e-07,0.99999976,True
+"Turnover, guava",3,3,0.0,2.3411514e-38,2.16e-43,1.0,True
+"Plum, cooked or canned, in light syrup",2,2,3.7978216e-09,4.1146272e-08,0.999828,0.0001720153,True
+"Cookie, chocolate wafer",3,3,0.0,1.0510658e-30,1.2253446e-34,1.0,True
+"Perch, coated, baked or broiled, made without fat",3,3,2.5164925e-16,1.7310371e-12,2.7566185e-07,0.99999976,True
+"Lambsquarter, cooked, made with margarine",3,3,4.5138593e-15,1.13861316e-10,1.30752e-13,1.0,True
+"Duck, coated, fried",3,3,8.0158665e-14,1.4977003e-14,0.2140442,0.78595585,True
+"Broccoli, cooked, NS as to form, with mushroom sauce",3,3,2.047193e-21,7.577825e-12,4.9647847e-10,1.0,True
+Nutrition bar (Clif Bar),3,3,5.113693e-11,4.062638e-15,3.5608306e-13,1.0,True
+"Pigeon peas, cooked, from canned, NS as to fat added in cooking",3,3,1.9965253e-26,5.587041e-18,1.6122071e-22,1.0,True
+"Potato chips, ruffled, cheese flavored",3,3,7.1396475e-31,1.613897e-10,4.1061768e-12,1.0,True
+"Turkey, light or dark meat, smoked, skin not eaten",2,2,1.07318235e-24,1.0347424e-31,1.0,1.071534e-16,True
+"Snack bar, oatmeal",3,3,2.1601644e-36,5.0222515e-26,2.6815807e-26,1.0,True
+"Oatmeal, instant, plain, made with water, fat added in cooking",3,3,5.587341e-25,5.4053154e-13,2.5675074e-12,1.0,True
+"Croaker, baked or broiled, fat not added in cooking",2,2,7.6475e-06,5.8670275e-15,0.9999924,2.061818e-09,True
+"Frankfurter or hot dog sandwich, with chili, on whole grain white bun",3,3,0.0,7.71523e-25,3.4549392e-27,1.0,True
+"Cabbage, fresh, pickled, Japanese style",2,2,2.7191458e-09,5.841859e-11,1.0,2.7839803e-08,True
+Cornmeal beverage with chocolate milk,3,3,1.4415503e-22,3.0667175e-18,4.0081103e-17,1.0,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with oil",3,3,6.784046e-15,1.3608545e-08,3.7921466e-06,0.9999962,True
+"Carrots, cooked, NS as to form, with cheese sauce",3,3,3.301714e-32,5.825616e-14,1.2672664e-15,1.0,True
+"Chicken rice soup, Puerto Rican style",3,3,8.3917783e-19,1.095485e-09,3.0281022e-09,1.0,True
+"Starchy vegetables, NFS, Puerto Rican style",2,2,1.4940726e-05,2.4614116e-07,0.987721,0.012263827,True
+"Ice cream bar or stick, not chocolate covered or cake covered",3,3,5.180746e-26,3.1706086e-14,2.9921198e-14,1.0,True
+"Trout, coated, baked or broiled, made with oil",3,3,3.0202013e-23,4.4932885e-18,8.940431e-12,1.0,True
+"Tuna, fresh, baked or broiled, fat not added in cooking",2,2,6.44979e-07,2.3942156e-19,0.9999994,4.070579e-11,True
+"Rice, with broccoli, cheese sauce, frozen side dish",3,3,3.8307617e-37,2.7468976e-21,1.8008588e-24,1.0,True
+"Raspberries, red, raw",0,0,0.99980086,2.2181913e-13,0.00019920859,1.7081099e-09,True
+"Cake or cupcake, white, without icing or filling",3,3,0.0,1.2015407e-31,6.842735e-37,1.0,True
+"Pie, individual size or tart, NFS",3,3,0.0,1.4767673e-28,2.025479e-31,1.0,True
+"Cake, Boston cream pie",3,3,0.0,2.2025682e-36,3.6659146e-34,1.0,True
+"Burrito with chicken, beans, and sour cream",3,3,0.0,3.8776948e-28,1.9182869e-29,1.0,True
+"Squash, winter type, baked, no fat added in cooking, sugar added in cooking",2,2,5.155954e-09,5.6182403e-10,0.99999905,1.0015641e-06,True
+"Plum sauce, Asian style",3,3,1.1207723e-25,3.380984e-10,0.0006389134,0.9993611,True
+"Nutritional drink or shake, ready-to-drink (Boost)",3,3,0.0,0.0,0.0,1.0,True
+"Gravy, beef or meat, home recipe",3,3,2.2117596e-31,4.6727626e-14,1.3566626e-21,1.0,True
+"Peppers, red, cooked, fat added in cooking, NS as to type of fat",3,3,8.910813e-26,5.6022535e-12,2.1799828e-13,1.0,True
+"Cress, cooked, from fresh, made with butter",3,3,3.356118e-15,6.826895e-11,2.894722e-15,1.0,True
+"Coffee, Cappuccino, with non-dairy milk",3,3,3.37761e-27,3.383395e-30,1.0807663e-24,1.0,True
+"Lettuce, cooked, fat added in cooking",3,3,1.5183533e-28,2.6410365e-13,6.1715377e-19,1.0,True
+"Fruit mixture, dried",2,0,0.945444,3.221882e-08,0.054552916,2.9978366e-06,False
+"Rice pudding made with coconut milk, Puerto Rican style",3,3,4.7169196e-06,0.00011573307,1.4823435e-06,0.99987805,True
+"Bread, French or Vienna",3,3,1.0378564e-33,1.6576073e-22,5.9624196e-23,1.0,True
+"Chicken a la king with rice, frozen meal",3,3,3.589259e-39,6.501444e-23,3.1719022e-22,1.0,True
+"Broccoli raab, cooked, made with butter",3,3,2.1684238e-18,1.5049365e-11,6.188899e-16,1.0,True
+"Rice, fried, with chicken",3,3,5.1903e-41,2.2798843e-20,1.05845094e-19,1.0,True
+"Coffee, instant, pre-lightened and pre-sweetened with low calorie sweetener, reconstituted",3,3,2.0112259e-10,5.2467044e-08,2.4280129e-12,1.0,True
+"Radishes, pickled, Hawaiian style",3,2,1.2028238e-18,6.1958554e-09,0.957273,0.04272705,False
+Banana whip,2,3,0.008033781,3.5396354e-07,0.005654127,0.98631173,False
+Taquito or flauta with chicken and cheese,3,3,0.0,7.0934354e-33,1.5273565e-37,1.0,True
+"Prune juice, 100%",0,0,1.0,5.4824152e-15,1.3251199e-09,1.2434156e-13,True
+"Pretzels, soft, from frozen, coated or flavored",3,3,2.1e-43,9.331019e-24,3.3406216e-24,1.0,True
+"Kohlrabi, cooked, NS as to fat added in cooking",3,3,2.7307988e-20,2.2114806e-09,1.8233156e-11,1.0,True
+"Almonds, chocolate covered",3,3,2.918106e-10,5.0134705e-09,1.16265525e-07,0.9999999,True
+Crab salad,3,3,3.185224e-17,8.069343e-11,0.00048802805,0.99951196,True
+"Raspberries, frozen, unsweetened",0,0,0.9992052,8.909396e-13,0.0007949085,5.3008495e-09,True
+"Bread, native, water, Puerto Rican style",3,3,2.3862365e-36,4.905727e-25,4.984276e-24,1.0,True
+Queso Chihuahua,2,2,2.6270078e-19,3.6537988e-11,0.9999852,1.4807354e-05,True
+"Pasta with sauce, meatless, school lunch",3,3,1.949007e-23,7.179447e-14,9.64573e-12,1.0,True
+"Grits, with cheese, NS as to fat added in cooking",3,3,7.3044273e-28,1.1756922e-16,4.565731e-13,1.0,True
+Beef goulash,3,3,5.817936e-22,1.4143503e-09,0.22242744,0.7775725,True
+"Rum, hot buttered",3,3,3.8240395e-25,1.404682e-12,3.697291e-18,1.0,True
+Honey,1,3,2.5474633e-12,0.00024061238,0.023660176,0.9760992,False
+"Cookie, peanut butter",3,3,4.8262e-41,4.776452e-22,2.588267e-23,1.0,True
+"Beef vegetable soup, home recipe, Mexican style",3,3,2.5488376e-32,5.5280314e-14,5.203851e-11,1.0,True
+Soy milk,3,3,8.904268e-08,2.935517e-18,8.2201097e-13,0.9999999,True
+"Rice, brown, with dark green vegetables and tomatoes and/or tomato-based sauce, fat not added in cooking",3,3,1.1282177e-19,1.1729227e-13,2.4044257e-06,0.9999976,True
+"Energy drink, sugar free (No Fear)",3,3,1.6194884e-35,0.0,0.0,1.0,True
+"Egg omelet or scrambled egg, with potatoes and/or onions, fat not added in cooking ",3,3,2.7886927e-16,1.6494862e-10,1.9557328e-07,0.99999976,True
+"Beets, cooked, from frozen, made with butter",3,3,1.6208041e-21,2.271407e-09,7.822954e-11,1.0,True
+Lemon-butter sauce,3,3,7.42108e-17,0.0007399656,1.2956608e-09,0.99926,True
+"Ice cream sundae, chocolate or fudge topping, with whipped cream",3,3,1.263967e-33,2.4607056e-22,1.7448672e-23,1.0,True
+Hunan beef,3,3,4.247825e-38,6.184459e-17,7.704652e-15,1.0,True
+"Pizza, with meat other than pepperoni, from school lunch, thin crust",3,3,1e-45,1.5172286e-30,3.9172087e-30,1.0,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from frozen, made with oil",3,3,5.183786e-18,2.905956e-10,1.163592e-06,0.9999988,True
+"Infant formula, powder, made with baby water (Gerber Good Start Soy)",3,3,4.44e-43,1.95667e-33,9.5e-44,1.0,True
+"Pretzels, soft, from school lunch",3,3,1.1998742e-15,2.225115e-11,7.2759887e-10,1.0,True
+"Parsnips, cooked, NS as to fat added in cooking",3,3,2.8611402e-22,2.2169506e-12,3.2743383e-14,1.0,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, NS as to form, fat not added in cooking",2,2,4.276712e-13,3.3252064e-11,0.9937097,0.0062902984,True
+"Vegetable soup, Spanish style, stew type",3,3,6.5175296e-32,1.8167866e-14,2.9291086e-10,1.0,True
+"Cabbage, red, cooked, fat not added in cooking",2,2,1.5366625e-08,6.522041e-14,1.0,5.480498e-09,True
+"Mushrooms, cooked, from canned, made with butter",3,3,3.0130474e-26,2.1603769e-13,1.0165448e-06,0.9999989,True
+Beef sausage with cheese,3,3,4.6501953e-21,5.534222e-06,7.545115e-07,0.9999937,True
+"Peach, frozen, unsweetened",0,0,0.99996364,1.6584666e-19,3.6404865e-05,2.3620106e-13,True
+"Bread, French or Vienna, whole wheat",3,3,1.1562942e-18,2.6371146e-21,4.2903955e-15,1.0,True
+"Tuna casserole with vegetables and mushroom sauce, no noodles",3,3,1.7729846e-26,7.643487e-18,2.9941095e-12,1.0,True
+"Cream of wheat, instant, made with non-dairy milk, fat added in cooking",3,3,0.0,0.0,0.0,1.0,True
+"Vegetable combinations, excluding carrots, broccoli, and dark-green leafy; cooked, with cheese sauce",3,3,1.8440025e-30,3.228175e-15,1.5877985e-16,1.0,True
+"Apricots, baby food, junior",2,2,2.5802962e-12,9.959519e-26,1.0,2.8662657e-13,True
+Haddock cake or patty,3,3,6.050014e-17,5.5407887e-11,2.4044966e-06,0.9999976,True
+"Peach, spiced",2,2,1.1861348e-05,2.803522e-06,0.9943394,0.0056459443,True
+Macaroni or noodles with cheese and tomato,3,3,5.831e-42,4.0194314e-29,1.21042665e-27,1.0,True
+"Papaya, cooked or canned, in sugar or syrup",2,2,0.014196743,7.3528407e-13,0.98580325,2.445065e-09,True
+Taquito or flauta with meat,3,3,0.0,7.5995604e-32,1.540069e-38,1.0,True
+"Sweet potato, boiled, fat added in cooking, NS as to type of fat",3,3,2.097798e-27,1.8442215e-14,4.0785637e-18,1.0,True
+"Taro leaves, cooked, NS as to fat added in cooking",3,3,2.0637415e-17,1.2100607e-14,8.3604013e-19,1.0,True
+"Tomatoes, from canned, stewed",3,3,1.374398e-15,2.9512537e-10,0.00021378294,0.9997862,True
+"Chocolate milk, made from dry mix with whole milk (Nesquik)",3,3,1.0288065e-07,1.0986306e-09,4.977119e-06,0.9999949,True
+"Pumpkin, cooked, from frozen, made with oil",2,2,1.469194e-09,1.7392414e-06,0.9984701,0.0015280963,True
+"Soy milk, nonfat, chocolate",3,3,2.9246255e-14,1.9465807e-27,3.3726294e-26,1.0,True
+"Bread, reduced calorie and/or high fiber, white or NFS",3,3,7.19774e-36,3.341496e-27,5.7407824e-25,1.0,True
+"Tomato and vegetable juice, 100%",2,2,1.1608255e-09,5.813312e-13,0.99998903,1.1020947e-05,True
+"Sweet bread dough, filled with meat, steamed",3,3,1.7371831e-38,1.1258321e-23,7.958715e-24,1.0,True
+"Yogurt, NS as to type of milk or flavor",0,0,0.9999814,1.605036e-07,1.6262859e-06,1.6812872e-05,True
+"Strawberry beverage powder, dry mix, not reconstituted",3,3,7.6049605e-23,8.7229867e-16,2.5600918e-25,1.0,True
+"Potato, mashed, from dry mix, made with milk, with gravy",3,3,3.3383797e-24,3.9529992e-13,7.31884e-15,1.0,True
+Cheese sauce made with lowfat cheese,3,3,7.4035376e-28,1.3464682e-12,1.4148205e-10,1.0,True
+Lobster salad,3,3,1.399058e-17,1.8189678e-10,0.0064640627,0.993536,True
+"Bologna, made from any kind of meat, reduced fat and reduced sodium",3,3,1.7573687e-27,1.6248105e-12,7.271636e-09,1.0,True
+"Infant formula, liquid concentrate, made with water, NFS (Enfamil ProSobee)",3,3,1.5091526e-38,2.9828957e-32,1.75148e-40,1.0,True
+"Sweet potato tots, school",3,3,6.223929e-11,6.3116026e-08,2.4964347e-05,0.99997497,True
+"Peanut butter and jelly sandwich, with regular peanut butter, reduced sugar jelly, on white bread",3,3,1.376125e-29,3.8540897e-18,2.2193723e-18,1.0,True
+"Beans, string, green, cooked, NS as to form, NS as to fat added in cooking",3,3,6.3154626e-25,4.942576e-12,1.00461165e-14,1.0,True
+"Infant formula, NS as to form (Similac Advance Organic)",3,3,2.52045e-40,9.9783785e-34,8.8e-44,1.0,True
+"Turnip, pickled",2,2,1.8240728e-10,2.200719e-07,0.9978916,0.002108175,True
+"Crab, cooked, NS as to cooking method",2,2,3.3796638e-17,3.3124373e-32,1.0,1.2357057e-17,True
+"Coffee, Cappuccino, nonfat",0,0,0.99769104,1.1818891e-08,2.303738e-05,0.0022859043,True
+Spanish rice with ground beef,3,3,4e-45,3.1399719e-24,1.1366852e-23,1.0,True
+"Pork stew, no potatoes, tomato-based sauce, Mexican style",3,3,7.214139e-26,2.5884084e-15,0.002460286,0.99753976,True
+"Chicken thigh, fried, coated, prepared skinless, coating eaten, from raw",3,3,9.529205e-19,3.704398e-10,8.836829e-05,0.99991167,True
+Recaito,0,0,0.99944156,2.0661843e-13,0.0005584432,1.6923857e-10,True
+"Corn, yellow and white, cooked, from frozen, made with butter",3,3,2.809605e-28,1.1323308e-13,1.4911143e-17,1.0,True
+Salmon salad,3,3,5.6269e-29,2.4303872e-14,7.946738e-15,1.0,True
+"Beef, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; mushroom sauce",3,3,1.8698882e-35,1.8575432e-23,2.6452871e-20,1.0,True
+Chimichanga with meat,3,3,0.0,8.2172284e-35,4.296e-42,1.0,True
+M&M's Pretzel Chocolate Candies,3,3,0.0,5.87059e-29,3.5032134e-31,1.0,True
+"Coffee, cafe con leche",0,0,0.68750924,1.0386084e-05,0.00078373455,0.3116966,True
+"Mixed vegetables, cooked, from frozen, made with margarine",3,3,1.2865282e-19,4.062257e-12,7.039991e-11,1.0,True
+"Corn, creamed, baby food, junior",2,2,1.9198568e-10,7.088404e-10,0.99740714,0.0025928493,True
+"Onion dip, yogurt based",3,3,1.7170675e-32,1.0667836e-14,2.8430433e-17,1.0,True
+"Strudel, cherry",3,3,7.060893e-36,1.1732836e-28,4.725034e-24,1.0,True
+"Beans, string, cooked, from canned, NS as to color, fat not added in cooking",2,2,2.7758033e-20,5.2294787e-16,1.0,9.20094e-10,True
+Taro chips,3,3,2.2901816e-21,7.875975e-09,5.7981697e-06,0.99999416,True
+"Carrots and peas, baby food, strained",2,2,2.0404514e-07,4.370747e-14,0.99999976,8.8042516e-09,True
+Beef pot pie,3,3,2.2581553e-38,3.1463594e-26,4.3787e-25,1.0,True
+Beef with tomato-based sauce,2,2,3.1803357e-29,4.0632168e-20,1.0,1.1461817e-08,True
+"Cookie, cone shell, ice cream type, wafer or cake",3,3,1.5180874e-35,1.7700909e-20,9.369148e-24,1.0,True
+"Hot chocolate / Cocoa, ready to drink, made with nonfat milk and whipped cream",3,3,0.0044380073,1.8531355e-07,1.3835469e-05,0.995548,True
+"Mayonnaise-type salad dressing, light",3,3,8.878805e-21,1.4344231e-09,4.1127493e-10,1.0,True
+"Green beans and potatoes, baby food, strained",2,2,7.6317854e-05,1.0113337e-06,0.9937261,0.0061965445,True
+"Cabbage, creamed",3,3,8.214629e-27,1.4903993e-15,2.3269572e-17,1.0,True
+"Cake or cupcake, banana, with icing or filling",3,3,0.0,1.0463223e-28,3.7718304e-30,1.0,True
+"Turkey, prepackaged or deli, luncheon meat, reduced sodium",3,3,3.98219e-11,1.3534671e-07,0.0014944059,0.9985055,True
+"Apricot, dried, cooked, NS as to sweetened or unsweetened; sweetened, NS as to type of sweetener",0,0,0.99664295,2.4037647e-09,0.0033557958,1.3572812e-06,True
+"Egg omelet or scrambled egg, with cheese, meat, and tomatoes, fat not added in cooking",3,3,5.3724284e-34,1.8549795e-16,8.409348e-17,1.0,True
+"Dasheen, fried",3,3,9.640461e-21,2.510381e-08,1.2719767e-07,0.9999999,True
+"Seaweed, cooked, made with oil",3,3,1.3285968e-17,2.2500425e-08,3.621991e-05,0.99996376,True
+"Fried chickpeas with bacon, Puerto Rican style",3,3,3.3283857e-31,2.256739e-19,5.4111043e-16,1.0,True
+"Seafood garden salad with seafood, lettuce, tomato and/or carrots, other vegetables, no dressing",2,2,4.7847997e-12,1.37510585e-11,0.9864151,0.01358489,True
+"Pancakes, from school, NFS",3,3,1e-45,0.0,2e-44,1.0,True
+"Turkey tetrazzini, frozen meal",3,3,8.914632e-31,4.9732515e-20,8.711315e-16,1.0,True
+"Lasagna with cheese and sauce, diet frozen meal",3,3,0.0,2.2006023e-29,1.6364651e-30,1.0,True
+"Steak, NS as to type of meat, cooked, NS as to fat eaten",2,2,2.406176e-18,6.370461e-25,1.0,1.3574842e-12,True
+"Garbanzo bean or chickpea soup, home recipe, canned or ready-to-serve",3,3,1.3715047e-19,3.6554364e-11,1.8837045e-05,0.99998116,True
+"Bread, vegetable, toasted",3,3,0.0,2.956008e-37,1.47128e-40,1.0,True
+"Egg substitute, omelet, scrambled, or fried, with cheese and meat, fat not added in cooking",3,2,6.1631305e-09,1.5486737e-10,0.96705174,0.032948226,False
+"Beans, string, yellow, from canned, creamed or with cheese sauce",3,3,8.300109e-29,2.364543e-14,1.4438346e-14,1.0,True
+"Sugar substitute, liquid, NFS",3,3,0.0,0.0,3e-45,1.0,True
+"Light ice cream, sundae, soft serve, fruit topping, with whipped cream",3,3,2.196653e-28,8.177313e-16,3.2389574e-14,1.0,True
+Buffalo chicken submarine sandwich with cheese,3,3,0.0,1.909399e-32,4.7954602e-36,1.0,True
+"Rice meal fritter, Puerto Rican style",3,3,3.8700154e-33,2.9950485e-18,6.328086e-14,1.0,True
+"Green banana, fried",3,3,0.0002304099,6.422136e-07,0.017946756,0.98182213,True
+"Beef enchilada, chili gravy, rice, refried beans, frozen meal",3,3,0.0,4.9600473e-27,4.5953305e-28,1.0,True
+"Pretzels, hard, plain, salted",3,3,4.078e-42,2.0715507e-24,5.714579e-27,1.0,True
+"Coffee, NS as to brewed or instant, decaffeinated",0,0,0.99989784,3.7637455e-13,2.720366e-10,0.00010217049,True
+"Corn, white, cooked, from frozen, made with oil",3,3,2.1032039e-16,1.0794126e-07,5.641841e-05,0.9999435,True
+Gelatin dessert with sour cream,3,3,6.471934e-12,7.1477524e-07,0.00075449975,0.9992448,True
+"Onion soup, made from dry mix",3,3,0.0002716084,2.0835145e-08,3.9331528e-05,0.9996891,True
+"Squash, spaghetti, cooked, NS as to fat added in cooking",3,3,5.2251217e-18,9.775748e-07,5.7131844e-10,0.99999905,True
+"Potato tots, frozen, baked",3,3,6.979975e-25,1.2743759e-11,1.1272313e-11,1.0,True
+"Roll, hard, NS as to major flour",3,3,3.881738e-34,9.250652e-21,3.5541935e-21,1.0,True
+"Rice, brown, with vegetables, cheese and/or cream based sauce, fat not added in cooking",3,3,1.2704442e-26,5.688183e-17,3.902281e-14,1.0,True
+"Doughnut, NS as to cake or yeast",3,3,0.0,3.5161616e-30,4.2046136e-33,1.0,True
+"Turnip greens, cooked, from frozen, made with margarine",3,3,1.1490873e-18,1.746916e-11,2.0591454e-13,1.0,True
+"Pretzels, NFS",3,3,4.078e-42,2.0715507e-24,5.714579e-27,1.0,True
+"Vegetable combination, including carrots, broccoli, and/or dark-green leafy; cooked, no sauce, made with oil",2,3,8.916813e-17,1.2208181e-07,0.00039183366,0.9996081,False
+"Popcorn, ready-to-eat packaged, cheese flavored",3,3,3.4284223e-25,2.9198486e-14,9.0178975e-11,1.0,True
+"Milk chocolate candy, with almonds",3,3,2.1881555e-21,1.9351177e-14,1.5331293e-15,1.0,True
+"Haddock with chopped spinach, diet frozen meal",3,3,2.655122e-09,1.1679051e-08,0.00035135617,0.9996486,True
+"Luffa, cooked, fat added in cooking",2,2,4.558046e-09,1.0568309e-07,0.9987758,0.0012241498,True
+Crab cake,3,2,1.04487626e-13,1.0651763e-12,0.9964128,0.0035872518,False
+"Coleslaw dressing, light",3,3,0.0,4.6456883e-20,0.0,1.0,True
+"Coffee, Iced Latte, decaffeinated",0,0,0.9994943,8.07131e-07,7.2921415e-07,0.00050415256,True
+"Pork roast, loin, cooked, lean only eaten",2,2,2.5666738e-13,9.249553e-22,1.0,3.9301898e-13,True
+"Frankfurter or hot dog sandwich, beef and pork, plain, on white bread",3,3,1.1e-44,1.3100753e-22,6.3255202e-24,1.0,True
+"Sausage, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3,3,0.0,1.2154735e-29,1.9830407e-30,1.0,True
+"Pickles, mixed",3,2,3.4496825e-33,5.4488536e-10,0.99879396,0.0012060348,False
+"Minestrone soup, home recipe",3,3,8.8972674e-32,1.5956974e-17,1.6933825e-18,1.0,True
+"Pork chop, broiled or baked, NS as to fat eaten",2,2,1.5289651e-11,8.836833e-22,1.0,8.815624e-14,True
+"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3,3,0.0,5.0605115e-30,2.148998e-33,1.0,True
+"Turnip greens, cooked, from frozen, NS as to fat added in cooking",3,3,5.5213617e-25,2.4155905e-13,1.371583e-19,1.0,True
+Cereal (General Mills Honey Kix),3,3,1e-45,1.31229e-40,1e-45,1.0,True
+"Muffin, whole grain",3,3,4.08e-43,1.6681155e-25,9.810172e-24,1.0,True
+"Chicken, meatless, NFS",3,3,8.820692e-22,1.6773374e-21,1.1552197e-06,0.9999988,True
+"Cheeseburger, 1 miniature patty, on miniature bun, from school",3,3,6.807059e-16,5.5150832e-11,0.0019517293,0.9980483,True
+"Cookie, butter or sugar, with chocolate icing or filling",3,3,0.0,5.256208e-35,4.58e-43,1.0,True
+MARS Almond Bar,3,3,3.7026242e-34,1.5909654e-21,2.9520834e-24,1.0,True
+"French toast, plain",3,3,1.9705405e-35,3.5220253e-24,2.6713281e-20,1.0,True
+"Somen salad with noodles, lettuce, egg, fish, and pork",3,3,3.018635e-23,2.9953684e-18,1.1644217e-13,1.0,True
+"Chewing gum, regular",3,3,0.0,8.323761e-22,0.0,1.0,True
+Banana chips,3,3,0.23629622,0.0067431433,0.10292261,0.654038,True
+"Coffee, Iced Latte, nonfat",0,0,0.9985551,4.165018e-09,1.7720009e-05,0.0014271375,True
+"Ice cream bar or stick, chocolate ice cream, chocolate covered",3,3,1.1153483e-27,1.4836953e-21,3.4656003e-22,1.0,True
+"Finger Foods, Puffs, baby food",3,3,4.9181086e-34,1.2232952e-25,2.522917e-21,1.0,True
+"Chipotle dip, light",3,3,9.362729e-29,3.7691984e-15,3.9547137e-23,1.0,True
+Clams Casino,3,3,3.8048537e-29,9.698114e-21,2.0645761e-17,1.0,True
+"Vegetable oil-butter spread, tub, salted",3,3,9.357425e-33,1.26400045e-11,2.351546e-28,1.0,True
+"Corn, cooked, from canned, NS as to color, made with butter",3,3,9.029492e-31,2.0669118e-14,9.5458065e-18,1.0,True
+"Pie, blueberry, two crust",3,3,3e-45,1.866373e-22,1.7522437e-24,1.0,True
+"Turkey with gravy, dressing, potatoes, vegetable, dessert, frozen meal",3,3,2.548579e-29,1.5693411e-17,3.2440644e-14,1.0,True
+"Fruit salad, Puerto Rican style",0,0,0.9999982,4.8643425e-20,1.8317804e-06,5.5130426e-16,True
+"Milk, dry, reconstituted, NS as to fat content",0,0,0.9999356,3.5101823e-06,8.2389406e-08,6.083632e-05,True
+"Flounder, coated, fried, made with oil",3,3,1.9601623e-22,8.2988786e-13,3.6154074e-10,1.0,True
+"Chickpeas stewed with pig's feet, Puerto Rican style",3,3,2.0157075e-29,1.3286426e-13,1.3106669e-12,1.0,True
+"Potato, baked, peel eaten, with sour cream",3,3,5.633205e-17,7.4412103e-09,1.1168582e-11,1.0,True
+"Beans, string, green, cooked, from fresh, made with oil",3,3,3.09788e-14,2.83933e-07,0.0021383113,0.99786144,True
+"Infant formula, NS as to form (PediaSure)",3,3,4.67245e-40,1.70755e-40,4.6e-44,1.0,True
+"Meatballs, NS as to type of meat, with sauce",2,2,4.6612536e-10,6.113907e-11,0.9999924,7.5858597e-06,True
+"Vegetables, NS as to type, cooked, made with oil",3,3,1.947675e-15,3.848434e-08,0.0008780366,0.99912196,True
+"Chicken soup with noodles and potatoes, Puerto Rican style",3,3,1.8152656e-18,5.0155535e-10,2.1128395e-09,1.0,True
+Burrito with chicken and beans,3,3,0.0,8.37779e-29,7.569883e-30,1.0,True
+"Cabbage, green, cooked, made with butter",3,3,8.822797e-20,3.858373e-09,2.452068e-13,1.0,True
+"Swordfish, baked or broiled, fat added in cooking",2,2,4.5934727e-09,3.6209276e-14,0.9999999,1.4772027e-07,True
+"Muffin, fruit, low fat",3,3,0.0,8.669412e-31,1.6176235e-28,1.0,True
+"Infant formula, liquid concentrate, made with baby water (Store Brand)",3,3,1.30373e-40,9.771801e-34,5.6e-44,1.0,True
+"Potato, baked, peel eaten, with meat",3,3,2.126433e-19,1.2902504e-09,5.8977284e-10,1.0,True
+"Red kidney beans, canned, drained, fat not added in cooking",3,3,1.09418205e-13,5.237809e-07,9.8399716e-05,0.99990106,True
+"Applesauce with bananas, baby food, NS as to strained or junior",2,2,0.012571194,1.1954363e-07,0.98737013,5.8553993e-05,True
+Cereal (Post Bran Flakes),3,3,1.1962654e-27,1.636155e-35,7.592689e-33,1.0,True
+Cereal (Kellogg's Low Fat Granola with Raisins),3,3,0.0,0.0,0.0,1.0,True
+"Peas and onions, cooked, fat not added in cooking",2,2,6.004419e-15,1.8183725e-16,1.0,2.558552e-08,True
+Soybean curd cheese,3,2,0.039615013,0.0013410554,0.8710575,0.08798644,False
+"Cereal bar with fruit filling, baby food",3,3,0.0,1.5210355e-38,1.3613076e-36,1.0,True
+"Peanuts, sugar-coated",3,2,3.1918241e-09,6.085532e-06,0.6811246,0.3188693,False
+"Coffee creamer, powder",3,3,2.72e-43,2.7569436e-10,1.09959865e-20,1.0,True
+"Mixed cereal with applesauce and bananas, baby food, jarred",3,3,3.0635075e-37,9.74296e-40,1.0647e-41,1.0,True
+"Brussels sprouts, cooked, from fresh, made with butter",3,3,1.4611888e-21,5.37874e-13,3.607996e-17,1.0,True
+"Light ice cream, NS as to flavor",3,3,5.662934e-26,1.3929839e-14,6.864564e-15,1.0,True
+Energy drink (Vault),3,3,9.189328e-14,9.0974125e-20,1.7351027e-24,1.0,True
+"Veal chop, broiled, lean only eaten",2,2,1.4302578e-19,2.849824e-21,1.0,3.3227254e-10,True
+"Congee, with meat, poultry, and/or seafood",3,3,3.5581676e-14,1.6110221e-09,3.3896839e-09,1.0,True
+"Beef, pot roast, braised or boiled, lean and fat eaten",2,2,8.8712394e-17,1.005372e-19,1.0,1.3397506e-09,True
+"Chicken ""wings"", boneless, with hot sauce, from other sources",3,3,0.0,1.2425805e-29,1.3453377e-32,1.0,True
+"Lemon, raw",0,0,0.96501356,2.3168272e-09,0.03496604,2.0339046e-05,True
+"Sauerkraut, cooked, NS as to fat added in cooking",3,3,1.1173913e-29,5.3227924e-13,5.7150283e-15,1.0,True
+"Fruit flavored drink, powdered, not reconstituted",3,3,2.126e-42,6.3955464e-12,8.0235313e-22,1.0,True
+"Biscuit, whole wheat",3,3,6.7262137e-23,1.472519e-13,8.5682706e-07,0.99999917,True
+Pine nuts,0,0,0.9999802,7.779972e-08,3.8777503e-06,1.5718675e-05,True
+"Tomato with corn and okra, cooked, made with butter",3,3,3.811292e-35,3.2959414e-15,2.0160416e-18,1.0,True
+Energy drink (SoBe Energize Energy Juice Drink),3,3,1.8524532e-18,3.8748175e-25,3.706897e-39,1.0,True
+"Cheese, Mozzarella, whole milk",2,2,5.7181373e-16,7.860363e-12,0.9999913,8.67292e-06,True
+"Rice, white, with carrots and tomatoes and/or tomato-based sauce, fat added in cooking",3,3,2.303e-41,2.9789748e-23,3.790312e-20,1.0,True
+"Cream of wheat, regular or quick, made with milk, NS as to fat added in cooking",3,3,2.0063886e-27,4.187918e-18,1.4280683e-16,1.0,True
+"Carrots, cooked, from frozen, glazed",3,3,1.0573361e-36,4.6371835e-15,3.9575377e-22,1.0,True
+"Corn, cooked, from fresh, NS as to color, NS as to fat added in cooking",3,3,4.8098016e-30,3.5703093e-14,9.6731793e-20,1.0,True
+"Chicken thigh, fried, coated, skin / coating eaten, from pre-cooked",3,3,6.554585e-23,7.672464e-11,4.058757e-08,1.0,True
+"Mullet, steamed or poached",2,2,3.8444913e-08,5.4238938e-17,1.0,1.3349137e-10,True
+"Doughnut, chocolate, raised or yeast",3,3,0.0,3.1057367e-38,1.993e-42,1.0,True
+"Cake or cupcake, carrot, with icing or filling",3,3,0.0,6.4423636e-31,8.417303e-33,1.0,True
+"Peanut butter, lower sodium and lower sugar",2,2,6.788294e-14,6.6301042e-15,0.9999999,6.93005e-08,True
+"Egg omelet or scrambled egg, made with oil",3,3,0.26486352,0.000476731,0.054164875,0.6804949,True
+"Ray, coated, baked or broiled, fat added in cooking",3,3,4.3672674e-20,6.0670675e-15,5.989639e-08,0.9999999,True
+"Bread, white with whole wheat swirl",3,3,1.9555845e-29,2.9773462e-18,2.1455588e-17,1.0,True
+"Tongue, smoked, cured, or pickled, cooked",2,2,1.1444965e-21,2.3199518e-20,1.0,5.1562415e-10,True
+"Carrots, canned, low sodium, NS as to fat added in cooking",3,3,2.3639418e-19,3.292808e-10,4.721678e-11,1.0,True
+"Infant formula, liquid concentrate, made with tap water (Gerber Good Start Gentle)",3,3,1.1150363e-37,1.0767198e-34,1.18e-42,1.0,True
+"Turnip greens, cooked, NS as to form, made with butter",3,3,4.19404e-26,6.897839e-14,3.3703503e-20,1.0,True
+"Strawberries, frozen, unsweetened",0,0,0.98238236,5.0614166e-12,0.01761753,1.14065585e-07,True
+Cereal (Post Shredded Wheat),3,0,0.99855393,8.732811e-09,2.4104537e-07,0.0014458704,False
+"Vegetable combination, excluding carrots, broccoli, and dark-green leafy; cooked, no sauce, NS as to fat added in cooking",3,3,1.3603937e-29,6.3118856e-14,1.8993583e-18,1.0,True
+"Frozen mocha coffee drink, with whipped cream ",3,3,3.408139e-05,4.6088147e-09,7.998615e-10,0.9999659,True
+"Artichoke, cooked, from fresh, made with butter",3,3,4.7512156e-20,4.0443637e-10,3.5249116e-11,1.0,True
+"Light ice cream, sundae, soft serve, not fruit or chocolate topping, without whipped cream",3,3,1.8481412e-06,4.442679e-06,8.9991794e-05,0.9999037,True
+"Vegetarian vegetable soup, prepared with water",3,3,2.8774068e-23,1.4147654e-10,0.002090985,0.99790907,True
+"Shellfish mixture and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",3,3,6.8870773e-20,1.9546596e-14,2.658128e-13,1.0,True
+"Frankfurter or hot dog sandwich, chicken and/or turkey, plain, on multigrain bun",3,3,1.7624885e-30,1.9926473e-16,3.853175e-12,1.0,True
+"Tomatoes, NS as to form, broiled",2,2,8.852168e-18,1.4914129e-13,0.9999846,1.5403079e-05,True
+"Spinach, cooked, from canned, made with oil",3,3,1.3443875e-05,0.00031039695,0.1560905,0.8435856,True
+Wasabi paste,3,3,4.654e-42,4.4818042e-17,6.857098e-17,1.0,True
+"Lasagna, meatless",3,3,0.0,1.508358e-31,5.2280345e-34,1.0,True
+"Squash, winter type, soup, home recipe, canned, or ready-to-serve",3,3,2.1357524e-18,2.5056456e-06,3.4632216e-05,0.9999628,True
+"Rice, white, cooked, fat added in cooking, NS as to type of fat",3,3,6.545e-42,3.345803e-22,8.826747e-25,1.0,True
+Meringues,3,3,9.694431e-06,2.699871e-11,5.9579282e-08,0.9999902,True
+"Breadsticks, soft, NFS",3,3,0.0,6.46328e-33,2.9514685e-36,1.0,True
+TWIX Peanut Butter Cookie Bars,3,3,2.0913855e-31,3.3905995e-18,9.23164e-16,1.0,True
+"Corn, yellow and white, cooked, from canned, fat not added in cooking",2,2,2.497252e-12,2.4670797e-07,0.961716,0.038283788,True
+"Barracuda, baked or broiled, fat not added in cooking",2,2,1.0221395e-08,5.138514e-16,1.0,2.8516574e-09,True
+"Bread, high protein, toasted",3,3,7.153708e-18,1.8824913e-13,5.4660177e-13,1.0,True
+"Squash, winter type, raw",0,0,0.9999902,1.8155624e-15,9.7733455e-06,2.9051756e-11,True
+"Pasta, whole grain, with tomato-based sauce and added vegetables, ready-to-heat",3,3,8.36408e-39,3.835668e-18,3.317432e-17,1.0,True
+"Apple-prune juice, baby food",0,0,0.9999697,1.7551206e-09,3.0293482e-05,1.1320035e-08,True
+Cereal (General Mills Cheerios Berry Burst),3,3,6e-45,8.32e-43,1.314e-42,1.0,True
+Cereal (Malt-O-Meal Coco-Roos),3,3,0.0,0.0,0.0,1.0,True
+"Grits, with cheese, fat not added in cooking",3,3,1.4064253e-26,2.2519943e-17,9.502052e-13,1.0,True
+"Mushroom with chicken soup, cream of, prepared with milk",3,3,2.8950276e-25,1.2732747e-12,1.1054534e-12,1.0,True
+"Chamnamul, cooked, NS as to fat added in cooking",3,3,9.24575e-13,3.496005e-08,6.381485e-08,0.9999999,True
+"Vegetarian burger or patty, meatless, no bun",3,3,1.5662885e-35,1.9105735e-38,1.891443e-31,1.0,True
+"Egg omelet or scrambled egg, with cheese, made with oil",3,3,0.018648084,0.0002757308,0.08031881,0.9007573,True
+"Beets, cooked, from canned, made with oil",3,3,1.8206267e-17,5.622758e-06,3.6674395e-05,0.9999577,True
+"Halibut, coated, baked or broiled, made without fat",3,3,1.3046202e-11,1.3100861e-11,1.2629256e-05,0.99998736,True
+"Carrots, canned, low sodium, made with margarine",3,3,7.62395e-17,5.057494e-10,1.1023862e-07,0.9999999,True
+"Anchovy, cooked, NS as to cooking method",2,2,2.9951407e-25,3.6157964e-31,1.0,1.1868727e-15,True
+Greens with ham or pork,3,3,2.198885e-19,3.7720972e-11,2.4380589e-09,1.0,True
+Kimchi,2,2,7.517526e-18,1.1030843e-15,1.0,3.9492805e-11,True
+"Egg, yolk only, cooked, NS as to fat added in cooking",0,0,0.99519724,9.099084e-11,0.0018459022,0.0029569268,True
+"Broccoli soup, prepared with water, home recipe, canned, or ready-to-serve",3,3,7.010967e-22,2.0891564e-09,9.372172e-12,1.0,True
+"Cod, coated, baked or broiled, made without fat",3,3,6.965453e-13,8.9695246e-14,2.9487234e-07,0.99999976,True
+"Leek, cooked, NS as to fat added in cooking",3,3,6.7709257e-26,3.800877e-15,1.7548605e-15,1.0,True
+"Chocolate milk, made from reduced sugar mix with reduced fat milk",3,3,3.8151395e-08,1.314536e-06,0.00017832174,0.9998204,True
+"Fudge, chocolate, with nuts",3,3,1.7444569e-28,2.1939403e-20,4.016536e-21,1.0,True
+"Light ice cream, fudgesicle",3,3,1.7857723e-19,3.7810896e-17,1.1941566e-16,1.0,True
+"Pumpkin seeds, unsalted",0,0,0.99749374,2.1843914e-06,0.0025031376,9.319012e-07,True
+Fruit flavored drink,3,3,4.4252064e-13,2.1190028e-06,6.8982776e-16,0.99999785,True
+"Potato salad with egg, made with mayonnaise",3,3,9.894515e-38,4.360447e-18,2.0078157e-24,1.0,True
+"Mustard greens, cooked, from fresh, NS as to fat added in cooking",3,3,6.7420747e-29,3.943528e-12,3.2388181e-16,1.0,True
+"Ground beef, raw",2,2,7.012008e-05,1.4380502e-08,0.99929595,0.0006338214,True
+"Chicken and vegetables au gratin with rice, diet frozen entree",3,3,4.193276e-24,3.1828707e-15,1.0555757e-12,1.0,True
+Flavored rice mixture,3,3,1e-45,9.297322e-27,5.8091753e-28,1.0,True
+"Chicken thigh, fried, coated, skin / coating eaten, from restaurant",3,3,7.503478e-28,5.9418535e-14,1.8104554e-11,1.0,True
+"Potato skins, NFS",3,3,3.529177e-26,3.762924e-13,3.4807067e-13,1.0,True
+"Coffee creamer, powder, flavored",3,3,4.26496e-40,5.105847e-15,9.9070405e-18,1.0,True
+"Pork chop, broiled or baked, lean only eaten",2,2,1.381461e-11,2.815422e-16,0.99999464,5.337504e-06,True
+"Yogurt, frozen, chocolate-coated",3,3,8.832594e-28,4.758276e-18,5.407706e-21,1.0,True
+Cereal (Quaker Corn Bran Crunch),3,3,1.2093649e-35,1.7741073e-19,4.004925e-20,1.0,True
+"Egg substitute, omelet, scrambled, or fried, made with cooking spray",3,3,2.1979658e-06,1.0202543e-07,3.6646236e-06,0.99999404,True
+"Pistachio nuts, salted",2,2,5.0222734e-05,8.226428e-05,0.92963046,0.07023698,True
+"Pretzels, soft, ready-to-eat, topped with cheese",3,3,7.001615e-29,1.2188227e-19,5.348899e-16,1.0,True
+"Beans, lima, immature, cooked, NS as to form, made with butter",3,3,1.304567e-26,1.0334151e-12,1.8411787e-13,1.0,True
+Carob chips,3,3,1.7021067e-11,2.4486753e-06,0.00010388823,0.99989367,True
+"Potato, mashed, from dry mix, made with milk",3,3,6.445459e-24,1.7170054e-13,5.010836e-15,1.0,True
+Puerto Rican sandwich,3,3,0.0,1.1460771e-30,4.6652553e-29,1.0,True
+"Jelly, sugar free, all flavors",2,2,5.038796e-25,4.640835e-20,1.0,2.123867e-08,True
+"Potato, hash brown, from fresh, with cheese",3,3,7.1846566e-28,2.4100391e-14,3.1556085e-15,1.0,True
+"Beans, lima, immature, from canned, creamed or with cheese sauce",3,3,6.2448147e-25,1.4873096e-15,1.5139318e-13,1.0,True
+"Beans, string, yellow, cooked, from canned, fat not added in cooking",2,2,1.9122192e-14,3.011344e-15,1.0,1.1091511e-09,True
+"Cheese spread, American or Cheddar cheese base",3,3,1.2805603e-13,1.6303932e-06,0.0038558133,0.99614257,True
+Paella with seafood,3,3,8.6916e-38,4.060141e-24,1.8946652e-22,1.0,True
+"Tuna salad, made with mayonnaise",3,3,3.7715475e-35,3.5746354e-18,5.781788e-19,1.0,True
+"Greens, cooked, NS as to form, made with oil",2,2,9.8848194e-11,6.7744253e-07,0.9924353,0.0075639472,True
+"Rice, white, with carrots and dark green vegetables, fat not added in cooking",3,3,2.283912e-22,8.544913e-15,2.634416e-09,1.0,True
+Frozen mocha coffee drink,3,3,0.014110753,2.253075e-08,2.237188e-08,0.9858892,True
+"Asparagus, cooked, from fresh, fat not added in cooking",2,2,2.7273557e-18,2.2403576e-25,1.0,2.955393e-11,True
+"Bacon cheeseburger, 1 medium patty, with condiments, on white bun",3,3,0.0,5.1602308e-27,3.0203306e-29,1.0,True
+"Millet, fat added in cooking",3,3,2.3621605e-16,2.6881818e-11,4.0634276e-08,1.0,True
+"Snowpea, cooked, from frozen, fat added in cooking, NS as to type of fat",3,3,1.6540973e-13,6.135166e-07,0.0002010422,0.99979836,True
+"Veal, NS as to cut, cooked, NS as to fat eaten",2,2,2.8247048e-20,2.9536649e-21,1.0,2.3448493e-10,True
+"Huckleberries, raw",0,0,0.99958414,5.8189884e-13,0.00041587537,5.353452e-08,True
+"Crumpet, toasted",3,3,6.736758e-35,1.119954e-25,2.1976908e-22,1.0,True
+"Cabbage salad or coleslaw, made with creamy dressing",3,3,1.464477e-34,5.0068567e-17,6.8755203e-22,1.0,True
+"Sorbet, fruit, citrus flavor",3,2,1.09776605e-14,1.01544474e-16,0.9991037,0.0008962815,False
+"Breadfruit, cooked, NS as to fat added in cooking",3,3,1.822203e-26,2.0652556e-15,1.0704753e-17,1.0,True
+"Ripe plantain, boiled",2,0,0.9992632,9.355144e-12,0.0005781502,0.00015865444,False
+"Beans, string, cooked, from fresh, NS as to color, NS as to fat added in cooking",3,3,6.1443575e-27,9.375055e-15,6.6781236e-17,1.0,True
+"Yogurt, frozen, flavors other than chocolate, nonfat milk, with low-calorie sweetener",3,3,1.8695683e-08,1.6375803e-11,0.00010847003,0.9998915,True
+"Potato chips, popped, flavored",3,3,4.5492514e-19,5.581298e-07,3.5463445e-06,0.99999595,True
+Cereal (Kellogg's All-Bran Complete Wheat Flakes),3,3,0.0,0.0,0.0,1.0,True
+"Goose egg, cooked",2,2,0.0596443,1.1362333e-08,0.9393925,0.000963155,True
+"Clam chowder, New England, NS as to prepared with water or milk",3,3,2.9864676e-19,2.0034572e-14,2.6606478e-10,1.0,True
+"Chicken wing, fried, coated, from restaurant",3,3,3.5931247e-30,1.187829e-14,3.6622078e-13,1.0,True
+"Carrots, cooked, from fresh, fat added in cooking, NS as to type of fat",3,3,9.113253e-27,8.065306e-12,3.99544e-17,1.0,True
+"Chicken thigh, stewed, skin not eaten",2,2,8.054508e-13,9.130632e-16,0.99999976,1.974833e-07,True
+Reese's Crispy Crunchy Bar,3,3,1.2149675e-30,6.5094826e-16,7.864739e-15,1.0,True
+"Oatmeal, regular or quick, made with milk, NS as to fat added in cooking",3,3,5.3772485e-18,4.7961587e-12,1.25865e-07,0.9999999,True
+"White pizza, cheese, thick crust",3,3,3.1e-44,1.5244821e-28,2.094315e-24,1.0,True
+"Mushrooms, pickled",2,2,9.7461445e-08,4.8075883e-15,0.9919619,0.008038049,True
+"Infant formula, powder, made with baby water (Store Brand Soy)",3,3,2.74181e-40,1.2616355e-33,4.82e-43,1.0,True
+"Roll, sweet, with fruit, frosted",3,3,0.0,2.8685196e-35,4.905e-39,1.0,True
+"Yogurt, Greek, NS as to type of milk, flavors other than fruit",3,3,0.10088767,8.5983e-08,0.0054808888,0.8936314,True
+"Frankfurter or hot dog, beef and pork, reduced fat or light",3,3,3.607821e-19,1.3559488e-06,4.0853996e-07,0.9999982,True
+"Mixed nuts, with peanuts, unsalted",2,0,0.6454512,9.030636e-06,0.35172004,0.0028197728,False
+"Pork, tenderloin, breaded, fried",3,3,3.2876192e-18,2.5076406e-12,5.088534e-06,0.9999949,True
+"Squid, pickled",0,2,2.1294055e-10,8.277657e-22,1.0,8.062107e-12,False
+"Corn chips, plain",3,3,4.1039696e-31,3.3362248e-08,5.277021e-06,0.99999464,True
+"Potato, boiled, from fresh, peel eaten, fat added in cooking, NS as to type of fat",3,3,1.4402223e-19,3.5281286e-10,3.4534828e-16,1.0,True
+"Beef, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",3,3,0.0,4.6596373e-28,2.0830296e-27,1.0,True
+Rice with beans and chicken,3,3,8.126141e-28,1.5709875e-18,1.3934586e-19,1.0,True
+"Peas and carrots, NS as to form, creamed",3,3,2.075418e-32,2.0442531e-19,3.4331818e-20,1.0,True
+"Frankfurter or hot dog sandwich, with meatless chili, on white bun",3,3,0.0,4.3162165e-23,7.213153e-23,1.0,True
+"Egg omelet or scrambled egg, with tomatoes, fat added in cooking",3,3,2.7011614e-32,2.3499285e-16,4.9383394e-18,1.0,True
+"Peas, green, cooked, from fresh, made with oil",3,3,5.281438e-14,1.5910797e-11,2.1755842e-09,1.0,True
+Swedish meatballs with cream or white sauce,3,3,1.2431837e-24,5.460606e-11,1.6438245e-06,0.99999833,True
+"Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",3,3,8.692e-42,1.8135376e-23,8.746458e-28,1.0,True
+"Coconut candy, no chocolate covering",3,3,2.813696e-07,0.18178682,0.01811569,0.8000972,True
+"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",3,3,0.0,2.2661726e-30,1.2712688e-33,1.0,True
+"Coffee, Iced Cafe Mocha, decaffeinated",3,3,0.22434302,2.65361e-07,2.3043819e-07,0.7756565,True
+"Apple-raspberry, baby food, NS as to strained or junior",2,2,1.0763829e-06,4.5707077e-14,0.9999989,3.213715e-08,True
+"Bread, barley",3,3,1.6045281e-34,1.5790473e-22,4.1566324e-23,1.0,True
+"Oatmeal, instant, maple flavored, fat added in cooking",3,3,7.179725e-28,1.3924869e-18,9.823523e-20,1.0,True
+"Kale, cooked, from canned, fat not added in cooking",2,2,5.351769e-06,3.547886e-09,0.99992275,7.187606e-05,True
+"Ice cream, no sugar added, NS as to flavor",3,3,1.0877361e-23,6.970887e-14,3.972439e-13,1.0,True
+"Sweet potato, baked, peel not eaten, NS as to fat added in cooking",3,3,3.4914207e-23,3.692168e-14,6.806818e-19,1.0,True
+"Lo mein, meatless",3,3,6.399947e-36,6.439012e-19,1.3712438e-14,1.0,True
+Rabbit stew with potatoes and vegetables,3,3,5.0256604e-15,3.0909525e-10,0.25631464,0.74368536,True
+"Beef, stew meat, cooked, NS as to fat eaten",2,2,4.897309e-19,2.0009047e-23,1.0,2.462784e-12,True
+"Pork, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",3,3,1.02577464e-22,1.10956356e-13,1.3897946e-13,1.0,True
+"Lime juice, 100%, NS as to form",0,0,0.9997243,8.9432314e-13,0.0002752714,3.227286e-07,True
+"Turnip greens with roots, cooked, NS as to form, fat added in cooking",3,3,7.129494e-24,6.2269406e-13,7.9053294e-19,1.0,True
+"Light ice cream, sundae, soft serve, not fruit or chocolate topping, with whipped cream",3,3,2.8755e-34,4.9312826e-17,2.1014037e-18,1.0,True
+"Fried ripe plantain, Puerto Rican style",3,3,5.408252e-10,8.959071e-12,3.604477e-08,1.0,True
+"Asparagus, cooked, from fresh, fat added in cooking, NS as to type of fat",3,3,9.170826e-28,4.300089e-18,2.8915486e-19,1.0,True
+"Cucumber pickles, relish",3,2,9.065867e-33,6.9072975e-10,0.9990551,0.0009449256,False
+"Pasta, whole grain, with cream sauce and meat, home recipe",3,3,2.805059e-23,2.1306997e-14,7.593718e-07,0.9999993,True
+"Halibut, smoked",2,2,3.2498223e-15,6.700656e-32,1.0,3.2878366e-18,True
+"Grilled cheese sandwich, Cheddar cheese, on wheat bread",3,3,6.837099e-37,6.119371e-21,9.507178e-14,1.0,True
+"Corned beef, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",3,3,2.8788154e-26,1.5650369e-13,6.390497e-16,1.0,True
+"Apricot, cooked or canned, drained solids",2,2,1.248257e-05,4.05316e-07,0.9983748,0.0016122628,True
+"Cauliflower, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,5.8594215e-23,1.3392083e-10,1.5051702e-13,1.0,True
+"Egg, extra cheese, and extra sausage, on bun",3,3,5.0487997e-33,4.2870025e-18,2.4952756e-13,1.0,True
+"French or Catalina dressing, fat free",3,3,2.06795e-40,1.21207215e-26,3.887476e-25,1.0,True
+"Christophine, cooked, fat not added in cooking",2,3,1.399341e-13,3.728872e-17,0.00044047268,0.99955946,False
+"Topping, chocolate flavored hazelnut spread",3,3,5.291157e-18,8.490643e-13,4.2148282e-10,1.0,True
+"Tannier fritters, Puerto Rican style",3,3,1.4761046e-18,1.9149458e-10,5.355636e-09,1.0,True
+"Pork and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",3,3,1.2061484e-21,4.3754956e-17,4.124029e-14,1.0,True
+"Rice cereal, baby food, dry, instant",3,3,0.0,0.0,0.0,1.0,True
+"Spinach quiche, meatless",3,3,9.1467487e-29,5.9096806e-16,5.3883846e-12,1.0,True
+"Tomato noodle soup, canned, prepared with milk",3,3,1.1091816e-30,1.082039e-20,6.6356514e-21,1.0,True
+"Espresso coffee beans, chocolate-covered",3,3,5.0101086e-23,8.2393036e-14,3.07451e-16,1.0,True
+"Crackers, corn",3,3,1.7211163e-29,2.6716278e-13,2.7221215e-11,1.0,True
+"Escarole, cooked, made with butter",3,3,3.1795665e-32,8.777453e-18,9.6484315e-24,1.0,True
+"Bread, pumpkin",3,3,0.0,1.9273343e-33,1.6481952e-35,1.0,True
+"Ice cream pie, no crust",3,3,2.0126515e-27,1.8193804e-14,8.647716e-15,1.0,True
+"Goat head, cooked",2,2,3.513666e-15,1.4972709e-15,0.9999995,4.85115e-07,True
+"Sopa Seca de Fideo, Mexican style, made with dry noodles, home recipe",3,3,0.0,1.9315738e-33,8.21542e-40,1.0,True
+"Pears, baby food, strained",2,2,0.0022556458,4.881037e-09,0.9977412,3.077623e-06,True
+"Beef, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; soy-based sauce",3,3,1.0377627e-23,1.6454008e-11,4.6298666e-11,1.0,True
+"Pork, NS as to cut, cooked, lean only eaten",2,2,1.381461e-11,2.815422e-16,0.99999464,5.337504e-06,True
+"White beans, dry, cooked, made with animal fat or meat drippings",3,3,1.4646787e-16,1.1138176e-06,2.599559e-08,0.9999988,True
+"Rice, fried, with shrimp",3,3,6.597161e-36,1.000029e-18,4.026028e-15,1.0,True
+"Coffee, decaffeinated, pre-lightened",3,3,1.5830448e-09,9.124367e-05,5.5048672e-09,0.9999087,True
+"Corn, yellow and white, cooked, from canned, made with oil",3,3,7.166515e-21,1.4710997e-08,4.4615546e-05,0.9999554,True
+"Soft taco with meat, beans, and sour cream",3,3,0.0,1.6811679e-31,1.5067317e-37,1.0,True
+"Frankfurter or hot dog sandwich, with chili, on multigrain bread",3,3,1e-45,6.6154824e-21,1.0288241e-21,1.0,True
+"Egg white, omelet, scrambled, or fried, with meat and vegetables, fat not added in cooking",3,3,6.6613715e-16,4.7278053e-11,4.0137995e-05,0.9999598,True
+Nutritional powder mix (Isopure),3,3,1.4643761e-27,4.9595086e-38,4.4970976e-32,1.0,True
+"Muffin, carrot",3,3,0.0,1.836223e-32,3.924872e-35,1.0,True
+"Corn, dried, cooked",3,3,1.3009137e-27,1.1700276e-13,1.9782052e-15,1.0,True
+"Tomato and okra, cooked, fat not added in cooking",2,2,1.1945554e-12,4.3420436e-16,0.9999924,7.602575e-06,True
+"Peppers, hot, cooked, from frozen, fat added in cooking, NS as to type of fat",3,3,1.7175985e-24,6.229376e-13,3.5895197e-16,1.0,True
+"Chicken stick, baby food",3,3,1.0000619e-18,9.3321496e-08,2.8085919e-05,0.99997187,True
+Energy drink (NOS),3,3,0.0,0.0,0.0,1.0,True
+"Water, bottled, flavored (Propel Water)",3,3,6.3802636e-32,1.3242058e-27,7e-45,1.0,True
+"Cream of wheat, instant, made with milk, NS as to fat added in cooking",3,3,9.970984e-29,1.02941236e-22,2.3837435e-21,1.0,True
+"Beans, lima, immature, cooked, from fresh, NS as to fat added in cooking",3,3,1.7242679e-17,4.045172e-11,9.840864e-10,1.0,True
+"Chicken leg, drumstick and thigh, baked, coated, skin / coating eaten",3,2,1.4343873e-14,4.5088155e-09,0.70456046,0.29543957,False
+Chicken or turkey pot pie,3,3,0.0,1.335137e-26,6.308357e-26,1.0,True
+Taquito or flauta with chicken,3,3,0.0,7.0934354e-33,1.5273565e-37,1.0,True
+"Biscuit, baking powder or buttermilk type, made from home recipe",3,3,0.0,3.331714e-31,1.904031e-32,1.0,True
+Cereal (General Mills Wheaties),3,3,1.7e-44,1e-45,2.54e-43,1.0,True
+"Gravy or sauce, made with soy sauce, stock or bouillon, cornstarch",3,3,8.281964e-15,3.1696313e-08,4.422047e-05,0.9999558,True
+"Salami, made from any type of meat, reduced fat",3,2,5.276316e-20,7.7303906e-20,0.99999976,2.0638343e-07,False
+"Pie, rhubarb, one crust",3,3,0.0,5.908475e-27,3.2885582e-29,1.0,True
+Cereal (Malt-O-Meal Blueberry Muffin Tops),3,3,0.0,1e-43,1.37e-43,1.0,True
+"Cheese sandwich, reduced fat Cheddar cheese, on white bread, no spread",3,3,2.8345353e-37,1.0784564e-23,9.5706425e-17,1.0,True
+"Beans, lima, immature, cooked, from canned, NS as to fat added in cooking",3,3,1.7092696e-26,9.39058e-13,9.225981e-14,1.0,True
+"Bean and ham soup, chunky style, canned or ready-to-serve",3,3,2.8316855e-22,2.868899e-10,0.00032672845,0.99967325,True
+Hard sauce,3,3,1e-44,3.6399464e-12,1.2550599e-17,1.0,True
+"Fruit juice drink, light",3,3,7.265342e-39,3.2529763e-09,5.5610717e-28,1.0,True
+"Pie, cherry, fried pie",3,3,0.0,1.4767673e-28,2.025479e-31,1.0,True
+"Frankfurter or hot dog sandwich, reduced fat or light, plain, on white bun",3,3,8.460653e-36,3.8228366e-21,4.5532263e-20,1.0,True
+TWIX Caramel Cookie Bars,3,3,0.0,8.3029864e-30,8.5512823e-35,1.0,True
+"Pistachio nuts, lightly salted",2,2,0.0730966,0.00080609834,0.82991195,0.096185386,True
+"Cod, coated, baked or broiled, made with margarine",3,3,4.0893444e-18,3.0553357e-16,4.569399e-09,1.0,True
+"Chicken and rice dinner, baby food, strained",2,2,4.1093316e-15,3.6871593e-11,0.9999989,1.1170579e-06,True
+"Hamburger, 1 small patty, plain, on white bun",3,3,8.454955e-33,3.1501418e-19,9.4702204e-18,1.0,True
+"Bitter melon leaves, horseradish leaves, jute leaves, or radish leaves, cooked, NS as to fat added in cooking",3,3,5.9171214e-17,2.6176776e-12,5.417117e-15,1.0,True
+Oyster-flavored sauce,3,3,2.4747947e-32,5.0890747e-19,1.9855873e-08,1.0,True
+"Oysters, cooked, NS as to cooking method",3,3,1.3693511e-18,4.3376996e-11,7.923185e-06,0.99999213,True
+"French toast, whole grain, reduced fat",3,3,3.4593138e-29,3.3742998e-20,1.865177e-15,1.0,True
+"Ocean perch, cooked, NS as to cooking method",2,2,0.09399621,2.136755e-06,0.9058418,0.00015977738,True
+"Asparagus soup, cream of, prepared with milk",3,3,4.4491594e-35,7.3460366e-20,7.59627e-21,1.0,True
+Veal Marsala,3,3,2.2211323e-12,2.5379884e-11,3.8624657e-06,0.9999962,True
+"Black bean soup, home recipe, canned or ready-to-serve",3,3,1.0116963e-28,9.26333e-10,0.2745594,0.7254406,True
+"Milk, calcium fortified, fat free (skim)",0,0,0.9999939,2.499586e-09,2.3263501e-08,6.0532984e-06,True
+"Tea, hot, hibiscus ",0,3,0.12485649,1.0191109e-15,7.900659e-15,0.8751435,False
+"Pizza, cheese, from frozen, thick crust",3,3,0.0,1.4618518e-29,3.58287e-24,1.0,True
+"Bread, barley, toasted",3,3,2.6494391e-34,7.853888e-22,2.2769267e-22,1.0,True
+"Cream of wheat, NS as to regular, quick, or instant, fat added in cooking",3,3,1.4955401e-25,1.1352881e-11,5.766931e-15,1.0,True
+"Adobo, with noodles",3,3,6.921763e-20,3.1412153e-10,0.014530793,0.9854693,True
+"Turkey, dark meat, roasted, skin eaten",2,2,1.8810681e-15,1.810872e-20,1.0,8.6896976e-11,True
+"Double cheeseburger, 2 medium patties, plain, on bun, from fast food / restaurant",3,3,3.4882054e-27,2.1099364e-16,1.062604e-11,1.0,True
+"Sandwich, NFS",3,3,0.0,4.2175096e-27,1.2900712e-27,1.0,True
+Cereal (Kellogg's Special K Fruit & Yogurt),3,3,2.0764e-41,1e-44,8e-45,1.0,True
+"Chewing gum, NFS",3,3,0.0,1.1690304e-13,0.0,1.0,True
+"Onions, cooked, NS as to form, made with oil",3,3,3.1396177e-09,2.1158296e-05,0.0077289976,0.99224985,True
+"Potato chips, NFS",3,3,1.8991087e-29,1.5500909e-13,9.313646e-13,1.0,True
+Taquito or flauta with egg,3,3,0.0,2.9102422e-32,2.240086e-31,1.0,True
+"Pork chop, breaded or floured, fried, lean only eaten",3,3,2.149078e-19,2.0886942e-12,3.8532755e-07,0.99999964,True
+"Beans, string, cooked, from fresh, NS as to color, fat not added in cooking",2,2,4.462082e-14,6.415873e-17,1.0,2.8073005e-10,True
+"Topping, chocolate, thick, fudge type",3,3,1.1447802e-36,5.471495e-20,6.4748406e-22,1.0,True
+"Bread, rye, reduced calorie and/or high fiber",3,3,8.6118704e-29,2.7560543e-18,1.2133122e-18,1.0,True
+Flavored pasta,3,3,2.21e-42,1.5025207e-27,4.300641e-28,1.0,True
+"Crackers, cheese, whole grain",3,3,6.383896e-23,6.434514e-13,1.0007958e-11,1.0,True
+"Pie, coconut cream, individual size or tart",3,3,3.079203e-39,1.8864273e-24,6.550086e-23,1.0,True
+"Shrimp and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce",3,3,1.9305876e-17,7.870724e-12,6.553225e-11,1.0,True
+"Pasta, whole grain, with tomato-based sauce and poultry, ready-to-heat",3,3,1.155947e-39,4.1001453e-22,9.586674e-19,1.0,True
+"Vegetable combinations, including carrots, broccoli, and/or dark-green leafy; cooked, with pasta",3,3,3.8003695e-30,1.1042236e-18,2.0169848e-21,1.0,True
+"Cucumber salad, made with sour cream dressing",3,3,1.6142096e-19,3.8375827e-08,5.4560235e-11,1.0,True
+Ham or pork and potatoes with cheese sauce,3,3,2.2379903e-14,4.3388056e-08,0.0052395146,0.99476045,True
+"Sweet potato leaves, squash leaves, pumpkin leaves, chrysanthemum leaves, bean leaves, or swamp cabbage, cooked, NS as to fat added in cooking",3,3,4.5292967e-30,1.1589455e-15,1.6536654e-23,1.0,True
+"Cereal or granola bar, with rice cereal",3,3,0.0,3.021503e-31,3.3466473e-36,1.0,True
+"Salt pork, cooked",2,2,2.6033005e-15,9.740048e-07,0.99988616,0.000112931484,True
+"Peppers, red, cooked, made with margarine",3,3,3.8536453e-19,3.5640642e-09,2.944825e-07,0.99999964,True
+"Ham, pork and chicken, canned luncheon meat, chopped, minced, pressed, spiced, reduced fat and reduced sodium",3,2,4.1003286e-14,1.6203264e-09,0.99140877,0.008591247,False
+Alfredo sauce with poultry,3,3,1.5732217e-08,0.039665934,0.065317824,0.89501625,True
+"Plum, raw",0,0,1.0,4.1671204e-26,2.2225234e-11,5.304857e-19,True
+"Biscuit, baking powder or buttermilk type, made from refrigerated dough, lowfat",3,3,1.8e-44,1.3573497e-23,1.4634219e-26,1.0,True
+"Cucumber, raw",0,0,0.99932575,3.96693e-13,0.0006743111,1.2998879e-08,True
+"Beet greens, cooked, fat added in cooking, NS as to type of fat",3,3,1.9033727e-22,4.8055123e-14,4.4219135e-22,1.0,True
+"Corn with peppers, red or green, cooked, made with margarine",3,3,1.3938765e-22,7.96106e-11,8.027637e-10,1.0,True
+"Pasta with tomato-based sauce, seafood, and added vegetables, home recipe",3,3,1.9811786e-32,3.476371e-26,2.4438751e-23,1.0,True
+"Dandelion greens, raw",0,0,0.999997,2.2646461e-14,2.9597606e-06,1.273152e-08,True
+"Pepper, hot chili, raw",0,0,0.99999964,1.9623363e-17,4.0898652e-07,1.0658528e-12,True
+"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3,3,3.28e-42,7.4265397e-19,7.25247e-23,1.0,True
+"Potato, mashed, from fresh, NFS",3,3,3.4567479e-18,1.3714009e-10,1.8738179e-10,1.0,True
+"Beans, string, cooked, from canned, NS as to color, made with butter",3,3,1.6605354e-32,1.1341881e-12,1.029879e-16,1.0,True
+"Beef steak, NS as to cooking method, NS as to fat eaten",2,2,2.406176e-18,6.370461e-25,1.0,1.3574842e-12,True
+"Bean dip, made with refried beans",3,3,2.592664e-15,5.0801887e-08,2.5482422e-07,0.99999964,True
+"Coconut water, sweetened",2,2,0.2524819,5.491804e-07,0.74751186,5.711894e-06,True
+"Chickpeas, dry, cooked, fat added in cooking, NS as to type of fat",3,3,1.192605e-19,2.440153e-09,1.6802569e-06,0.99999833,True
+"Rice, white, with peas and carrots, fat not added in cooking",3,3,1.8689925e-24,1.5857575e-13,2.5627676e-07,0.99999976,True
+"Pizza with beans and vegetables, thick crust",3,3,0.0,1.3997476e-38,1.9751e-41,1.0,True
+"Frankfurter or hot dog sandwich, with chili, on wheat bread",3,3,0.0,1.01571307e-22,1.3655548e-24,1.0,True
+"Beans, string, green, cooked, from fresh, with mushroom sauce",3,3,3.246722e-24,1.699987e-15,1.2099413e-13,1.0,True
+"Papaya, dried",0,0,0.8885785,3.4587483e-08,0.11132629,9.525284e-05,True
+"Gordita, sope, or chalupa with meat and sour cream",3,3,0.0,9.596018e-31,2.2980976e-36,1.0,True
+"Sandwich spread, meat substitute type",3,3,2.2328666e-25,7.833544e-29,4.784312e-22,1.0,True
+"Potato, boiled, from fresh, peel not eaten, made with butter",3,3,4.5471013e-19,6.54677e-10,9.42546e-10,1.0,True
+Chicken or turkey with mushroom sauce,2,2,1.8046014e-11,2.2550273e-07,0.52832764,0.4716721,True
+"Frankfurter or hot dog sandwich, beef, plain, on white bread",3,3,1.7075756e-33,2.1157214e-14,3.8527618e-13,1.0,True
+"Shrimp, steamed or boiled",2,2,1.0829087e-08,3.8288886e-16,1.0,7.0858954e-09,True
+Hot pepper sauce,2,2,1.4399509e-24,1.982926e-07,0.92925614,0.07074365,True
+"Meatballs, Swedish, in sauce, with noodles, frozen meal",3,3,1.5583648e-24,2.7220278e-15,2.6332907e-09,1.0,True
+"Squash, summer, NS as to form, creamed",3,3,2.00701e-18,3.738155e-11,7.7003275e-09,1.0,True
+Blood sausage,3,3,9.52734e-18,1.503302e-09,4.4327757e-05,0.99995565,True
+Oyster fritter,3,3,3.759451e-18,6.2178912e-12,0.0026871073,0.99731284,True
+Artichoke salad in oil,2,2,0.11792119,2.2746182e-05,0.8793869,0.002669075,True
+"Fruit peel, candied",3,3,3.5379072e-36,3.2461325e-10,0.0005375699,0.9994624,True
+"Ocean perch, baked or broiled, fat added in cooking",2,2,0.09399621,2.136755e-06,0.9058418,0.00015977738,True
+"Coffee, bottled/canned",3,3,3.2553832e-36,2.567722e-24,1.8774092e-33,1.0,True
+"Mushrooms, cooked, from frozen, made with oil",3,3,1.3964592e-12,1.804553e-07,6.4905485e-05,0.9999349,True
+"Rice cereal with apples, baby food, dry, instant",3,3,1.5414274e-05,5.4268973e-08,5.3629506e-10,0.9999845,True
+"Dewberries, raw",0,0,0.9999546,1.0856449e-12,4.5445173e-05,3.90583e-09,True
+Alfredo sauce with meat,3,3,6.792428e-10,0.023251794,0.013765403,0.96298283,True
+"Hamburger, 1 medium patty, plain, on whole wheat bun",3,3,1.848023e-23,4.8502282e-14,2.915022e-08,1.0,True
+"Banana, raw",0,0,0.9998641,3.3091632e-14,0.00013589386,4.409383e-09,True
+"Pinto, calico, or red Mexican beans, canned, drained, fat not added in cooking",3,3,1.7486018e-13,1.2500332e-05,3.4690245e-05,0.9999528,True
+"Peas, green, canned, low sodium, fat added in cooking, NS as to type of fat",3,3,3.1562106e-15,8.200782e-14,1.5641178e-13,1.0,True
+"Tuna noodle casserole with vegetables, cream or white sauce",3,3,4.3299472e-26,5.720245e-21,1.7249078e-15,1.0,True
+"Venison/deer, NFS",2,2,2.729229e-18,2.2277703e-25,1.0,1.1038459e-12,True
+"Ocean perch, coated, fried",3,3,1.4499726e-21,4.627937e-13,1.6348407e-10,1.0,True
+"Egg omelet or scrambled egg, made with margarine",3,3,0.027044194,0.0001298164,0.015549566,0.95727646,True
+"Sushi, topped with shrimp",2,2,9.502758e-13,6.4034826e-11,0.99517065,0.0048293252,True
+"Horchata beverage, made with milk",3,3,7.121979e-20,2.4357692e-15,1.6615377e-12,1.0,True
+Vodka and tonic,3,3,1.9387e-41,3.742514e-26,2.6601746e-26,1.0,True
+"Turkey, ground",2,2,2.4137157e-17,1.0814297e-25,1.0,6.152584e-14,True
+Cereal (General Mills 25% Less Sugar Cocoa Puffs),3,3,0.0,0.0,0.0,1.0,True
+"Salmon, smoked",2,2,1.7477882e-06,1.2079575e-12,0.9999931,5.1424563e-06,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from canned, NS as to fat added in cooking",3,3,9.544865e-32,9.465669e-18,1.1795318e-18,1.0,True
+"Peas and corn, cooked, made with butter",3,3,1.1890292e-31,1.9360526e-17,1.0269492e-22,1.0,True
+"Peas, green, cooked, from fresh, made with butter",3,3,7.758679e-24,3.2281611e-16,3.2335807e-18,1.0,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from canned, made with margarine",3,3,5.1913644e-28,2.9863812e-16,2.6427347e-13,1.0,True
+"Banana, red, fried",3,3,0.0002304099,6.422136e-07,0.017946756,0.98182213,True
+"Veal cutlet or steak, NS as to cooking method, NS as to fat eaten",2,2,7.1270883e-20,4.5827755e-22,1.0,1.1451012e-10,True
+"Infant formula, NS as to form (Enfamil Enfagrow Toddler Transitions Soy)",3,3,8.5e-42,3.295441e-36,1.508e-42,1.0,True
+"Pork steak or cutlet, NS as to cooking method, lean and fat eaten",2,2,1.7701522e-12,3.2119836e-16,1.0,7.380923e-09,True
+"Ray, baked or broiled, fat added in cooking",2,2,1.9631482e-06,5.149404e-12,0.99999774,3.3492685e-07,True
+"Ice cream cone, no topping, NS as to flavor",3,3,2.4875508e-34,2.6882176e-26,1.751798e-29,1.0,True
+"Corn, white, NS as to form, cream style",3,3,3.859692e-16,9.796933e-09,0.000745416,0.9992545,True
+"Hot chocolate / Cocoa, made with no sugar added dry mix and low fat milk",3,3,3.6479705e-07,2.2119772e-07,1.883077e-06,0.9999975,True
+Chicken or turkey and noodles with soy-based sauce,3,3,2.5585174e-27,3.0176602e-13,5.883189e-14,1.0,True
+"Sweet potato, baked, peel not eaten, made with butter",3,3,2.502446e-19,5.2739415e-13,5.9769732e-15,1.0,True
+"Kale, cooked, from canned, NS as to fat added in cooking",3,3,5.0693103e-27,3.044552e-15,1.4319228e-19,1.0,True
+"Nutritional powder mix, protein, soy based, NFS",3,3,1.1884839e-17,0.00016819907,0.065757744,0.93407404,True
+"Beans, string, green, with spaetzel, cooked, fat added in cooking",3,3,5.351448e-32,9.557219e-24,1.6094437e-20,1.0,True
+"Croissant sandwich with sausage, egg, and cheese",3,3,1.5757626e-36,6.31251e-22,1.2776826e-16,1.0,True
+"Collards, cooked, from frozen, fat not added in cooking",2,2,7.031322e-11,4.731407e-14,1.0,4.2327173e-08,True
+"Beef, stew meat, cooked, lean only eaten",2,2,4.897309e-19,2.0009047e-23,1.0,2.462784e-12,True
+"Breadfruit, cooked, fat not added in cooking",2,2,0.023626335,1.202857e-05,0.922835,0.05352659,True
+"Turkey, thigh, cooked, skin not eaten",2,2,1.0307471e-17,8.018951e-27,1.0,6.833568e-14,True
+"Grits, regular or quick, made with milk, fat not added in cooking",3,3,4.158871e-22,1.5758132e-18,1.3247291e-15,1.0,True
+"Gumdrops, chocolate covered",3,3,2.7787922e-34,1.8078171e-17,6.1249994e-21,1.0,True
+"Rice, white, with soy-based sauce, NS as to fat added in cooking",3,3,4.33e-43,3.2388703e-22,7.288958e-26,1.0,True
+"Squash, summer, yellow or green, cooked, from frozen, fat not added in cooking",2,2,3.1065972e-06,7.758615e-11,0.9999927,4.1768485e-06,True
+"Infant formula, NS as to form (Enfamil A.R.)",3,3,1.131e-42,9.497059e-34,1.3e-43,1.0,True
+"Chicken, NS as to part, grilled with sauce, NS as to skin eaten",3,3,6.7263086e-32,1.1511359e-16,1.1916562e-06,0.9999988,True
+"Fruit juice drink, with high vitamin C",3,0,0.9857093,2.8675922e-09,5.600807e-08,0.014290683,False
+"Cookie, Lebkuchen",3,3,4.3682477e-29,2.593623e-16,5.3415682e-20,1.0,True
+"Cookie, multigrain, high fiber",3,3,3.2933373e-14,3.0349405e-08,8.741242e-06,0.9999912,True
+"Coffee, decaffeinated, pre-lightened and pre-sweetened with low calorie sweetener",3,3,2.5474647e-10,4.065428e-05,1.6434036e-09,0.99995935,True
+"Infant formula, ready-to-feed (Gerber Good Start Soy)",3,3,4.39e-43,1.9033112e-33,3.2e-43,1.0,True
+"Fish, NS as to type, coated, fried, made with butter",3,3,1.2376552e-17,1.0751978e-12,6.717495e-06,0.9999933,True
+Fruit juice drink,3,3,7.2367635e-33,1.3577751e-37,3.22e-43,1.0,True
+"Fruit juice drink, diet",3,3,1.5613468e-08,2.0732134e-14,9.583763e-16,1.0,True
+"Onions, cooked, NS as to form, fat not added in cooking",2,2,0.1091257,8.842566e-09,0.88937515,0.001499134,True
+"Onion soup, cream of, prepared with milk",3,3,2.3770566e-24,4.105607e-15,7.8375186e-14,1.0,True
+"Asian chicken or turkey garden salad, chicken and/or turkey, lettuce, fruit, nuts, no dressing",3,3,1.6634331e-24,1.361424e-18,2.5190537e-19,1.0,True
+"Peppers, hot, cooked, from fresh, fat added in cooking, NS as to type of fat",3,3,1.7175985e-24,6.229376e-13,3.5895197e-16,1.0,True
+"Spinach, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,1.1277967e-15,1.6889002e-09,2.8692467e-13,1.0,True
+"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",3,3,2.624527e-38,2.450029e-21,2.4329283e-22,1.0,True
+"Peas, cooked, from canned, with mushroom sauce",3,3,1.3303643e-32,9.737934e-20,2.39423e-16,1.0,True
+"Rice, brown, with carrots and tomatoes and/or tomato-based sauce, NS as to fat added in cooking",3,3,4.5290643e-26,3.280763e-15,2.8926267e-10,1.0,True
+"Banana, red, Guineo morado",0,0,0.9998641,3.3091632e-14,0.00013589386,4.409383e-09,True
+"Sweet potato fries, frozen, baked",3,3,6.223929e-11,6.3116026e-08,2.4964347e-05,0.99997497,True
+"Egg roll, with beef and/or pork",3,3,4.0856e-41,1.0265902e-27,8.351228e-25,1.0,True
+"Chicken breast, rotisserie, skin not eaten",2,2,6.362437e-13,2.3729019e-21,1.0,8.8918195e-10,True
+"Pork, ground or patty, cooked",2,2,2.3417696e-14,4.0372757e-20,1.0,7.999611e-12,True
+"Beef and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",3,3,8.279392e-30,1.1797965e-12,1.6200225e-13,1.0,True
+Sausage gravy,3,3,3.1206646e-23,7.933718e-14,1.406968e-10,1.0,True
+"Coffee, Iced Latte, decaffeinated, nonfat",0,0,0.99866784,7.715803e-07,2.9801914e-08,0.0013314415,True
+Cereal (Post Grape-Nuts Flakes),3,3,4.808361e-34,6.7375955e-38,1.2180929e-34,1.0,True
+"Frankfurter or hot dog sandwich, NFS, plain, on multigrain bun",3,3,1.9866144e-30,6.1042353e-15,1.0125368e-11,1.0,True
+"Corn, white, cooked, NS as to form, made with oil",3,3,2.1032039e-16,1.0794126e-07,5.641841e-05,0.9999435,True
+"Pepper, sweet, red, raw",0,0,0.99999964,4.532131e-22,3.9594238e-07,1.5869812e-15,True
+"Asparagus, NS as to form, creamed or with cheese sauce",3,3,2.1698079e-31,3.90425e-20,1.06746075e-19,1.0,True
+"Butter, whipped, tub, unsalted",1,1,1.8066182e-11,0.99996483,7.6882024e-08,3.4994202e-05,True
+"Ham, breaded or floured, fried, lean and fat eaten",2,2,1.4990894e-20,5.830171e-20,0.9999989,1.0466513e-06,True
+"Peas, green, cooked, NS as to form, fat added in cooking, NS as to type of fat",3,3,2.41057e-31,2.8659727e-19,3.4244592e-19,1.0,True
+"Frankfurter or hot dog sandwich, meat and poultry, plain, on whole wheat bread",3,3,4.193085e-31,3.0648593e-17,2.1907443e-10,1.0,True
+"Jelly, all flavors",2,2,4.022949e-08,1.0510761e-07,0.99728763,0.002712265,True
+"Beef steak, battered, fried, NS as to fat eaten",3,3,1.2878736e-19,1.0748426e-11,1.5691807e-08,1.0,True
+Yam buns; Puerto Rican style,3,3,4.562279e-30,2.2250157e-20,8.1344777e-22,1.0,True
+"Shark, coated, fried",3,3,7.005626e-20,1.4382897e-11,2.0348548e-07,0.99999976,True
+"Cactus, cooked, NS as to fat added in cooking",3,3,4.4831947e-22,1.5293379e-08,1.5869842e-12,1.0,True
+Taco or tostada with chicken and sour cream,3,3,0.0,3.2191937e-25,1.1558505e-30,1.0,True
+"Cheese, Provolone",2,2,2.8973338e-13,7.1599037e-12,0.9999949,5.1219135e-06,True
+"Beef steak, battered, fried, lean only eaten",3,3,4.1671426e-23,2.9070968e-13,1.561357e-10,1.0,True
+"Taro, baked",2,2,1.1551363e-14,5.539058e-10,0.9999193,8.0652535e-05,True
+"Egg salad, made with mayonnaise-type salad dressing",3,3,4.3012037e-07,1.9509883e-07,0.025408804,0.97459054,True
+"Fried stuffed potatoes, Puerto Rican style",3,3,8.996143e-31,8.7406076e-16,1.2211362e-18,1.0,True
+"Kefir, NS as to fat content",0,0,0.99993837,1.1416342e-08,2.1686922e-06,5.942999e-05,True
+"Sour cream, reduced fat",3,3,0.00041746264,8.793474e-05,1.3969031e-05,0.99948066,True
+"Pineapple, cooked or canned, in heavy syrup",2,2,0.0061233896,1.23200445e-08,0.9935509,0.00032570626,True
+"Beans, string, cooked, from fresh, NS as to color, made with butter",3,3,1.7419925e-25,1.1202642e-13,6.8769054e-16,1.0,True
+"Yogurt, frozen, flavors other than chocolate, whole milk",3,3,1.3512971e-09,2.3407201e-05,3.0796796e-06,0.99997354,True
+"Chili with beans, without meat",2,2,6.6621375e-19,8.2330044e-14,1.0,4.1387615e-08,True
+"Nutritional powder mix, sugar free (Carnation Instant Breakfast)",3,3,0.0,0.0,0.0,1.0,True
+"Double cheeseburger, 2 small patties, plain, on bun, from fast food / restaurant",3,3,3.1964983e-30,1.099906e-18,6.2390875e-14,1.0,True
+"Egg salad, made with light Italian dressing",2,2,1.0811948e-05,1.5572738e-07,0.8832282,0.116760924,True
+Cereal (Kellogg's Corn Flakes),3,3,2.78417e-40,0.0,0.0,1.0,True
+Butterscotch hard candy,3,3,0.0,1.00846845e-33,0.0,1.0,True
+Mai Tai,2,0,0.94749177,1.9474497e-10,0.052464873,4.3327895e-05,False
+Taco or tostada with chicken and beans,3,3,0.0,9.191218e-26,1.3956526e-31,1.0,True
+"Strawberry milk, non-dairy",3,3,1.98e-43,7.257894e-38,2.863559e-33,1.0,True
+"Vegetable soup, cream of, prepared with milk",3,3,6.5691485e-32,3.0751036e-19,3.3803273e-21,1.0,True
+"Pasta with cream sauce, home recipe",3,3,5.398237e-39,1.9704828e-25,5.5699047e-20,1.0,True
+"Chicken drumstick, rotisserie, skin not eaten",2,2,3.465267e-16,2.172531e-25,1.0,4.4867398e-13,True
+"Wrap sandwich, filled with meat, poultry, or fish, vegetables, and rice",3,3,1.924e-42,3.539977e-26,5.902432e-29,1.0,True
+"Cod, coated, fried, made with cooking spray",3,3,1.3340047e-14,1.3008702e-10,1.2077349e-07,0.9999999,True
+"Buckwheat groats, fat added in cooking",3,3,1.5410589e-14,3.9699186e-10,2.9661667e-06,0.999997,True
+"Taco or tostada with meat and beans, from fast food",3,3,4.259e-41,4.182533e-20,1.0772215e-18,1.0,True
+Sweet and sour sauce,3,3,4.9681975e-24,1.6838161e-19,1.8880842e-08,1.0,True
+Venison or deer with gravy,2,2,7.995675e-12,1.5916916e-16,0.9999999,1.14432765e-07,True
+"Egg substitute, omelet, scrambled, or fried, made with margarine",3,3,3.4721892e-15,1.5217144e-12,1.1702931e-13,1.0,True
+Fish and rice with mushroom sauce,3,3,3.5611556e-36,1.0994728e-20,7.142237e-23,1.0,True
+"Squid, baked or broiled, fat not added in cooking",2,2,0.0014404778,2.4358502e-18,0.99855953,1.722388e-10,True
+"Meat sandwich, NFS",3,3,0.0,4.2175096e-27,1.2900712e-27,1.0,True
+"Pizza with meat and fruit, thin crust",3,3,0.0,1.5805133e-35,6.634107e-36,1.0,True
+Chicken or turkey salad with nuts and/or fruits,3,3,8.3103484e-35,2.1889019e-18,1.2460494e-23,1.0,True
+"Bread, wheat or cracked wheat, toasted",3,3,2.6494391e-34,7.853888e-22,2.2769267e-22,1.0,True
+"Chocolate milk, made from dry mix with non-dairy milk",3,3,4.93e-43,4.4231e-40,7.821601e-36,1.0,True
+"Pretzels, soft, ready-to-eat, NFS",3,3,1.912841e-39,1.2778792e-21,5.6756187e-22,1.0,True
+"Applesauce, stewed apples, sweetened with low calorie sweetener",0,0,0.9623838,2.595183e-07,0.028867515,0.008748505,True
+"Turkey, baby food, junior",2,2,6.2785715e-05,9.6123116e-11,0.9998896,4.756938e-05,True
+"Orange juice, 100%, with calcium added, frozen, reconstituted",0,0,0.9999964,1.0775558e-16,3.552805e-06,2.7288788e-12,True
+"Porgy, coated, baked or broiled, fat added in cooking",3,3,4.3949318e-18,6.3651252e-15,7.0785604e-09,1.0,True
+"Infant formula, liquid concentrate, made with plain bottled water (Similac Advance)",3,3,1.64598e-39,2.5132767e-33,2.84e-43,1.0,True
+Pralines,3,3,3.524753e-32,3.059511e-16,2.5899157e-16,1.0,True
+"Pizza, cheese, whole wheat thin crust",3,3,0.0,7.6510793e-31,2.7028043e-29,1.0,True
+"Vegetable combination, excluding carrots, broccoli, and dark-green leafy; cooked, no sauce,  fat not added in cooking",2,2,1.6961005e-15,1.4451846e-14,1.0,4.5768656e-09,True
+"Roll, wheat or cracked wheat, hamburger bun",3,3,1.20277375e-32,1.9922779e-28,6.819808e-28,1.0,True
+Tequila ,3,3,2.7071636e-18,1.0684706e-20,6.7048594e-14,1.0,True
+"Fat free ice cream, NS as to flavor",3,3,2.647801e-20,2.543368e-33,1.262548e-14,1.0,True
+"Chicken thigh, fried, coated, skin / coating not eaten, from pre-cooked",2,2,1.9082548e-12,1.0155523e-12,0.9999759,2.4097486e-05,True
+"Egg white omelet, scrambled, or fried, NS as to fat added in cooking",3,3,3.2826053e-12,9.789145e-07,4.721291e-09,0.99999905,True
+Pita chips,3,3,3.379e-42,4.2862087e-22,3.3929974e-23,1.0,True
+Cereal (General Mills Chex Honey Nut),3,3,0.0,5.62e-43,3e-45,1.0,True
+"Bratwurst, with cheese",3,2,4.2854245e-10,1.2029956e-10,0.9762704,0.023729604,False
+Egg and sausage on biscuit,3,3,2.9901215e-30,2.254836e-20,1.0537567e-13,1.0,True
+"Mexican casserole made with ground beef, beans, tomato sauce, cheese, taco seasonings, and corn chips",3,3,1.51e-43,5.148076e-21,4.8627063e-25,1.0,True
+"Potato salad, made with mayonnaise-type salad dressing",3,3,2.6082783e-23,1.4102443e-12,1.4564948e-17,1.0,True
+"Pastry, Chinese, made with rice flour",3,3,1.1493579e-16,4.777604e-09,0.001404768,0.9985952,True
+"Apricot, cooked or canned, unsweetened, water pack",0,2,0.25780582,2.3331065e-06,0.7409597,0.0012321271,False
+"Cake, fruit cake, light or dark, holiday type cake",3,3,1.628e-42,1.4036732e-22,1.8772278e-28,1.0,True
+"Turnip greens, cooked, from canned, made with butter",3,3,1.377904e-24,1.3375433e-11,2.1767375e-17,1.0,True
+Applesauce with other fruits,2,2,0.01117492,5.0821054e-08,0.9887165,0.000108499604,True
+"Turkey submarine sandwich, with cheese, lettuce, tomato and spread",3,3,7.6001e-41,1.8449613e-28,4.621751e-29,1.0,True
+"Bread, whole wheat, toasted",3,3,2.6754394e-18,1.4549528e-10,5.220815e-07,0.9999995,True
+"Popcorn, microwave, kettle corn",3,3,8.225809e-23,1.3776608e-11,1.9817232e-09,1.0,True
+"Broccoli, chinese cooked, from fresh, fat not added in cooking",2,2,2.3474978e-10,7.4210944e-13,0.99999964,4.1636713e-07,True
+"Fig, cooked or canned, in heavy syrup",2,2,0.0013155356,4.8564806e-09,0.9986811,3.374202e-06,True
+Squash fritter or cake,3,3,7.636e-42,3.61383e-28,5.2290826e-30,1.0,True
+"Turkey or chicken, pork, and beef sausage, reduced sodium",3,3,3.2585341e-24,1.7850214e-21,8.166758e-13,1.0,True
+"Fritter, apple",3,3,1.658262e-33,1.963588e-24,1.8624277e-20,1.0,True
+"Beef, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",3,3,6.251242e-35,9.688e-25,1.2360291e-20,1.0,True
+"Pie, apple, diet",3,3,7.206218e-39,2.458727e-21,1.504895e-20,1.0,True
+"Grapefruit juice, 100%, canned, bottled or in a carton",0,0,0.99926704,1.304994e-11,0.0007311999,1.7842523e-06,True
+"Yogurt, NS as to type of milk, plain",0,0,0.9999814,1.605036e-07,1.6262859e-06,1.6812872e-05,True
+"Empanada, Mexican turnover, filled with chicken and vegetables",3,3,1.23e-43,1.1305245e-28,2.9348067e-29,1.0,True
+"Beans, string, cooked, from frozen, NS as to color, fat added in cooking, NS as to type of fat",3,3,6.3154626e-25,4.942576e-12,1.00461165e-14,1.0,True
+"Cranberries, NS as to raw, cooked, or canned",3,3,1.7447845e-09,6.3196524e-09,0.002523249,0.99747676,True
+"Carrots, cooked, from fresh, fat not added in cooking",2,2,1.0212328e-09,4.6651593e-13,0.99996555,3.4454024e-05,True
+"Bulgur, NS as to fat added in cooking",2,2,8.056937e-16,1.146899e-11,0.99982977,0.00017017589,True
+"Sunflower seeds, plain, unsalted",2,2,0.0029873964,1.2966585e-10,0.99699426,1.827e-05,True
+"Flounder, baked or broiled, made without fat",0,0,0.98467976,1.3532586e-07,0.015316411,3.8112726e-06,True
+"Oat bran cereal, cooked, NS as to fat added in cooking",3,3,1.839541e-15,2.2528529e-10,3.0228855e-09,1.0,True
+"Pumpkin, cooked, NS as to form, made with oil",2,2,1.469194e-09,1.7392414e-06,0.9984701,0.0015280963,True
+"Muffin, English, oat bran, with raisins",3,3,1.9815e-28,8.584055e-22,8.646823e-23,1.0,True
+"Rice, brown, with gravy, fat not added in cooking",3,3,1.8399091e-19,5.0252216e-11,6.705352e-08,0.9999999,True
+"Mixed salad greens, raw",0,0,0.99998784,2.4782197e-19,1.2115342e-05,6.7651825e-13,True
+"Turnip, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,4.74875e-27,4.8086264e-07,1.2197443e-17,0.9999995,True
+"Mushrooms, stuffed",3,3,1.3934594e-33,3.912054e-24,6.983592e-19,1.0,True
+"Beef brisket, cooked, NS as to fat eaten",2,2,1.2069557e-18,5.9760366e-23,1.0,7.579704e-12,True
+"Loganberries, frozen",0,0,0.9999789,1.1057495e-14,2.115507e-05,3.508928e-10,True
+"Manicotti, vegetable- and cheese-filled, with tomato sauce, meatless",3,3,0.0,3.0233208e-26,3.2600478e-26,1.0,True
+"Venison or deer stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",3,3,5.4840077e-18,1.0531738e-10,0.004151054,0.9958489,True
+"Lettuce, cooked, fat not added in cooking",2,2,1.2844298e-09,2.5904197e-14,0.99999905,9.516764e-07,True
+"Ice cream bar or stick, chocolate covered",3,3,5.157616e-26,3.229083e-17,2.8357926e-20,1.0,True
+"Tea, iced, instant, black, pre-sweetened with sugar",3,3,2.0575547e-10,2.351676e-17,2.3901368e-20,1.0,True
+"Gordita, sope, or chalupa with beans",3,3,0.0,1.8663004e-31,4.1397522e-36,1.0,True
+"Beets, cooked, NS as to form, fat added in cooking, NS as to type of fat",3,3,7.080086e-24,1.5554509e-10,1.8492206e-13,1.0,True
+"Pasta with cream sauce and added vegetables, restaurant",3,3,0.0,8.916508e-30,2.048276e-31,1.0,True
+"Armadillo, cooked",2,2,1.3158708e-13,6.188661e-16,0.99999964,3.0912196e-07,True
+"Chicken tenders or strips, breaded, from restaurant",3,3,7.552897e-29,1.6690334e-16,5.4105814e-11,1.0,True
+"Infant formula, powder, made with plain bottled water (Enfamil Newborn)",3,3,7.1598083e-37,3.116176e-33,4.238e-42,1.0,True
+"Pumpkin pudding, Puerto Rican style",3,3,9.10184e-31,3.6735963e-21,8.274374e-22,1.0,True
+"Cheeseburger, 1 medium patty, with condiments, on white bun",3,3,0.0,2.3682825e-27,7.296232e-30,1.0,True
+"Turnip greens with roots, cooked, from frozen, fat not added in cooking",2,2,8.9354856e-08,2.7671732e-10,0.99999774,2.143623e-06,True
+"Popcorn, microwave, unsalted",3,3,5.1070587e-21,2.835903e-11,3.020181e-10,1.0,True
+"Beef, dumplings, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",3,3,1.19689044e-35,2.6141707e-19,2.0434723e-20,1.0,True
+"Eggnog, regular",3,3,0.04541252,0.003673294,3.630348e-05,0.9508779,True
+"Chicken or turkey corn soup with noodles, home recipe",3,3,7.3979554e-26,5.4516125e-15,2.7641054e-13,1.0,True
+"Herring, dried, salted",2,2,7.5568955e-16,7.104112e-31,1.0,1.2364494e-19,True
+"Bagel, wheat bran",3,3,5.6507635e-26,2.7547335e-23,4.7794596e-22,1.0,True
+"Milk dessert sandwich bar, frozen, with low-calorie sweetener, made from lowfat milk",3,3,0.0,1.313108e-36,1.302713e-39,1.0,True
+"Peas, green, cooked, from frozen, made with butter",3,3,6.626988e-32,6.94213e-19,4.5594013e-18,1.0,True
+Lasagna with chicken or turkey,3,3,4e-45,1.1218927e-22,2.1133797e-20,1.0,True
+"Broccoli, cooked, from fresh, with mushroom sauce",3,3,2.8146384e-19,4.0821697e-13,1.9874625e-12,1.0,True
+"Corn, yellow, cooked, from frozen, fat not added in cooking",2,2,6.7361006e-11,9.6850066e-08,0.99272233,0.007277562,True
+"Chicken, baby food, strained",2,2,9.40683e-05,0.0006627144,0.9930877,0.006155417,True
+"Pastry, puff, custard or cream filled, iced or not iced",3,3,0.0,7.486251e-32,5.607499e-32,1.0,True
+"Pie, banana cream, individual size or tart",3,3,1.05446e-40,1.7641871e-26,3.0400883e-27,1.0,True
+"Brussels sprouts, cooked, from frozen, made with butter",3,3,1.4047413e-19,8.077068e-12,4.3662275e-16,1.0,True
+"Bread, Italian, Grecian, Armenian",3,3,2.5334743e-31,4.2728463e-26,1.3060521e-24,1.0,True
+"Zucchini, pickled",2,2,1.5096338e-06,1.8852308e-08,0.9999906,7.831373e-06,True
+"Potato, hash brown, ready-to-heat",3,3,3.3896443e-32,5.7050794e-13,2.9579429e-18,1.0,True
+"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",3,3,3.4478417e-35,1.148964e-19,5.163599e-19,1.0,True
+Macaroni or pasta salad with tuna,3,3,3.6e-44,1.4859364e-31,5.957238e-30,1.0,True
+"Octopus, dried",2,2,7.343982e-15,2.399652e-31,1.0,2.1947378e-18,True
+Poi,0,0,0.968315,7.2387714e-09,0.031225502,0.00045937244,True
+Banana nectar,3,2,0.05929272,6.6146433e-10,0.94070154,5.7697644e-06,False
+"Frankfurter or hot dog sandwich, beef and pork, plain, on whole grain white bun",3,3,3.5e-44,3.777575e-23,1.8444444e-24,1.0,True
+Cereal (General Mills Cheerios Chocolate),3,3,0.0,0.0,0.0,1.0,True
+"Hayacas, Puerto Rican style",3,3,2.763679e-39,3.781688e-21,2.443393e-21,1.0,True
+"Coffee creamer, liquid, fat free",3,3,0.0,5.1641375e-24,0.0,1.0,True
+"Ham, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",3,3,5.3688037e-26,1.8061587e-14,7.969871e-15,1.0,True
+"Fish sandwich, on bun, with spread",3,3,0.0,1.154458e-30,1.0664931e-32,1.0,True
+"Peanut butter sandwich, with regular peanut butter, on white bread",3,3,1.8897675e-26,4.675357e-14,4.214876e-14,1.0,True
+Tuna salad with cheese,3,3,2.4119239e-37,5.8834243e-18,2.093857e-19,1.0,True
+"Trout, baked or broiled, made with butter",2,2,7.634478e-06,9.853761e-13,0.9999913,1.0552053e-06,True
+"Knish, meat",3,3,3.906406e-37,1.7746114e-23,1.784779e-18,1.0,True
+"Beef enchilada dinner, NFS, frozen meal",3,3,0.0,4.9600473e-27,4.5953305e-28,1.0,True
+"Fritter, banana",3,3,2.3635342e-28,2.3629464e-22,9.505531e-21,1.0,True
+"Rice, brown, with other vegetables, fat added in cooking",3,3,1.8114344e-17,2.289405e-13,2.2740762e-10,1.0,True
+"Cilantro, raw",0,0,0.99997675,2.1312846e-15,2.3253779e-05,1.0607204e-11,True
+"Chicken breast, baked or broiled, skin not eaten, from fast food / restaurant",2,2,4.999132e-14,9.089205e-16,0.9999994,5.607984e-07,True
+Yeast,1,3,3.0119175e-08,2.7176647e-19,2.1131172e-13,1.0,False
+"Carp, smoked",2,2,2.0937048e-12,1.441404e-19,1.0,5.1983626e-12,True
+"Margarine-like spread, reduced calorie, about 40% fat, tub, salted",3,3,0.0,4.1316937e-27,0.0,1.0,True
+Cereal (Kashi 7 Whole Grain Puffs),3,0,0.50478965,0.00015004638,0.0023282955,0.49273202,False
+"Mixed vegetables, cooked, from frozen, fat not added in cooking",2,2,1.390551e-12,7.178786e-15,1.0,1.7577007e-08,True
+Shrimp curry,3,3,1.341575e-26,1.7391577e-17,1.1348046e-16,1.0,True
+"Squash, summer, casserole, with rice and tomato sauce",3,3,1.0556535e-32,1.3782681e-22,1.719837e-21,1.0,True
+"Rice, brown, cooked, fat added in cooking, NS as to type of fat",3,3,1.5104881e-24,3.858761e-14,3.1278135e-13,1.0,True
+"Cereal, fruit whirls",3,3,0.0,0.0,0.0,1.0,True
+"Ham, prepackaged or deli, luncheon meat, reduced sodium",3,3,2.9821443e-12,4.1575168e-12,0.0020604744,0.9979395,True
+Cereal or granola bar (General Mills Fiber One Chewy Bar),3,3,9.351502e-33,9.4788126e-20,6.269628e-21,1.0,True
+"Cereal, raisin bran",3,3,4.178793e-24,3.4196866e-31,8.5216105e-29,1.0,True
+"Peas and carrots, cooked, from canned, made with margarine",3,3,4.7145865e-26,8.760941e-15,4.4734715e-12,1.0,True
+"Cabbage soup, home recipe, canned or ready-to-serve",2,2,1.7977709e-17,4.1344085e-12,0.9999969,3.094112e-06,True
+"Chicken patty sandwich, miniature, with spread",3,3,1.016e-42,1.7787837e-26,7.5743176e-26,1.0,True
+"Chicken or turkey rice soup, reduced sodium, canned, prepared with milk",3,3,2.1916184e-12,5.7475916e-07,5.1833997e-08,0.9999994,True
+"Gordita, sope, or chalupa with meat",3,3,0.0,2.0353e-31,1.2300735e-36,1.0,True
+"Beans, green string, baby food, junior",2,0,0.9977708,4.1387224e-15,0.0022292656,4.213566e-10,False
+"Quail, cooked",2,2,4.1839945e-11,1.1091066e-12,0.9999976,2.4080857e-06,True
+"Knish, potato",3,3,3.252834e-39,3.1415727e-27,2.5220183e-24,1.0,True
+"Bean and ham soup, home recipe",3,3,1.6837189e-20,6.4485726e-12,1.9885169e-08,1.0,True
+"Rice, brown, with vegetables, cheese and/or cream based sauce, NS as to fat added in cooking",3,3,1.4931265e-28,3.6172414e-18,7.881193e-16,1.0,True
+"Hot chocolate / Cocoa, made with dry mix and low fat milk",3,3,3.903119e-12,1.9536647e-10,2.3229193e-08,1.0,True
+"Chicken, baby food, NS as to strained or junior",2,2,0.00017325481,0.0003510209,0.9914786,0.007997134,True
+"Infant formula, powder, made with plain bottled water (Enfamil Infant)",3,3,3.2071358e-38,7.851384e-34,2.728e-42,1.0,True
+"Crackers, cheese (Cheez-It)",3,3,0.0,7.365786e-29,4.761549e-31,1.0,True
+"Jam, preserve, marmalade, reduced sugar, all flavors",2,2,6.600482e-07,3.0943384e-28,0.9999993,1.1492758e-09,True
+"Flounder, coated, fried, made with cooking spray",3,3,1.2906441e-16,8.688932e-11,3.6189854e-07,0.99999964,True
+"Chicken leg, drumstick and thigh, sauteed, skin not eaten",2,2,3.3281282e-13,1.1471907e-13,0.99999356,6.47768e-06,True
+"Chicken sandwich, with cheese and spread",3,3,4.5451026e-36,3.2274386e-21,1.0609942e-18,1.0,True
+"Squash, winter type, baked, no fat or sugar added in cooking",2,2,6.631479e-08,2.841854e-10,0.9999995,4.1718667e-07,True
+"Pork steak or cutlet, NS as to cooking method, NS as to fat eaten",2,2,1.7701522e-12,3.2119836e-16,1.0,7.380923e-09,True
+"Salad dressing, fat free, NFS",3,3,1.64e-43,2.5691131e-09,3.7403608e-25,1.0,True
+"Cheese sandwich, reduced fat Cheddar cheese, on whole wheat bread, no spread",3,3,4.5522213e-34,2.6078533e-21,1.0534346e-14,1.0,True
+"Cactus, cooked, made with margarine",3,3,3.1409156e-18,1.7129969e-07,1.9497866e-09,0.9999999,True
+"Stewed goat, Puerto Rican style",3,3,1.6856e-41,2.758021e-18,2.8786997e-15,1.0,True
+"Pretzel chips, hard, flavored",3,3,0.0,3.5649795e-26,4.810687e-28,1.0,True
+Scallops with cheese sauce,2,2,2.6926566e-05,1.6081875e-06,0.9980258,0.0019456631,True
+"Mixed vegetables, garden vegetables, baby food, strained",2,3,8.3151963e-10,5.3424083e-15,0.0484631,0.95153695,False
+"Noodles, whole grain, cooked",3,3,7.1967523e-12,5.971799e-10,0.00047939667,0.99952066,True
+"Pizza with extra meat, medium crust",3,3,0.0,3.7669626e-34,1.710105e-33,1.0,True
+"Ghee, clarified butter",1,1,1.4041248e-27,1.0,2.5890912e-27,3.2206583e-12,True
+"Egg substitute, omelet, scrambled, or fried, with cheese, fat not added in cooking",2,3,1.5129431e-05,3.8215126e-06,0.15938444,0.8405966,False
+"Brussels sprouts, cooked, from frozen, made with oil",3,3,1.3143575e-08,1.02672445e-07,0.0024626178,0.99753726,True
+"Syrup, pancake, reduced calorie",3,3,5.732357e-25,5.240934e-19,7.346311e-14,1.0,True
+"Graham crackers, sandwich, with filling",3,3,0.0,1.61705905e-24,1.07276615e-29,1.0,True
+"Bamboo shoots, cooked, NS as to fat added in cooking",3,3,3.555935e-33,3.5537896e-12,5.3756537e-09,1.0,True
+"Yellow, canary, or Peruvian beans, canned, drained, fat added in cooking, NS as to type of fat",3,3,1.2585998e-22,5.9474634e-11,4.257081e-11,1.0,True
+"Venison or deer stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3,3,5.9825276e-20,2.4345494e-11,0.00052951305,0.99947053,True
+"Waffle, whole grain, from fast food / restaurant",3,3,1.3462475e-38,4.356265e-22,4.3097922e-19,1.0,True
+"Almonds, unsalted",0,0,0.9961434,3.2288247e-06,0.0037601604,9.3240844e-05,True
+"Crisp, rhubarb",3,3,0.0,3.6072427e-30,4.2500564e-33,1.0,True
+Ham or pork with stuffing,3,3,1.3817823e-33,3.2521652e-23,1.6744761e-20,1.0,True
+"Shrimp garden salad, shrimp, lettuce, eggs, vegetables excluding tomato and carrots, no dressing",3,3,7.7712997e-16,2.1534453e-11,1.9238513e-08,1.0,True
+"Squash, summer, souffle",3,3,1.3943077e-21,1.6127565e-12,1.3890434e-07,0.9999999,True
+"Cookie, fruit, baby food",3,3,3.383e-42,2.4417089e-34,1.8160396e-35,1.0,True
+"Black, brown, or Bayo beans, canned, drained, fat not added in cooking",3,3,2.4358807e-11,4.1959503e-08,2.4893148e-05,0.9999751,True
+Rum cooler,2,2,0.00014889764,7.804946e-06,0.5174722,0.48237112,True
+"Vegetable and fruit juice drink, with high vitamin C, diet",3,3,2.906006e-16,4.575715e-16,1.9773365e-16,1.0,True
+"Potato, scalloped, NFS",3,3,1.5416797e-23,3.871332e-13,7.1953954e-09,1.0,True
+"Infant formula, liquid concentrate, made with plain bottled water (Enfamil ProSobee)",3,3,8.2012136e-38,6.759756e-32,3.5441e-40,1.0,True
+"Crackers, whole grain, sandwich, peanut butter filled",3,3,9.9296965e-27,1.9832658e-13,3.9289346e-11,1.0,True
+"Frankfurter or hot dog, reduced fat or light, NFS",3,3,7.868156e-31,8.871921e-16,1.0005945e-09,1.0,True
+"Tuna, fresh, smoked",2,2,1.0817299e-06,9.141777e-16,0.9999989,5.6578137e-10,True
+"Coffee, Latte, decaffeinated, with non-dairy milk, flavored",3,3,3.992063e-37,3.120564e-34,1.6399968e-29,1.0,True
+"Pizza with meat and fruit, thick crust",3,3,0.0,1.94608e-40,3.69e-43,1.0,True
+"Fruit juice bar, frozen, orange flavor",3,2,1.09776605e-14,1.01544474e-16,0.9991037,0.0008962815,False
+"Rice, white, with dark green vegetables and tomatoes and/or tomato-based sauce, fat not added in cooking",3,3,3.746102e-32,1.3169098e-22,1.1271972e-18,1.0,True
+"Vegetables, NS as to type, cooked, fat added in cooking, NS as to type of fat",3,3,4.5745267e-24,1.3947719e-12,2.967588e-15,1.0,True
+"Bread, cinnamon, toasted",3,3,1.3351e-40,4.597562e-26,3.9788088e-28,1.0,True
+"Snowpea, cooked, NS as to form, fat added in cooking, NS as to type of fat",3,3,1.6540973e-13,6.135166e-07,0.0002010422,0.99979836,True
+"Mustard greens, cooked, NS as to form, made with oil",3,3,1.2313313e-17,2.5304726e-06,7.5221506e-06,0.99999,True
+"Hot chocolate / Cocoa, ready to drink, made with non-dairy milk",3,3,0.0,9.612e-42,4.867741e-38,1.0,True
+"Chicken patty parmigiana, breaded, with vegetable, diet frozen meal",3,3,0.0,7.0204645e-23,9.946876e-26,1.0,True
+"Corn, yellow, cooked, from canned, made with butter",3,3,9.029492e-31,2.0669118e-14,9.5458065e-18,1.0,True
+Chimichanga with chicken ,3,3,0.0,1.668018e-35,8.3e-44,1.0,True
+"Pears, baby food, toddler",2,2,0.00015464674,2.9232156e-06,0.9992937,0.00054867665,True
+"Pineapple, cooked or canned, drained solids",2,2,0.010461712,4.593737e-10,0.98949337,4.4917146e-05,True
+"Stewed pig's feet, Puerto Rican style",3,3,4.94865e-35,2.2281217e-15,4.269327e-11,1.0,True
+"Bacon, lettuce, tomato, and cheese submarine sandwich, with spread",3,3,0.0,2.5160721e-30,6.563531e-34,1.0,True
+"Potato chips, plain",3,3,1.8991087e-29,1.5500909e-13,9.313646e-13,1.0,True
+"Lettuce, wilted, with bacon dressing",3,3,2.7993412e-16,3.6182496e-10,4.861285e-11,1.0,True
+Steak teriyaki,2,2,6.2370505e-14,1.6133011e-15,0.9999995,5.2549774e-07,True
+"Potato, scalloped, from dry mix, with meat",3,3,4.5852842e-26,2.263353e-14,5.380472e-10,1.0,True
+"Stuffed pot roast, Puerto Rican style, NFS",3,3,1.3739497e-22,3.6973445e-11,0.0010471386,0.99895287,True
+Ice cream sandwich,3,3,1.7909575e-26,4.2943308e-20,4.104219e-27,1.0,True
+"Gravy, poultry, home recipe",3,3,1.5065394e-33,8.165214e-17,1.4966933e-17,1.0,True
+"Vegetables, pickled",2,2,2.4282606e-10,4.6646325e-14,1.0,2.982663e-09,True
+Fruit juice drink (Capri Sun),3,3,7.265342e-39,3.2529763e-09,5.5610717e-28,1.0,True
+Haupia,1,1,4.0396617e-07,0.99363226,0.004144602,0.0022228824,True
+"Rice, white, cooked, fat added in cooking, made with oil",3,3,1.1834e-41,5.7568907e-21,3.2966396e-26,1.0,True
+"Infant formula, liquid concentrate, made with water, NFS (Gerber Good Start Soy)",3,3,4.39e-43,1.9033112e-33,3.2e-43,1.0,True
+Cereal (General Mills Chex Rice),3,3,0.0,0.0,0.0,1.0,True
+"Goat, fried",2,2,6.117179e-24,1.4471194e-12,0.99991786,8.215159e-05,True
+"Turkey with barbecue sauce, skin eaten",3,3,1.727119e-33,4.5514156e-16,2.935829e-06,0.999997,True
+Gelatin dessert with whipped cream,3,3,2.8072574e-36,1.1020652e-13,2.6762282e-07,0.99999976,True
+"Pie, lemon, not cream or meringue",3,3,0.0,3.0401239e-34,3.5896412e-32,1.0,True
+"Coffee, NS as to brewed or instant",0,0,0.9999989,1.3458695e-18,1.3316291e-14,1.0854584e-06,True
+"Bean paste, sweetened",2,2,1.047838e-09,3.762631e-08,0.8796935,0.12030648,True
+"Infant formula, powder, made with water, NFS (Gerber Good Start Protect)",3,3,1.1150363e-37,1.0767198e-34,1.18e-42,1.0,True
+"Pumpkin, cooked, NS as to form, NS as to fat added in cooking",3,3,3.937044e-14,2.1044382e-06,2.1069874e-07,0.99999774,True
+"Yogurt, frozen, flavors other than chocolate, lowfat milk",3,3,4.306307e-12,2.0837687e-12,2.3998287e-10,1.0,True
+"White beans, dry, cooked, made with margarine",3,3,5.981413e-17,2.81542e-09,2.04086e-07,0.99999976,True
+"Turkey, baby food, NS as to strained or junior",2,2,6.637062e-05,5.700182e-11,0.999926,7.588033e-06,True
+"Rice, white, with tomatoes and/or tomato-based sauce, NS as to fat added in cooking",3,3,2.2e-44,7.881209e-27,7.2385285e-26,1.0,True
+"Chicken, meatless, breaded, fried",3,3,1.3118243e-24,4.073266e-31,5.8883714e-23,1.0,True
+"Turnover, meat- and cheese-filled, lower in fat",3,3,1.4304044e-35,1.2363727e-21,1.8428718e-21,1.0,True
+"Coffee creamer,powder, sugar free, flavored",3,3,2.72e-43,2.7569436e-10,1.09959865e-20,1.0,True
+Bird's nest soup,3,3,8.394073e-09,6.8070266e-10,4.829413e-05,0.9999517,True
+"Chicken leg, drumstick and thigh, fried, coated, skin / coating not eaten",2,2,5.8667546e-12,1.012478e-12,0.9999825,1.7508568e-05,True
+"Sweet potato fries, NS as to fresh or frozen",3,3,7.21689e-17,2.6485872e-10,4.1614454e-09,1.0,True
+"Beans, lima, immature, cooked, from frozen, made with butter",3,3,1.304567e-26,1.0334151e-12,1.8411787e-13,1.0,True
+"Egg omelet or scrambled egg, with cheese, meat, tomatoes, and dark-green vegetables, NS as to fat added in cooking ",3,3,1.1434933e-35,4.4421793e-17,1.07908515e-17,1.0,True
+"Pizza, cheese with vegetables, from frozen, thick crust",3,3,0.0,5.3602043e-35,7.791974e-35,1.0,True
+Liverwurst,3,2,4.353519e-13,2.6632814e-15,0.99986076,0.00013927584,False
+"Macaroni, tomatoes, and beef, baby food, junior",3,3,3.3732694e-19,1.8976268e-10,0.028605767,0.97139424,True
+Oatmeal beverage with milk,3,3,9.204568e-16,3.0601043e-11,3.1693235e-06,0.9999968,True
+"Whiting, baked or broiled, made with oil",2,2,0.0002227864,6.242724e-10,0.9997758,1.3815468e-06,True
+Gelatin salad with vegetables,3,3,1.0076988e-11,4.5681343e-09,0.073438816,0.92656124,True
+"Peas and carrots, cooked, from fresh, NS as to fat added in cooking",3,3,3.279645e-25,7.6485116e-16,7.357118e-19,1.0,True
+"Cress, cooked, from fresh, made with oil",3,3,0.0014283065,1.5685111e-05,0.00034656643,0.9982095,True
+"Celery, cooked, fat added in cooking, NS as to type of fat",3,3,4.2788454e-20,1.0243913e-09,1.527839e-16,1.0,True
+"Potato soup, prepared with water",3,3,4.6607344e-15,7.923857e-10,1.1257327e-07,0.9999999,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, NS as to form, fat added in cooking, NS as to type of fat",3,3,3.3512086e-28,7.1361586e-17,1.2665306e-17,1.0,True
+"Cream, half and half, flavored",1,1,1.9350476e-07,0.99025846,0.00013054206,0.009610787,True
+"Chow mein or chop suey, NS as to type of meat, no noodles",3,3,7.296126e-21,1.8654937e-11,8.659535e-11,1.0,True
+"Beans, string, cooked, NS as to form, NS as to color, made with margarine",3,3,3.8074594e-18,1.7526816e-09,1.5142728e-09,1.0,True
+Frankfurters or hot dogs with tomato-based sauce,3,3,3.4e-44,3.7138173e-17,7.406698e-14,1.0,True
+"Salmon, coated, baked or broiled, made with oil",3,3,4.0860264e-15,1.4058756e-13,8.325403e-06,0.99999166,True
+"Sauerkraut, cooked, fat not added in cooking",2,2,2.4837047e-16,2.8942955e-12,0.9999999,1.448982e-07,True
+"Crabs in tomato-based sauce, Puerto Rican style",3,3,5.754709e-29,2.9579534e-16,8.831663e-06,0.9999912,True
+Cereal (Kashi Autumn Wheat),3,3,0.0006987836,1.0314432e-08,3.6665233e-06,0.9992975,True
+"Wrap sandwich, filled with vegetables and rice",3,3,6.4e-44,3.033452e-26,2.5516698e-31,1.0,True
+"Fat free ice cream, no sugar added, flavors other than chocolate",3,3,2.647801e-20,2.543368e-33,1.262548e-14,1.0,True
+"Pie, berry, not blackberry, blueberry, boysenberry, huckleberry, raspberry, or strawberry; one crust",3,3,0.0,2.3648936e-30,5.902555e-33,1.0,True
+Kung Pao pork,3,3,4.530586e-18,1.7153753e-13,8.7920327e-10,1.0,True
+"Roe, shad, cooked",2,2,0.020240242,2.2115163e-20,0.97975975,1.7185174e-09,True
+"Knish, cheese",3,3,5.123e-42,1.9966613e-27,3.9762032e-26,1.0,True
+"Macaroni or pasta salad, made with light Italian dressing",3,3,4.957784e-39,2.5193574e-22,6.4358133e-21,1.0,True
+"Potato chips, restructured, lightly salted",3,3,4.3548672e-23,1.263566e-12,1.253361e-10,1.0,True
+"Roll, Mexican, bolillo",3,3,3e-45,4.02956e-31,1.917173e-31,1.0,True
+"Coffee, decaffeinated, pre-sweetened with low calorie sweetener",0,3,0.199962,1.6098306e-06,5.6947798e-08,0.8000363,False
+"Grits, instant, made with water, NS as to fat added in cooking",3,3,2e-44,2.4132628e-26,2.1576651e-32,1.0,True
+"Soft drink, NFS",3,3,1.4102425e-22,1.2704578e-20,1.3731493e-25,1.0,True
+"Pie, squash",3,3,5.112e-42,1.9720911e-26,1.0443809e-27,1.0,True
+"Coffee, Cuban",0,0,0.9999559,1.1918569e-14,5.527749e-07,4.3471384e-05,True
+"Cookie, butter or sugar, with icing or filling other than chocolate",3,3,1e-45,5.4913817e-27,1.1304787e-25,1.0,True
+"Marshmallow, chocolate covered",3,3,3.022306e-26,1.1640299e-11,1.9507307e-10,1.0,True
+"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",3,3,5.52535e-40,1.9498185e-22,2.8178677e-22,1.0,True
+"Milk, evaporated, NS as to fat content ",1,1,0.001545393,0.97774553,0.00011823636,0.020590827,True
+Chocolate milk drink,3,3,1.6505453e-16,1.3507362e-11,4.175711e-12,1.0,True
+"Ham and cheese sandwich, with spread, grilled",3,3,4.94458e-40,6.8173025e-23,6.9576126e-19,1.0,True
+"Pizza, with meat other than pepperoni, from school lunch, medium crust",3,3,0.0,4.411058e-32,4.8541078e-32,1.0,True
+"Cookie, Pfeffernusse",3,3,0.0,3.8622992e-27,1.0954722e-32,1.0,True
+"Chicken wing, rotisserie",2,2,2.0054701e-11,2.33638e-13,0.9999994,5.6610526e-07,True
+"Sweet potato, baked, peel eaten, fat not added in cooking",2,0,0.98259395,1.9794392e-11,0.017379636,2.6322708e-05,False
+"Cake, pound, with icing or filling",3,3,0.0,1.1109273e-28,4.030386e-33,1.0,True
+"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",3,3,5.658493e-31,7.7277524e-24,2.7771299e-18,1.0,True
+"Veal stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",3,3,8.46503e-23,6.9057894e-13,6.1718606e-07,0.9999994,True
+"Celeriac, cooked",2,3,3.2990644e-07,4.1239688e-05,0.06502233,0.93493617,False
+"Yogurt, Greek, NS as to type of milk or flavor",0,0,0.9991316,5.3627858e-09,0.0006720501,0.0001964213,True
+"Dumpling, plain",3,3,1.4424e-41,7.964174e-26,7.111858e-26,1.0,True
+"Black beans, Cuban style",3,3,1.751224e-21,1.618355e-09,8.723479e-10,1.0,True
+"Chicken breast, baked, coated, skin / coating eaten",3,3,4.9309694e-14,6.3299e-09,0.00019094931,0.9998091,True
+"Rice, white, with carrots and dark green vegetables, NS as to fat added in cooking",3,3,1.3842527e-31,2.1057932e-18,8.1667495e-15,1.0,True
+"Mozzarella sticks, breaded, baked, or fried",3,3,0.0,7.210456e-23,3.7546804e-20,1.0,True
+"Macaroni or noodles with cheese, made from packaged mix",3,3,1.1931575e-34,3.9504536e-27,1.5902328e-19,1.0,True
+"Pizza with extra meat and extra vegetables, thick crust",3,3,0.0,7.067438e-37,8.317e-42,1.0,True
+"Coconut milk, used in cooking",1,1,2.4876093e-07,0.99867165,0.0012765914,5.1503775e-05,True
+"Cookie, rugelach",3,3,5.7401337e-37,8.60495e-27,3.1658241e-28,1.0,True
+"Gravy, meat-based, from Puerto-Rican style stuffed pot roast",3,3,1.5852906e-10,7.872901e-05,1.4401141e-08,0.9999212,True
+"Beef broth, without tomato, home recipe",2,3,0.11791752,0.00089249614,0.14547892,0.73571104,False
+"Mozzarella cheese, tomato, and basil, with oil and vinegar dressing",3,3,3.772e-41,2.7271177e-17,6.4876476e-22,1.0,True
+"Dill dip, light",3,3,0.0,2.8551653e-22,7.780477e-28,1.0,True
+"Beets, cooked, from fresh, fat not added in cooking",2,2,7.455923e-08,9.924146e-10,0.99999297,6.948777e-06,True
+"Potato, baked, NFS",2,2,1.0665968e-09,1.5492652e-10,0.9999807,1.925513e-05,True
+"Sweet potato, boiled, NS as to fat added in cooking",3,3,2.097798e-27,1.8442215e-14,4.0785637e-18,1.0,True
+"Oatmeal, reduced sugar, flavored, fat not added in cooking",3,3,9.749359e-17,1.2313374e-12,1.8922243e-14,1.0,True
+"Hummus, plain",3,3,1.0571807e-19,1.4584639e-10,1.827182e-05,0.99998176,True
+Rice with raisins,3,3,1.5e-44,4.097479e-26,2.0071138e-29,1.0,True
+"Waffle, plain, from frozen",3,3,0.0,1.0716e-41,1e-45,1.0,True
+"Chicken leg, drumstick and thigh, grilled with sauce, skin not eaten",3,3,1.6772316e-35,1.5301713e-17,3.2441548e-08,1.0,True
+"Gravy, meat-based, from Puerto-Rican style beef stew",3,3,2.000808e-28,2.4120101e-08,6.2053984e-09,1.0,True
+"Sushi, NFS",3,3,7.068641e-24,4.951904e-13,8.020442e-06,0.999992,True
+"Infant formula, NS as to form (Enfamil Enfagrow Toddler Transitions)",3,3,6.074312e-39,1.3800695e-34,1.8094e-40,1.0,True
+"Carrots, raw",0,0,0.9992694,1.6558834e-16,0.0007305353,1.760547e-10,True
+"Broccoli, carrots and cheese, baby food, junior",3,3,3.9711446e-16,1.6853186e-09,8.554679e-08,0.9999999,True
+"Cereal, millet, puffed",3,3,6.6411626e-06,1.0169104e-09,4.751367e-07,0.99999285,True
+"Tuna salad submarine sandwich, with cheese, lettuce and tomato",3,3,3e-45,2.7405779e-27,3.9922223e-26,1.0,True
+"Chicken breast, baked or broiled, skin eaten, from fast food / restaurant",2,2,2.1198794e-12,1.113779e-12,0.99992716,7.28476e-05,True
+"Pie, sour cream, raisin",3,3,2.961e-42,2.1532316e-26,7.3757185e-27,1.0,True
+Cereal (Kashi Heart to Heart Oat Flakes and Blueberry Clusters),3,3,0.0,0.0,0.0,1.0,True
+Cabbage with ham hocks,3,3,3.1250897e-16,8.459426e-10,4.374409e-05,0.99995625,True
+"Salami, made from any type of meat, reduced sodium",2,2,1.9941243e-13,4.2958323e-14,0.9999994,5.5770823e-07,True
+"Flounder, coated, fried, made without fat",3,3,2.1644005e-16,8.662886e-11,3.5970945e-07,0.99999964,True
+Honey-combed hard candy with peanut butter,3,3,1.3645076e-19,1.7351755e-07,7.52253e-05,0.99992454,True
+"Cheeseburger, 1 miniature patty, plain, on miniature bun, from fast food / restaurant",3,3,4.1226694e-36,6.63623e-22,4.2809885e-18,1.0,True
+"Taco or tostada salad, meatless with sour cream",3,3,0.0,1.618611e-28,1.6104009e-36,1.0,True
+"Raspberries, cooked or canned, in heavy syrup",2,2,0.00023223311,2.1572877e-13,0.9997677,1.38879175e-08,True
+Gelatin dessert with cream cheese,3,3,1.9987397e-18,1.3341732e-10,1.846024e-06,0.9999982,True
+"Corn, cooked, from frozen, NS as to color, made with butter",3,3,1.8517079e-29,6.4195184e-14,2.3763385e-18,1.0,True
+"Chicken, tail",3,3,1.3668738e-31,2.4535883e-13,2.5705144e-17,1.0,True
+"Beans, lima, immature, cooked, NS as to form, NS as to fat added in cooking",3,3,1.7092696e-26,9.39058e-13,9.225981e-14,1.0,True
+"Waffle, plain, from fast food / restaurant",3,3,7e-45,2.5687114e-24,3.1056062e-23,1.0,True
+Tomato relish,2,3,2.1160844e-15,1.3185709e-08,9.146144e-06,0.9999908,False
+"Pie, black bottom",3,3,4.40135e-40,6.7070115e-28,1.9586988e-28,1.0,True
+"Sweet potatoes, baby food, junior",2,2,0.005117924,3.590003e-11,0.9948809,1.1921991e-06,True
+"Mulberries, raw",0,2,0.040645465,3.0260914e-09,0.95934325,1.11614445e-05,False
+"Squash, spaghetti, cooked, made with oil",3,3,4.2484246e-23,3.2269615e-08,5.4203166e-09,1.0,True
+Clam cake or patty,2,3,3.9164386e-19,1.4103553e-11,2.3579748e-08,1.0,False
+Soft taco with chicken and beans,3,3,0.0,1.22853795e-32,3.232152e-39,1.0,True
+"Apricot, cooked or canned, in heavy syrup",2,2,7.739209e-06,2.4310904e-07,0.99896073,0.0010313146,True
+"Rice, white, with vegetables, cheese and/or cream based sauce, fat not added in cooking",3,3,6.732837e-32,1.705499e-18,6.181894e-15,1.0,True
+"Beef, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",3,3,7.9364154e-28,1.648025e-13,2.4429238e-16,1.0,True
+"Squash, winter type, mashed, no fat or sugar added in cooking",2,2,9.3734386e-08,2.8222136e-10,0.9999995,3.7965796e-07,True
+"Potato salad, made with mayonnaise",3,3,1.1181977e-28,9.705583e-15,2.249859e-22,1.0,True
+"Squash, summer, yellow or green, cooked, NS as to form, made with oil",2,2,0.00027624052,4.423453e-05,0.96184653,0.03783298,True
+"Mustard greens, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,6.7420747e-29,3.943528e-12,3.2388181e-16,1.0,True
+"Beef steak, braised, lean only eaten",2,2,3.5759368e-15,2.1145028e-18,1.0,4.5780704e-09,True
+"Orange, raw",0,0,0.9984763,1.0708581e-21,0.0015237314,6.581965e-12,True
+"Cheese sandwich, Cheddar cheese, on white bread, no spread",3,3,7.63918e-40,8.344413e-25,1.796761e-18,1.0,True
+"Enchilada with meat and beans, red-chile or enchilada sauce",3,3,5.5e-44,2.800126e-20,3.7138344e-23,1.0,True
+"Radish, raw",0,2,0.020285958,4.4805133e-09,0.9796969,1.7065639e-05,False
+Lamb or mutton and potatoes with tomato-based sauce,3,3,1.996974e-34,4.0441934e-14,3.3747206e-11,1.0,True
+"Cake, pound, Puerto Rican style",3,3,9.8148e-41,1.390937e-25,8.137954e-22,1.0,True
+"Snack cake, not chocolate, with icing or filling",3,3,0.0,0.0,0.0,1.0,True
+"Squid, steamed or boiled",2,2,3.6475994e-06,4.8175794e-26,0.9999963,7.565525e-15,True
+"Egg omelet or scrambled egg, with meat, made with butter",3,3,2.6008127e-05,1.4213964e-05,0.0007579878,0.99920183,True
+Teriyaki sauce,3,3,1.02160267e-25,1.3745157e-20,3.6795784e-06,0.9999963,True
+"Chicken, prepackaged or deli, luncheon meat, reduced sodium",3,3,1.4479303e-07,8.183273e-06,0.004367439,0.99562424,True
+Trail mix with nuts and fruit,3,3,2.8036894e-07,2.9276644e-06,0.0032951245,0.99670166,True
+"Cornmeal, Puerto Rican Style",3,3,1.2277277e-24,1.1697609e-15,1.406013e-10,1.0,True
+"Pie, apple, one crust",3,3,0.0,2.0255912e-27,1.7401143e-31,1.0,True
+"Infant formula, liquid concentrate, made with tap water (Store Brand)",3,3,1.4415e-40,1.1040846e-33,2.21e-43,1.0,True
+"Rice cereal with mixed fruit, baby food, jarred",3,3,2.0454577e-08,4.4130843e-10,3.9110223e-06,0.99999607,True
+Cantaloupe nectar,3,0,0.9629079,1.3624926e-10,0.03625433,0.0008377896,False
+"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, fat added in cooking ",3,3,1.5330179e-23,1.485508e-13,1.1023525e-11,1.0,True
+"Spinach, cooked, from fresh, fat not added in cooking",0,0,0.63534343,7.2183323e-12,0.36465245,4.195774e-06,True
+"Mango dessert, baby food",2,2,2.348097e-05,9.703698e-08,0.9995963,0.00038015167,True
+"Cabbage salad or coleslaw, made with light coleslaw dressing",3,3,8.873252e-36,8.118754e-16,4.8627258e-17,1.0,True
+"Cookie, almond",3,3,0.0,3.8622992e-27,1.0954722e-32,1.0,True
+"Rutabaga, cooked, made with oil",3,3,8.5449924e-18,2.1195715e-08,6.4082326e-07,0.9999993,True
+"Pizza with pepperoni, from school lunch, thick crust",3,3,0.0,8.328673e-32,1.9608544e-33,1.0,True
+"Infant formula, ready-to-feed, with iron (Enfamil Premature 20 Cal)",3,3,1.22e-43,7.7796e-41,7e-45,1.0,True
+"Bread, potato, toasted",3,3,8.0972686e-21,3.353126e-21,1.4254098e-12,1.0,True
+"Cereal, fruit rings",3,3,0.0,0.0,0.0,1.0,True
+Ham and egg sandwich,3,3,8.530272e-34,1.608809e-23,3.2051015e-18,1.0,True
+"Gravy, giblet",3,3,2.485741e-25,1.1075876e-15,1.4521763e-09,1.0,True
+"Sushi, topped with crab",2,3,4.1419654e-16,5.2023086e-12,0.000101321064,0.9998987,False
+"Frankfurter or hot dog, beef and pork",3,3,3.607821e-19,1.3559488e-06,4.0853996e-07,0.9999982,True
+"Pudding, ready-to-eat, flavors other than chocolate, fat free",3,3,4.7910632e-17,3.4131312e-16,9.923378e-11,1.0,True
+"Currants, dried",0,0,0.9999999,2.0233901e-12,1.0351571e-08,1.2175195e-07,True
+Cereal (Kellogg's Low Fat Granola),3,3,1.009e-42,1e-45,2.5909e-40,1.0,True
+"Clams, baked or broiled, fat added in cooking",2,2,9.6404525e-05,2.4122881e-09,0.99888426,0.0010192972,True
+"Grits, regular or quick, made with water, fat added in cooking",3,3,3.4605617e-25,5.623053e-16,2.4097412e-17,1.0,True
+"Cheese, cream, light or lite",3,3,7.202129e-11,1.1921962e-06,7.983307e-07,0.999998,True
+"Pasta, whole grain, with tomato-based sauce, meat, and added vegetables, ready-to-heat",3,3,1.5878481e-37,4.966031e-19,7.062608e-16,1.0,True
+"Pumpkin, cooked, from frozen, fat not added in cooking",2,2,4.3059304e-06,1.9833127e-08,0.9995939,0.00040185347,True
+"Cereal, cooked, NFS",2,2,8.1300755e-08,3.2362883e-09,0.9999169,8.294077e-05,True
+"Muffin, English, multigrain",3,3,7.812405e-24,7.7902024e-17,4.2536287e-16,1.0,True
+"Cream of wheat, instant, made with water, NS as to fat added in cooking",3,3,3.1026168e-34,4.2804454e-20,1.5986552e-21,1.0,True
+Cereal (General Mills Lucky Charms Chocolate),3,3,0.0,0.0,0.0,1.0,True
+Sausage with tomato-based sauce,3,3,4.47968e-40,2.167484e-18,6.3379534e-06,0.9999937,True
+"Soursop, nectar",3,3,0.0073767174,0.00026661303,0.024431223,0.9679254,True
+Borscht,3,3,1.5693852e-14,2.749409e-07,0.0004003968,0.9995994,True
+"Fudge, vanilla",3,3,4.5253483e-27,1.6017216e-07,8.786655e-09,0.9999999,True
+"Crackers, woven wheat, plain (Triscuit)",3,3,1.44715e-27,1.8918195e-11,4.5098716e-09,1.0,True
+"Pickled green bananas, Puerto Rican style",3,3,2.15109e-25,3.3796307e-10,6.1300062e-12,1.0,True
+"Cabbage salad or coleslaw, from fast food / restaurant",3,3,0.0,6.7465012e-21,4.097681e-34,1.0,True
+Veal with butter sauce,3,3,1.6073897e-18,6.29942e-08,6.6287966e-09,0.9999999,True
+"Peas, from canned, creamed",3,3,8.4135514e-32,6.9554063e-20,1.210863e-16,1.0,True
+"Egg omelet or scrambled egg, with cheese and meat, made with animal fat or meat drippings",3,3,8.2222425e-05,4.123248e-05,0.011428243,0.9884483,True
+"Mung beans, dry, cooked, NS as to fat added in cooking",3,3,4.7747906e-17,2.7938265e-09,3.3794972e-06,0.99999666,True
+"Chocolate milk, made from syrup, NS as to type of milk",3,0,0.5228349,1.206399e-07,2.4774827e-06,0.47716245,False
+"Chicken thigh, rotisserie, skin eaten",2,2,2.513125e-09,1.2280296e-13,0.9999999,1.12564784e-07,True
+"Spinach, cooked, from fresh, NS as to fat added in cooking",3,3,8.323386e-13,3.6177805e-10,8.302041e-14,1.0,True
+"Chow mein or chop suey, various types of meat, with noodles",3,3,5.9751784e-28,1.9678887e-20,4.781261e-16,1.0,True
+Russian dressing,3,3,0.0,2.0827774e-25,1.0681798e-30,1.0,True
+"Chicken or turkey soup with dumplings, home recipe, canned or ready-to-serve",3,3,1.0772947e-20,1.054749e-08,3.5979733e-06,0.9999964,True
+"Lychee, raw",0,0,0.99041617,5.3113895e-11,0.00958322,5.567287e-07,True
+"Broccoli, chinese, raw",0,0,1.0,7.584468e-18,8.358897e-09,2.0604282e-11,True
+"Pork roast, shoulder, cooked, NS as to fat eaten",2,2,1.9173248e-14,4.440529e-20,1.0,5.0597664e-12,True
+"Cheese, provolone, reduced fat",2,2,1.298346e-12,3.4044271e-12,0.99999845,1.5694073e-06,True
+Soy nuts,2,2,2.3606864e-05,0.00026516613,0.6256919,0.3740193,True
+"Pancakes, with chocolate, from frozen",3,3,0.0,0.0,0.0,1.0,True
+"Greens, cooked, from fresh, made with butter",3,3,1.0776797e-22,1.2461884e-10,2.904489e-15,1.0,True
+"Ice cream cone, chocolate covered, with nuts, flavors other than chocolate",3,3,8.1026246e-26,1.143893e-23,7.89158e-14,1.0,True
+"Milk chocolate candy, plain",3,3,1.759722e-21,7.554759e-13,2.826066e-14,1.0,True
+"Turkey stick, baby food",3,3,5.0347525e-13,1.0742497e-06,0.1559143,0.8440847,True
+"Cookie, peanut butter, sugar free",3,3,1.49429e-40,7.4577174e-25,8.5119743e-26,1.0,True
+"Graham crackers, chocolate covered",3,3,0.0,1.126504e-35,1.1e-43,1.0,True
+"Yogurt, Greek, low fat milk, plain",0,0,0.9991316,5.3627858e-09,0.0006720501,0.0001964213,True
+"Corn, white, cooked, from fresh, made with butter",3,3,8.192758e-26,2.3025294e-13,2.716271e-15,1.0,True
+"Breakfast tart, lowfat",3,3,2.0406825e-36,2.2911154e-26,2.6486097e-27,1.0,True
+Cordial or liqueur,3,3,0.0,0.0,0.0,1.0,True
+"Ice cream, NFS",3,3,5.180746e-26,3.1706086e-14,2.9921198e-14,1.0,True
+"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",3,3,1.3806996e-29,8.613143e-16,6.886214e-19,1.0,True
+"Pie, mince, two crust",3,3,1.8040588e-36,1.5506116e-20,1.22350654e-23,1.0,True
+"Shrimp and clams in tomato-based sauce, with noodles, frozen meal",3,3,1.4002771e-37,2.64878e-28,1.1953714e-27,1.0,True
+"Pumpkin, cooked, from canned, fat not added in cooking",2,2,4.6999444e-09,5.5180025e-09,0.997715,0.0022850425,True
+"Fruit smoothie, bottled",0,0,0.9994381,9.700097e-14,0.0005618545,3.9981494e-09,True
+"Beet greens, raw",0,0,0.9999988,8.083897e-13,1.1557486e-06,3.1679832e-09,True
+"Ravioli, cheese-filled, no sauce",3,3,1.862854e-35,2.400415e-21,8.319579e-20,1.0,True
+Nutrition bar (South Beach Living Meal Bar),3,3,0.0,0.0,0.0,1.0,True
+Ham or pork salad,3,3,1.849528e-35,5.8063687e-18,2.2231006e-18,1.0,True
+Macaroni or noodles with cheese,3,3,6.2985683e-34,1.0981771e-21,1.1294334e-14,1.0,True
+Mojito,3,3,1.6469775e-08,1.1171094e-05,0.0034668855,0.99652195,True
+"Turnip greens, cooked, from fresh, made with oil",3,3,8.102365e-08,3.7655072e-06,0.04172515,0.958271,True
+Safflower oil,1,1,0.0,1.0,4.6389e-41,2.5752989e-36,True
+"Mayonnaise, fat free",3,2,2.388078e-38,1.481696e-21,0.52375746,0.4762426,False
+"Chocolate, milk, with peanuts",3,3,3.2194729e-27,2.3681312e-14,1.738127e-20,1.0,True
+"Peas, green, canned, low sodium, NS as to fat added in cooking",3,3,3.1562106e-15,8.200782e-14,1.5641178e-13,1.0,True
+"Apricots, baby food, strained",2,2,1.1703697e-12,1.4658643e-25,1.0,3.9301296e-13,True
+"Perch, coated, baked or broiled, made with cooking spray",3,3,1.5787745e-16,1.9896428e-12,3.776538e-07,0.99999964,True
+"Waffle, gluten free, from frozen",3,3,4.434e-41,6.02432e-27,1.1094776e-23,1.0,True
+"Beans, string, green, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,5.2463855e-30,4.7338244e-11,2.1524964e-15,1.0,True
+"Chicken thigh, fried, coated, skin / coating eaten, from raw",3,3,2.0165589e-19,1.8251887e-09,2.3448977e-06,0.9999976,True
+"Cream puff, eclair, custard or cream filled, NS as to icing",3,3,3.1051673e-31,3.7374484e-19,7.5989596e-15,1.0,True
+"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",3,3,4.500045e-18,3.804277e-11,4.3687237e-07,0.9999995,True
+"Cake, pound, reduced fat, cholesterol free",3,3,4.050065e-34,1.1279789e-20,3.995813e-21,1.0,True
+"Crackers, wheat, reduced fat",3,3,2.7090782e-38,4.0155378e-22,1.252474e-22,1.0,True
+Celery juice,0,0,0.98710376,2.4841715e-13,0.012896298,1.8204148e-09,True
+"Beef steak, battered, fried, lean and fat eaten",3,3,4.3947504e-24,2.0397608e-13,4.500595e-11,1.0,True
+"Wrap sandwich, filled with meat, poultry, or fish, vegetables, and cheese",3,3,0.0,4.2273534e-26,1.447811e-29,1.0,True
+"Chicken or turkey soup, cream of, canned, reduced sodium, NS as to made with milk or water",3,3,1.6643783e-13,2.8963927e-05,0.0005929318,0.9993781,True
+"Pike, steamed or poached",2,2,4.00036e-05,1.5552258e-17,0.99995995,1.8133777e-09,True
+Scotch,3,3,2.7071636e-18,1.0684706e-20,6.7048594e-14,1.0,True
+"Fava beans, dry, cooked, fat not added in cooking",2,2,2.1420098e-11,1.505021e-11,0.9999989,1.064348e-06,True
+"Cod, baked or broiled, made with margarine",2,0,0.9126485,5.0206216e-07,0.08627184,0.0010790965,False
+"Stewed red beans with pig's feet and potatoes, Puerto Rican style",3,3,1.9602436e-38,3.0096198e-16,1.6893187e-17,1.0,True
+"Peas, green, cooked, from fresh, fat added in cooking, NS as to type of fat",3,3,3.445744e-24,4.5592124e-17,1.4140371e-19,1.0,True
+"Rabbit, NS as to domestic or wild, breaded, fried",2,3,3.472693e-18,5.7626307e-11,0.0011268851,0.99887305,False
+"Peach, dried, uncooked",0,0,0.9999889,2.7464175e-13,1.1106675e-05,1.7351021e-14,True
+Fish curry,3,3,2.0621346e-26,4.0551246e-17,1.3473634e-14,1.0,True
+"Okra, cooked, from fresh, NS as to fat added in cooking",3,3,1.476021e-17,1.0957044e-09,4.221025e-09,1.0,True
+"Cheese sandwich, reduced fat Cheddar cheese, on whole wheat bread, with mayonnaise",3,3,3.381e-42,3.1077156e-23,9.037607e-20,1.0,True
+"Potato, baked, peel eaten, with vegetables",3,3,2.0114008e-19,6.17433e-11,1.193716e-14,1.0,True
+"Dosa (Indian), plain",3,3,1.7006e-41,5.5048374e-23,4.949713e-25,1.0,True
+"Cake, sponge, without icing or filling",3,3,1.3e-44,1.1359108e-28,8.8296925e-29,1.0,True
+"Okra, cooked, NS as to form, NS as to fat added in cooking",3,3,9.967726e-19,7.8319566e-11,7.429793e-13,1.0,True
+Frozen coffee drink,3,3,0.46300113,5.097013e-07,0.00017316783,0.5368252,True
+"Jam, preserve, marmalade, sweetened with fruit juice concentrates, all flavors",2,2,3.0246525e-13,1.686847e-21,0.9999989,1.0153483e-06,True
+"Pinto, calico, or red Mexican beans, canned, drained, made with oil",3,3,2.4591503e-20,4.9488026e-08,2.1516244e-09,1.0,True
+"Mushrooms, cooked, NS as to form, made with butter",3,3,9.4770275e-17,7.480061e-10,7.932323e-05,0.9999207,True
+"Infant formula, powder, made with tap water (Similac Advance)",3,3,2.52045e-40,9.9783785e-34,8.8e-44,1.0,True
+"Greens, cooked, from fresh, NS as to fat added in cooking",3,3,7.917174e-23,6.2137184e-11,7.4769223e-16,1.0,True
+Porcupine balls with mushroom sauce,3,3,8.669932e-33,1.8745372e-13,3.386396e-12,1.0,True
+"Carrots, cooked, from frozen, made with margarine",3,3,6.2761e-25,3.5247655e-10,3.556024e-10,1.0,True
+"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",3,3,0.00017471354,4.752521e-05,0.011478973,0.9882988,True
+"Double bacon cheeseburger, 2 large patties, with condiments, on bun, from fast food / restaurant",3,3,0.0,2.1399895e-27,3.625828e-29,1.0,True
+"Chicken or turkey salad, made with light mayonnaise-type salad dressing",3,3,5.3909815e-36,2.378571e-17,1.0455435e-22,1.0,True
+"Infant formula, NS as to form (Gerber Good Start Gentle)",3,3,1.1150363e-37,1.0767198e-34,1.18e-42,1.0,True
+"Beans, string, green, cooked, from canned, NS as to fat added in cooking",3,3,5.2463855e-30,4.7338244e-11,2.1524964e-15,1.0,True
+Chicken or turkey with dumplings,3,3,1.7578641e-19,3.6751144e-10,5.86249e-07,0.9999994,True
+"Potato, roasted, NFS",3,3,3.3362154e-24,2.0828827e-12,3.1863086e-15,1.0,True
+"Beef with vegetables, baby food, strained",2,2,1.1208247e-18,1.3842909e-07,0.9990459,0.00095390686,True
+"Sweet potatoes, baby food, strained",2,2,0.002899191,7.621497e-11,0.99709857,2.1999822e-06,True
+"Kale, cooked, NS as to form, NS as to fat added in cooking",3,3,5.0693103e-27,3.044552e-15,1.4319228e-19,1.0,True
+"Ham, fresh, cooked, lean and fat eaten",2,2,1.9800181e-14,9.669586e-23,1.0,2.990809e-13,True
+"Coffee, brewed, flavored",0,0,0.9999989,1.3458695e-18,1.3316291e-14,1.0854584e-06,True
+"Cake or cupcake, Black Forest",3,3,2.0656265e-37,2.0663957e-25,1.354147e-25,1.0,True
+Oyster sauce,3,3,8.853175e-19,7.9140816e-14,7.283544e-05,0.99992716,True
+"Potato chips, cheese flavored",3,3,7.1396475e-31,1.613897e-10,4.1061768e-12,1.0,True
+"Lettuce, salad with assorted vegetables including tomatoes and/or carrots, no dressing",0,0,0.9781295,6.39278e-20,0.02187046,2.8831484e-14,True
+"Cake, chocolate, with icing, diet",3,3,0.0,4.004849e-35,1.2929855e-38,1.0,True
+"Bread, gluten free",3,3,5.45646e-30,1.6210996e-15,8.142381e-14,1.0,True
+"Cheeseburger, 1 medium patty, with condiments, on bun, from fast food / restaurant (Wendy's 1/4 lb Single with cheese)",3,3,0.0,2.1287443e-28,4.3223986e-29,1.0,True
+"Rice, white, with other vegetables, NS as to fat added in cooking",3,3,1.3625944e-31,5.0603522e-17,1.0395103e-15,1.0,True
+"Cereal or granola bar, with coconut, chocolate coated",3,3,3.2781408e-27,9.1824385e-15,8.900528e-13,1.0,True
+"Clams, steamed or boiled",2,2,0.00016603562,5.684251e-15,0.99983394,1.5887409e-08,True
+"Toblerone, milk chocolate with honey and almond nougat",3,3,2.634643e-27,5.9359116e-16,1.4087015e-19,1.0,True
+"Beef and egg noodles, baby food, NS as to strained or junior",2,2,3.025206e-20,1.5697388e-11,0.9998727,0.00012730522,True
+"Rice, white, with vegetables and gravy, fat added in cooking",3,3,6.803995e-32,1.7268765e-15,1.1615338e-09,1.0,True
+100 GRAND Bar,3,3,7.3e-44,4.201422e-26,3.629066e-29,1.0,True
+"Oatmeal, from fast food, fruit flavored",3,3,1.8024308e-26,1.406719e-13,6.2573514e-12,1.0,True
+"Zucchini soup, cream of, prepared with milk",3,3,6.4543715e-10,1.6588913e-06,0.00071014283,0.99928826,True
+"Chicken soup, baby food",2,2,5.918881e-09,2.006009e-08,0.99935883,0.0006411814,True
+Nutritional powder mix (Carnation Instant Breakfast),3,3,0.0,0.0,0.0,1.0,True
+"Cod, coated, fried, made with margarine",3,3,2.1057196e-19,5.754122e-14,7.442434e-08,0.9999999,True
+"Cauliflower, cooked, from fresh, made with oil",3,3,1.1568688e-13,9.597991e-06,0.099543236,0.90044713,True
+"Turnip, cooked, from fresh, fat added in cooking, NS as to type of fat",3,3,4.74875e-27,4.8086264e-07,1.2197443e-17,0.9999995,True
+"Milk, low sodium, whole",0,0,0.9999187,1.4989496e-08,3.242844e-09,8.1337006e-05,True
+"Fried dwarf banana, Puerto Rican style",3,3,4.0147056e-06,1.1448176e-06,0.03204271,0.96795213,True
+"Beef noodle soup, Puerto Rican style",3,3,3.2128076e-25,4.3317776e-12,0.00020041034,0.99979955,True
+"Eggplant in tomato sauce, cooked, fat not added in cooking",2,2,3.9149768e-18,3.5095419e-15,1.0,7.931937e-09,True
+"Vegetable and chicken, baby food, NS as to strained or junior",2,2,8.5529586e-16,4.0659e-11,0.9999994,6.5421443e-07,True
+"Pork and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce",3,3,2.8047156e-25,5.6270013e-16,1.2356787e-15,1.0,True
+"Coffee creamer, liquid, sugar free, flavored",3,3,0.0,5.1641375e-24,0.0,1.0,True
+"Cheese sandwich, American cheese, on white bread, with mayonnaise",3,3,0.0,1.9037029e-26,1.3111282e-25,1.0,True
+"Sausage and vegetables including  carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",3,3,0.0,1.3584272e-23,8.084928e-27,1.0,True
+Sausage griddle cake sandwich,3,3,0.0,7.205971e-24,1.795529e-24,1.0,True
+"Tomatoes, cooked, from canned, NS as to method",2,2,0.00014183308,1.4198288e-12,0.9781758,0.02168238,True
+"Potato, french fries, with cheese",3,3,6.6685193e-34,7.6433995e-18,6.614059e-24,1.0,True
+"Corn, yellow, cooked, from frozen, made with oil",3,3,4.1533103e-19,9.796443e-09,4.5645018e-07,0.9999995,True
+"Chicken wing, fried, coated, from pre-cooked",3,3,9.357561e-27,1.0424271e-11,2.9127847e-10,1.0,True
+"Beef sandwich, NFS",3,3,0.0,4.6731707e-26,2.7238276e-28,1.0,True
+"Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",3,3,1.2275326e-29,2.1076609e-15,4.6105706e-21,1.0,True
+"Okra, cooked, from canned, made with butter",3,3,2.8840714e-17,2.3640032e-09,5.9160307e-08,0.9999999,True
+"Corn, yellow, cooked, NS as to form, made with butter",3,3,1.8517079e-29,6.4195184e-14,2.3763385e-18,1.0,True
+"Frankfurter or hot dog sandwich, meat and poultry, plain, on white bread",3,3,2.1e-44,2.4786242e-22,1.11730945e-23,1.0,True
+"Venison or deer, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",3,3,0.0,1.2617687e-28,3.653067e-29,1.0,True
+Beef with cream or white sauce,2,2,5.0741145e-17,2.1167355e-13,0.9991191,0.0008808869,True
+"Custard pudding, baby food, flavor other than chocolate, junior",3,3,6.072101e-17,8.7827634e-11,2.4284718e-05,0.9999757,True
+"Infant formula, powder, made with water, NFS (PurAmino)",3,3,4.456115e-39,7.7709654e-33,2.7949e-41,1.0,True
+"Croissant sandwich with bacon, egg, and cheese",3,3,2.0204105e-37,1.7554635e-22,1.547483e-16,1.0,True
+Falafel,3,3,1.7741411e-34,4.1022585e-14,3.711828e-13,1.0,True
+"Doughnut, cake type, chocolate covered, dipped in peanuts",3,3,0.0,5.285138e-36,2.25575e-40,1.0,True
+"Light ice cream, soft serve, flavors other than chocolate",3,3,0.009638956,4.753833e-05,0.0029591431,0.98735434,True
+"Whole wheat cereal, cooked, fat not added in cooking",2,2,0.0005373899,2.8899947e-07,0.9954489,0.0040133824,True
+"Yogurt, frozen, sandwich",3,3,8.0854387e-23,5.495313e-15,1.461263e-11,1.0,True
+"Potato, scalloped, from fresh, with meat",3,3,1.7534003e-24,8.715379e-14,2.7160978e-09,1.0,True
+"Watercress, cooked, fat added in cooking",3,3,2.5592723e-17,5.008135e-10,1.7232316e-14,1.0,True
+"Peas and carrots, cooked, from frozen, made with oil",3,3,3.8676572e-24,2.4201203e-12,2.7690923e-09,1.0,True
+"Fruit juice, acai blend",2,3,4.9222213e-33,1.4749e-41,2.480029e-18,1.0,False
+"Infant formula, powder, made with plain bottled water (Gerber Good Start Soy)",3,3,2.164e-42,3.7073042e-33,6e-43,1.0,True
+"Chicken, NS as to part, grilled with sauce, skin eaten",3,3,2.0233743e-35,7.7519026e-17,4.3216097e-09,1.0,True
+"Infant formula, liquid concentrate, made with baby water (Enfamil Infant)",3,3,5.832836e-39,3.8949096e-34,3.18e-43,1.0,True
+"Rice, white, with vegetables and gravy, NS as to fat added in cooking",3,3,6.803995e-32,1.7268765e-15,1.1615338e-09,1.0,True
+"Infant formula, liquid concentrate, made with baby water (Gerber Good Start Gentle)",3,3,1.8540895e-37,1.277057e-34,3.95e-43,1.0,True
+Mexican style chicken broth soup stock,3,3,5.1988e-34,6.399063e-15,2.3519886e-18,1.0,True
+"Pork chop, fried, lean only eaten",2,2,1.381461e-11,2.815422e-16,0.99999464,5.337504e-06,True
+Cereal or granola bar (Quaker Chewy Dipps Granola Bar),3,3,2.3241367e-24,2.1093983e-15,1.7387394e-10,1.0,True
+"Meat and corn hominy soup, home recipe, Mexican style",3,3,1.1646078e-15,9.746151e-09,0.00014245698,0.99985754,True
+"Pork sausage, reduced fat",2,2,1.83825e-15,8.4039623e-16,0.99999976,2.0622485e-07,True
+"Cookie, sugar wafer, chocolate-covered",3,3,3.3158506e-32,1.54858215e-30,1.1221607e-25,1.0,True
+"Pasta with cream sauce, ready-to-heat",3,3,0.0,5.758844e-29,1.5349991e-26,1.0,True
+Beef goulash with noodles,3,3,1.6855436e-28,9.2069065e-18,4.0388283e-14,1.0,True
+Tuna noodle casserole with vegetables and mushroom sauce,3,3,6.5683817e-29,5.350087e-22,4.3910628e-17,1.0,True
+"Crisp, blueberry",3,3,0.0,6.245814e-33,7.5975565e-33,1.0,True
+"Coffee substitute, dry powder",0,3,0.00510782,2.9882e-07,3.4418315e-07,0.9948915,False
+"Tea, hot, leaf, oolong",3,3,2.7234917e-08,7.2748066e-22,1.7973184e-23,1.0,True
+"Beef and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, gravy",3,3,1.1777397e-30,6.795436e-13,1.4250387e-14,1.0,True
+Pork curry,3,3,3.579698e-33,3.157756e-20,1.02535764e-19,1.0,True
+"Lentils, dry, cooked, made with animal fat or meat drippings",3,3,5.0264063e-20,1.0306608e-09,7.152461e-08,0.9999999,True
+"Chard, cooked, NS as to fat added in cooking",3,3,1.5761205e-17,1.5958209e-11,1.5663977e-18,1.0,True
+"Kohlrabi, creamed",3,3,1.5180236e-20,3.129562e-13,3.093811e-12,1.0,True
+"Stuffed tannier fritters, Puerto Rican style",3,3,0.0,1.1148894e-26,1.4702567e-30,1.0,True
+"Pie, pear, individual size or tart",3,3,0.0,4.3284563e-28,1.864188e-30,1.0,True
+"Milk, dry, reconstituted, fat free (skim)",0,0,0.9999356,3.5101823e-06,8.2389406e-08,6.083632e-05,True
+"Cabbage, red, cooked, made with butter",3,3,2.0113605e-21,1.0489316e-10,7.927814e-15,1.0,True
+"Margarine, NFS",3,3,7.1751746e-37,1.5335185e-11,0.0,1.0,True
+"Egg substitute, omelet, scrambled, or fried, with meat, fat not added in cooking",3,2,2.8634985e-09,3.6967297e-11,0.9281083,0.07189176,False
+"Stewed pork, Puerto Rican style",3,3,4.967875e-31,5.9906676e-15,2.546238e-07,0.99999976,True
+"Broccoli, cooked, NS as to form, with cream sauce",3,3,1.5935755e-23,2.8571286e-13,1.9934041e-12,1.0,True
+"Infant formula, liquid concentrate, made with plain bottled water (Enfamil Infant)",3,3,3.2071358e-38,7.851384e-34,2.728e-42,1.0,True
+"Snack mix, plain (Chex Mix)",3,3,1.3417e-40,5.1490107e-24,1.01456245e-23,1.0,True
+"Marshmallow, coconut-coated",3,3,1.5328998e-13,4.1311094e-05,0.24753547,0.7524232,True
+"Chicken drumstick, NS as to cooking method, skin not eaten",2,2,3.465267e-16,2.172531e-25,1.0,4.4867398e-13,True
+Chorizo,3,3,7.5059816e-32,6.5700985e-14,7.7349305e-10,1.0,True
+"Beans, string, yellow, cooked, from canned, made with margarine",3,3,9.916494e-17,4.7547324e-08,4.3975956e-07,0.9999995,True
+Seafood dip,3,3,3.24551e-38,1.2105304e-16,3.832012e-18,1.0,True
+"Whiting, cooked, NS as to cooking method",3,3,1.3425833e-19,2.1933982e-11,3.6813503e-08,1.0,True
+Oyster pie,3,3,9.371469e-32,7.55278e-22,2.5404413e-13,1.0,True
+"Cheeseburger, 1 small patty, with condiments, on bun, from fast food / restaurant (Wendy's Kid's Cheeseburger)",3,3,0.0,1.551214e-29,4.8578916e-30,1.0,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from frozen, NS as to fat added in cooking",3,3,3.3512086e-28,7.1361586e-17,1.2665306e-17,1.0,True
+"Tomatoes, green, cooked, from fresh",3,3,3.27996e-40,3.0760798e-25,3.7709424e-28,1.0,True
+"Beef brisket, cooked, lean and fat eaten",2,2,9.981696e-18,1.5943936e-19,1.0,4.856181e-10,True
+"Beef, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; soy-based sauce",3,3,1.9589932e-25,2.502901e-14,2.0345932e-09,1.0,True
+"Asparagus, cooked, from fresh, made with oil",3,3,3.3876874e-18,7.663473e-12,8.9591884e-07,0.99999905,True
+"Cornish game hen, cooked, skin eaten",2,2,1.1765431e-11,7.1939676e-09,0.9981553,0.0018447066,True
+"Infant formula, liquid concentrate, made with tap water (Enfamil Infant)",3,3,7.89416e-39,4.1075092e-34,1.645e-42,1.0,True
+"Bread, rye, reduced calorie and/or high fiber, toasted",3,3,1.6484337e-28,9.639816e-18,4.277283e-18,1.0,True
+"Pretzels, soft, ready-to-eat, unsalted, no butter",3,3,2.8896147e-22,7.683113e-14,7.686786e-12,1.0,True
+"Crab soup, cream of, prepared with milk",3,3,6.782283e-23,1.395128e-12,2.7695225e-07,0.99999976,True
+"Beef liver, braised",2,2,0.0006861699,1.12770236e-20,0.9993125,1.3341463e-06,True
+"Bread, onion",3,3,2.57e-42,1.2704458e-31,2.119103e-28,1.0,True
+"Tilapia, coated, fried, made without fat",3,3,3.626588e-14,8.323759e-11,1.7203214e-07,0.9999999,True
+"Peas, from fresh, creamed",3,3,7.1175953e-23,3.6310268e-17,1.0725084e-14,1.0,True
+"Swordfish, coated, baked or broiled, fat added in cooking",3,3,2.3405932e-18,5.332643e-14,7.276536e-07,0.9999993,True
+"Beans, green string, baby food, toddler",2,0,0.80613726,3.0350998e-13,0.19386265,6.594315e-08,False
+"Asparagus, cooked, from frozen, NS as to fat added in cooking",3,3,3.391869e-32,1.5385177e-17,2.4296117e-19,1.0,True
+"Bread, pita, whole wheat, toasted",3,3,4.1198512e-18,2.014464e-11,1.396778e-05,0.99998605,True
+"Vegetable combinations, including carrots, broccoli, and/or dark-green leafy; cooked, with butter sauce and pasta",3,3,2.0271e-41,1.0998193e-23,6.471413e-28,1.0,True
+"Breadfruit, cooked, fat added in cooking",3,3,1.822203e-26,2.0652556e-15,1.0704753e-17,1.0,True
+"Crayfish, boiled or steamed",2,2,4.9226947e-09,9.892051e-25,1.0,8.4531015e-14,True
+"Tea, iced, instant, green, pre-sweetened with sugar",3,3,4.0110258e-35,6.4487e-33,5.0422503e-35,1.0,True
+"Corn, cooked, from canned, NS as to color, fat added in cooking, NS as to type of fat",3,3,9.979955e-31,2.883801e-14,4.429484e-19,1.0,True
+"Garlic egg soup, Puerto Rican style",3,3,2.9150887e-23,6.684378e-14,1.7398664e-11,1.0,True
+"Pork, spareribs, cooked, NS as to fat eaten",2,2,2.159479e-15,2.567744e-22,1.0,1.9286567e-12,True
+"Nuts, NFS",2,2,8.909363e-09,2.302641e-12,0.99999833,1.6249926e-06,True
+"Cheese sandwich, reduced fat American cheese, on whole wheat bread, with butter",3,3,1.5082399e-35,6.730898e-21,1.604061e-14,1.0,True
+"Bread, wheat or cracked wheat, reduced calorie and/or high fiber",3,3,8.6118704e-29,2.7560543e-18,1.2133122e-18,1.0,True
+"Tomato beef noodle soup, prepared with water",3,3,2.7216884e-27,6.3979936e-13,4.0917183e-07,0.99999964,True
+"Peach, cooked or canned, drained solids",2,2,0.00014265582,6.026514e-09,0.9540558,0.045801554,True
+"Chicken breast, fried, coated, skin / coating not eaten, from raw",2,2,6.0038915e-13,5.146672e-15,0.9999988,1.190291e-06,True
+"Turnip, cooked, from frozen, made with oil",3,3,3.9757915e-18,6.918763e-07,3.6378375e-10,0.9999993,True
+"Milk, calcium fortified, whole",0,0,0.9908764,2.6313185e-07,7.841627e-06,0.009115588,True
+"Breakfast pastry, NFS",3,3,0.0,3.200616e-34,2.8566797e-37,1.0,True
+"Pinto, calico, or red Mexican beans, dry, cooked, made with margarine",3,3,6.7403754e-22,3.2274641e-13,3.598756e-11,1.0,True
+"Onion rings, from frozen, batter-dipped, baked or fried",3,3,1.0278e-40,2.9430762e-17,2.8905576e-18,1.0,True
+"Haddock, steamed or poached",2,2,0.00017065195,2.0527343e-18,0.9998292,1.2425635e-07,True
+"Corn, yellow, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,9.979955e-31,2.883801e-14,4.429484e-19,1.0,True
+"Oatmeal, from fast food, other flavors",3,3,2.9618035e-26,4.5175225e-14,7.067167e-11,1.0,True
+"Asparagus, from canned, creamed or with cheese sauce",3,3,4.7329991e-35,2.1010901e-19,1.1623701e-19,1.0,True
+"Pepperoni, reduced fat",2,2,8.915484e-15,6.0031804e-15,0.99999964,3.5016316e-07,True
+"Onion rings, from fresh, batter-dipped, baked or fried",3,3,0.0,1.9605013e-27,4.213931e-31,1.0,True
+"Squash and corn, baby food, strained",2,0,0.99991655,1.6143509e-13,8.342687e-05,7.125833e-11,False
+Bagel,3,3,1.3295366e-33,1.4644413e-22,4.394166e-23,1.0,True
+"Infant formula, liquid concentrate, made with water, NFS (Similac Advance)",3,3,2.52045e-40,9.9783785e-34,8.8e-44,1.0,True
+"Lamb chop, NS as to cut, cooked, NS as to fat eaten",2,2,9.3717194e-17,2.454468e-17,1.0,7.674477e-09,True
+"Beans, string, green, NS as to form, creamed or with cheese sauce",3,3,2.2460482e-25,8.180149e-13,5.332123e-12,1.0,True
+"Pasta with tomato-based sauce and seafood, home recipe",3,3,4.862512e-36,7.91977e-31,2.3266181e-26,1.0,True
+"Veal chop, fried, NS as to fat eaten",3,3,2.4433561e-20,5.275449e-13,2.6417794e-07,0.99999976,True
+"Crackers, gluten free, plain",3,3,2.2147776e-13,7.1746185e-06,0.0010658979,0.99892694,True
+"Bread, fruit",3,3,1.5e-44,4.265332e-29,7.55442e-30,1.0,True
+"Grape juice drink, light",3,0,1.0,2.9816875e-11,4.4010648e-10,3.9986908e-08,False
+"Watercress, cooked, fat not added in cooking",0,0,0.9994879,7.657682e-13,0.00051207916,7.7790006e-09,True
+"Crackers, cheese, reduced fat",3,3,1.5766437e-32,1.05587395e-19,9.77502e-24,1.0,True
+"Coconut cream, canned, sweetened",2,3,2.5315531e-11,1.4242507e-06,0.41265017,0.5873484,False
+"Strudel, peach",3,3,1.19582e-39,2.6751425e-27,1.3206859e-25,1.0,True
+"Cookie, graham cracker with chocolate and marshmallow",3,3,2.14e-43,1.144791e-25,2.074771e-30,1.0,True
+"Caramel dip, regular",3,3,0.0,7.109792e-27,3.60563e-40,1.0,True
+"Kiwi fruit, raw",0,0,0.99999774,7.017341e-16,2.3048678e-06,1.6840664e-11,True
+"Cod, baked or broiled, made with oil",2,2,0.016018273,2.1156816e-06,0.9835054,0.00047407806,True
+"Pretzels, soft, filled with cheese",3,3,7.001615e-29,1.2188227e-19,5.348899e-16,1.0,True
+"Apple, dried, uncooked",0,0,0.98165154,1.4739669e-07,0.018348183,5.986016e-08,True
+"Cheese, cottage, with vegetables",3,3,1.2935663e-18,3.9959454e-09,0.0002857742,0.9997142,True
+"Lamb or mutton stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3,3,7.2311804e-26,3.782495e-12,8.9989726e-07,0.99999905,True
+"White pizza, cheese, with meat and vegetables, thick crust",3,3,5.102e-42,4.9454803e-27,5.7847734e-24,1.0,True
+"Mustard greens, cooked, from frozen, made with oil",2,3,1.2329528e-10,5.3777526e-06,0.0005115903,0.999483,False
+"Ice cream, soft serve, chocolate",3,3,3.4937264e-30,1.215624e-18,5.1034973e-20,1.0,True
+"Lasagna with meat, home recipe",3,3,3.07e-43,4.179592e-23,6.3248575e-20,1.0,True
+"Frankfurter or hot dog, meat and poultry",3,3,3.607821e-19,1.3559488e-06,4.0853996e-07,0.9999982,True
+"Pancakes, cornmeal",3,3,0.0,2.699601e-28,1.9432549e-29,1.0,True
+"Pizza, cheese, with vegetables, from frozen, thin crust",3,3,0.0,7.982965e-35,2.7339972e-36,1.0,True
+"Cheese sandwich, reduced fat Cheddar cheese, on white bread, with mayonnaise",3,3,0.0,1.1273474e-26,8.9253054e-26,1.0,True
+"Sangria, white",3,2,0.00017163358,2.088448e-05,0.8547209,0.1450866,False
+"Tomato and onion, cooked, NS as to fat added in cooking",3,3,3.4805873e-28,2.9198963e-12,3.1356248e-14,1.0,True
+"Popcorn, caramel coated",3,3,5.814688e-38,3.111689e-16,1.4023068e-13,1.0,True
+"Rice, white, with dark green vegetables and tomatoes and/or tomato-based sauce, NS as to fat added in cooking",3,3,1e-44,4.8569357e-27,5.316872e-26,1.0,True
+"Crackers, matzo",3,3,2.8515526e-10,5.7957086e-16,2.3135625e-12,1.0,True
+"Turnip greens with roots, cooked, NS as to form, NS as to fat added in cooking",3,3,7.129494e-24,6.2269406e-13,7.9053294e-19,1.0,True
+"Peas and carrots, from fresh, creamed",3,3,3.1124598e-24,3.4786025e-17,2.969911e-14,1.0,True
+"Light ice cream, chocolate",3,3,5.315262e-29,4.971222e-20,6.79159e-20,1.0,True
+"Infant formula, NS as to form (Similac Expert Care for Diarrhea)",3,3,0.0,5.2666e-41,0.0,1.0,True
+"Pomegranate juice beverage, 40-50% juice, light",0,0,0.99957675,3.2629985e-10,0.0004210886,2.0861694e-06,True
+Croutons,3,3,1.3825e-41,1.1108654e-25,5.5170904e-24,1.0,True
+"Enchilada, just cheese, meatless, no beans, red-chile or enchilada sauce",3,3,0.0,8.854178e-22,4.2809713e-26,1.0,True
+"Yellow, canary, or Peruvian beans, dry, cooked, fat not added in cooking",3,3,1.6170998e-12,5.132012e-08,7.5677012e-06,0.9999924,True
+"Frankfurter or hot dog sandwich, fat free, plain, on whole grain white bread",3,3,2.6125828e-36,1.0777255e-21,6.13078e-19,1.0,True
+"Beans, string, cooked, from frozen, NS as to color, fat not added in cooking",2,2,1.9310004e-13,1.613295e-16,1.0,4.1893867e-11,True
+"Crepe, filled with meat, poultry, or seafood, with sauce",3,3,6.592138e-26,6.6185062e-15,3.282167e-10,1.0,True
+"Pie, shoo-fly",3,3,1.6950535e-29,9.667171e-19,4.494205e-22,1.0,True
+"Turkey with barbecue sauce, skin not eaten",3,3,1.6804623e-26,1.1431796e-14,0.10901853,0.89098144,True
+"Cheeseburger, 1 medium patty, plain, on wheat bun",3,3,2.826054e-26,2.7563123e-14,1.31047955e-08,1.0,True
+"Onions, cooked, NS as to form, made with margarine",3,3,3.6253556e-11,4.7740065e-07,3.9685132e-05,0.9999598,True
+"Mustard cabbage, cooked, fat not added in cooking",2,2,1.7242518e-06,2.643949e-14,0.99999833,2.4894768e-09,True
+"Burrito with meat and beans, from fast food",3,3,0.0,9.9078065e-31,8.477618e-35,1.0,True
+"Veal, breaded, with spaghetti, in tomato sauce, frozen meal",3,3,0.0,1.5360688e-29,1.8799213e-29,1.0,True
+"Crackers, flatbread",3,3,1.4230552e-30,2.1926397e-16,4.069785e-17,1.0,True
+"Pasta, whole grain, with cream sauce and poultry, ready-to-heat",3,3,4.7517194e-29,5.695391e-17,2.8213577e-11,1.0,True
+"Beans, canned, drained, NS as to type, fat added in cooking",3,3,2.4435712e-20,4.944623e-08,2.1490858e-09,1.0,True
+"Tangerine juice, 100%",0,0,0.9984652,9.663163e-12,0.0015346532,2.4068146e-07,True
+"Refried beans, made with animal fat or meat drippings",3,3,1.5432767e-20,4.580848e-09,5.9706046e-11,1.0,True
+"Potato chips, fat free",3,3,4.128719e-18,3.4460563e-11,5.6479706e-08,1.0,True
+"Teriyaki chicken with rice and vegetable, diet frozen meal",3,3,0.0,2.4903256e-32,4.6113056e-30,1.0,True
+"Asparagus, cooked, from frozen, fat added in cooking, NS as to type of fat",3,3,1.2084619e-26,3.3743468e-15,2.3084435e-17,1.0,True
+Cake made with glutinous rice,3,3,7.000943e-07,0.0047254884,0.41585568,0.5794181,True
+"Perch, coated, fried, made with cooking spray",3,3,3.042023e-16,8.8359703e-10,6.5405807e-06,0.99999344,True
+"Oatmeal, multigrain, fat not added in cooking",2,2,3.5311382e-07,8.0348556e-08,0.88643044,0.11356907,True
+"Broccoflower, cooked, made with oil",3,3,2.8787597e-12,5.2287116e-05,0.022935366,0.9770123,True
+"Pasta with cream sauce, seafood, and added vegetables, restaurant",3,3,0.0,1.5028e-29,1.4016402e-29,1.0,True
+"Frankfurter or hot dog sandwich, with meatless chili, on multigrain bun",3,3,6e-45,3.1824118e-21,8.075987e-20,1.0,True
+"Potato, roasted, ready-to-heat",3,3,3.3362154e-24,2.0828827e-12,3.1863086e-15,1.0,True
+"Chicken drumstick, grilled with sauce, skin eaten",3,3,2.6838363e-38,2.6583494e-18,2.5131336e-10,1.0,True
+"Squash, baby food, strained",2,2,0.00050759857,9.164912e-13,0.9994924,4.3221725e-11,True
+"Cereal or granola bar, oats, nuts, coated with non-chocolate coating",3,3,5.390286e-16,4.6998863e-12,1.8706685e-06,0.9999981,True
+"Yogurt, frozen, NS as to flavor, lowfat milk",3,3,4.306307e-12,2.0837687e-12,2.3998287e-10,1.0,True
+"Sushi roll, salmon",3,3,7.471751e-17,1.0020851e-13,0.0052285264,0.9947714,True
+"Cress, raw",0,0,1.0,7.0160506e-22,3.004388e-13,2.4175976e-15,True
+"Sour cream, half and half",1,3,0.008981651,0.0002276609,0.00012250525,0.99066824,False
+"Salmon, coated, fried, made with margarine",3,3,3.378293e-16,1.9027136e-13,1.3347211e-05,0.99998665,True
+"Grits, instant, made with milk, fat not added in cooking",3,3,2.9108453e-37,3.2108768e-26,2.0554882e-28,1.0,True
+"Chocolate milk, made from dry mix, NS as to type of milk (Nesquik)",3,3,4.0967006e-06,1.0933169e-08,7.1648133e-06,0.9999887,True
+"Nutritional powder mix, protein, NFS",3,3,3.6086316e-08,2.994165e-13,2.7001226e-08,0.9999999,True
+Sausage and noodles with cream or white sauce,3,3,2.2956313e-32,3.6720534e-22,2.083224e-16,1.0,True
+"Fruit salad, excluding citrus fruits, with salad dressing or mayonnaise",3,3,3.3740122e-30,6.556206e-17,3.3451505e-23,1.0,True
+"Rice, white, with vegetables, cheese and/or cream based sauce, NS as to fat added in cooking",3,3,4.4442402e-35,2.3852183e-20,1.905826e-17,1.0,True
+"Light ice cream, no sugar added, NS as to flavor",3,3,1.5470323e-11,6.822921e-08,6.745767e-10,0.9999999,True
+"Fish, NS as to type, coated, fried, made with margarine",3,3,4.9803705e-18,5.2248025e-14,1.0203415e-06,0.9999989,True
+Eggplant dip,3,3,5.9392825e-17,1.7639656e-10,1.3748311e-07,0.9999999,True
+"Pork, tenderloin, braised",2,2,1.9174136e-13,2.0113355e-23,1.0,1.9838674e-13,True
+"Rice soup, NFS",3,3,1.2629748e-19,1.0571218e-09,0.0034414462,0.9965585,True
+"Catfish, coated, fried, made with margarine",3,3,2.015632e-20,1.758917e-13,7.796715e-09,1.0,True
+"Egg omelet or scrambled egg, with cheese and vegetables other than dark green and/or tomatoes, fat not added in cooking ",3,3,6.0862435e-21,1.7224645e-12,2.4990804e-10,1.0,True
+Tomato aspic,2,2,2.1781675e-08,3.4589291e-15,0.9999503,4.9693776e-05,True
+"Beans, string, green, canned, low sodium, made with butter",3,3,3.5813697e-15,2.5061688e-06,1.3774802e-06,0.99999607,True
+"Carbonated water, sweetened",3,3,1e-45,2.553809e-26,1.7409965e-32,1.0,True
+"Beef, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; soy-based sauce",3,3,2.291029e-25,5.0514254e-12,8.048863e-12,1.0,True
+"Chicken or turkey a la king with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cream, white, or soup-based sauce",3,3,2.58756e-35,4.9097853e-19,1.40067e-18,1.0,True
+"Beans, string, yellow, cooked, from fresh, made with butter",3,3,1.2831773e-24,2.9480034e-13,1.0310774e-17,1.0,True
+"Pasta, whole grain, with cream sauce, poultry, and added vegetables, ready-to-heat",3,3,3.2177548e-34,8.7922895e-20,4.692715e-18,1.0,True
+"Pasta, cooked",3,3,1.9463852e-22,4.8730107e-18,1.3631728e-14,1.0,True
+"Beef, NS as to cut, fried, NS to fat eaten",2,2,2.406176e-18,6.370461e-25,1.0,1.3574842e-12,True
+Oysters Rockefeller,3,3,1.297146e-22,9.190835e-18,2.5570907e-10,1.0,True
+"Cheese, American, nonfat or fat free",3,3,1.3976604e-15,6.7154944e-31,0.005391817,0.99460816,True
+Cereal (Quaker Oatmeal Squares),3,3,0.0,8.483644e-33,1.10879714e-29,1.0,True
+"Beans, string, green, cooked, Szechuan-style",3,3,2.6140324e-18,5.7618252e-09,2.6935787e-09,1.0,True
+"Egg, cheese, and beef on English Muffin",3,3,6.295652e-37,1.8641833e-20,3.6618827e-15,1.0,True
+"Beans, string, yellow, cooked, NS as to form, NS as to fat added in cooking",3,3,9.6192004e-27,2.177669e-12,1.8493714e-14,1.0,True
+"Waffle, cornmeal",3,3,4.9e-44,3.6250966e-28,2.4854609e-29,1.0,True
+Energy drink (XS Gold Plus),3,3,1.3000069e-18,3.3631084e-34,4.366e-42,1.0,True
+"Infant formula, powder, made with plain bottled water (Gerber Good Start Protect)",3,3,3.3610897e-37,1.956363e-34,1.368e-42,1.0,True
+"Biscuit, cheese",3,3,0.0,4.2400894e-29,2.9891992e-29,1.0,True
+"Broccoli and chicken, baby food, strained",2,3,2.3809824e-05,9.326648e-08,0.06252106,0.937455,False
+"Chicken drumstick, baked, coated, skin / coating eaten",3,2,1.4890038e-14,4.1599799e-10,0.9448319,0.05516811,False
+"Potato tots, school",3,3,6.9701647e-15,9.1021356e-08,5.814485e-09,0.9999999,True
+"Turkey and bacon submarine sandwich, with lettuce, tomato and spread",3,3,0.0,4.0935918e-32,2.0019604e-36,1.0,True
+"Oat bran, uncooked",0,0,0.9995436,1.945546e-10,1.2047939e-05,0.0004443263,True
+"Pizza with meat and vegetables, from frozen, thin crust",3,3,0.0,4.004409e-26,3.3277788e-22,1.0,True
+"Chard, cooked, fat not added in cooking",0,0,0.67809266,1.951269e-08,0.32184267,6.4621534e-05,True
+Shrimp-egg patty,3,3,7.9702037e-19,5.84219e-12,5.1605486e-05,0.9999484,True
+"Yogurt, frozen, NS as to flavor, nonfat milk",3,3,1.1645901e-10,1.2394094e-13,2.6033937e-11,1.0,True
+"Brussels sprouts, cooked, from frozen, NS as to fat added in cooking",3,3,7.251153e-20,2.5664549e-12,6.2936513e-17,1.0,True
+"Soft drink, cola, fruit or vanilla flavored, diet",3,3,4.753542e-10,5.9200594e-16,7.190901e-15,1.0,True
+"Soft taco with meat, from fast food",3,3,4.85e-43,2.1171497e-26,1.0395292e-24,1.0,True
+"Infant formula, liquid concentrate, made with baby water (Similac Advance)",3,3,2.30067e-40,9.709821e-34,2.4e-44,1.0,True
+"Clams, coated, baked or broiled, fat not added in cooking",3,3,5.092152e-23,3.4180754e-20,7.4534964e-13,1.0,True
+"Margarine-like spread, reduced calorie, about 40% fat, stick, salted",3,3,0.0,4.1316937e-27,0.0,1.0,True
+"Mushroom soup, cream of, prepared with milk",3,3,9.322343e-23,6.5728e-12,5.2285867e-14,1.0,True
+"Cucumber pickles, dill",2,2,2.5283158e-16,1.825572e-11,0.99998736,1.2613212e-05,True
+"Egg substitute, omelet, scrambled, or fried, made with oil",3,3,6.422975e-17,2.2626333e-13,9.582206e-13,1.0,True
+"Turkey with gravy, dressing, vegetable and fruit, diet frozen meal",3,3,5.184393e-30,2.578222e-18,2.4203646e-16,1.0,True
+"Cookie, vanilla sandwich, extra filling",3,3,0.0,3.6703e-41,0.0,1.0,True
+"Coconut water, unsweetened",3,3,1.7766059e-27,1.2089331e-17,1.1138414e-15,1.0,True
+"Bread, reduced calorie and/or high fiber, white or NFS, toasted",3,3,8.8937885e-36,1.1748703e-26,2.2018256e-24,1.0,True
+"Vegetable soup, reduced sodium, canned, ready to serve",2,3,8.3735595e-13,1.7140419e-08,6.945797e-08,0.9999999,False
+Shrimp and noodles with soy-based sauce,3,3,6.2981803e-20,1.2582946e-11,1.754394e-07,0.9999999,True
+"Orange-apple-banana juice, baby food",0,0,0.99859613,9.852105e-21,0.0014038734,6.3670345e-12,True
+"Turkey, wing, cooked, skin not eaten",2,2,4.52589e-17,1.6747e-27,1.0,1.19386e-13,True
+"Mussels, cooked, NS as to cooking method",2,2,0.0011570312,2.4988157e-19,0.9988426,3.2491775e-07,True
+"Soft taco with chicken, from fast food",3,3,4.726046e-38,1.4945101e-22,5.060455e-22,1.0,True
+"Popcorn, ready-to-eat packaged, unsalted",3,3,4.7663568e-26,1.9802677e-07,2.2960337e-07,0.9999995,True
+"Infant formula, ready-to-feed (Enfamil Nutramigen)",3,3,4.1172e-40,1.5405725e-33,1.631e-41,1.0,True
+"Lemon juice, 100%, canned or bottled",0,0,0.98866093,4.3528684e-11,0.0113383345,6.6673533e-07,True
+"Chicken noodle dinner, baby food, NS as to strained or junior",2,2,1.1547685e-18,2.0513585e-14,0.99999964,3.3669758e-07,True
+"Chamnamul, cooked, fat added in cooking",3,3,5.916106e-13,4.2367393e-08,9.6581566e-08,0.9999999,True
+"Pudding, flavors other than chocolate, prepared from dry mix, low calorie, containing artificial sweetener, milk added",3,3,6.877131e-19,4.537313e-11,4.2298134e-11,1.0,True
+"Broccoflower, cooked, fat not added in cooking",2,2,3.8037275e-11,5.4830484e-13,1.0,3.190845e-08,True
+"Black, brown, or Bayo beans, canned, drained, fat added in cooking, NS as to type of fat",3,3,1.8430274e-20,1.904807e-11,2.1651955e-11,1.0,True
+"Hamburger, 1 medium patty, with condiments, on white bun",3,3,0.0,5.1723653e-29,1.6710202e-32,1.0,True
+"Turkey or chicken sausage, reduced sodium",3,3,1.5392339e-17,5.139091e-28,1.6480698e-12,1.0,True
+"Mustard greens, cooked, NS as to form, made with butter",3,3,5.988028e-27,5.1621134e-11,2.638914e-15,1.0,True
+"Egg white, omelet, scrambled, or fried, with cheese, fat added in cooking ",3,3,8.3677325e-13,3.700841e-06,1.5521591e-05,0.9999808,True
+"Rice, white, with vegetables, soy-based sauce, fat not added in cooking",3,3,1.8102388e-25,6.5667e-15,1.33201565e-08,1.0,True
+"Pan Dulce, with raisins and icing",3,3,1.8e-44,3.1645863e-32,6.7932737e-35,1.0,True
+Italian Wedding Soup,3,3,4.788749e-37,2.3163426e-21,1.4047312e-18,1.0,True
+"Muffin, English, oat bran",3,3,3.9676384e-28,2.8550048e-20,4.4204845e-20,1.0,True
+"Cookie, butterscotch, brownie",3,3,0.0,5.6466033e-34,7.123e-42,1.0,True
+"Bread, white",3,3,2.3205005e-35,9.731685e-22,5.1524715e-23,1.0,True
+Cereal (Malt-O-Meal Cocoa Dyno-Bites),3,3,0.0,0.0,0.0,1.0,True
+"Chicken breast, grilled with sauce, skin not eaten",3,3,1.5684944e-26,5.4594526e-15,0.00017263147,0.9998274,True
+"Kale, cooked, NS as to form, made with butter",3,3,1.0879093e-25,4.1103747e-13,1.6881871e-22,1.0,True
+"Vegetables, pickled, Hawaiian style",2,2,2.9129892e-22,8.979719e-16,1.0,8.1992075e-09,True
+"Coffee, Iced Cafe Mocha",3,3,0.08843181,8.997701e-08,5.1203443e-08,0.911568,True
+"Whey, sweet, dry",2,0,0.99999976,4.412055e-11,5.542307e-09,2.845059e-07,False
+"Sweet potato, baked, peel not eaten, fat not added in cooking",2,0,0.7557865,7.403408e-11,0.24391054,0.00030300382,False
+"Potato, mashed, ready-to-heat, with gravy",3,3,1.5472375e-28,1.012772e-12,3.2067648e-18,1.0,True
+"Crackers, saltine, reduced sodium",3,3,2.0788546e-34,5.7448905e-21,6.504854e-27,1.0,True
+"Pear juice, baby food",0,2,1.8795379e-07,1.229473e-18,0.64820415,0.35179576,False
+"Potato chips, popped, plain",3,3,1.4560445e-17,1.7406654e-06,9.892663e-06,0.9999883,True
+"Tea, iced, bottled, black, unsweetened",3,3,4.1797676e-07,1.5403515e-29,2.004394e-39,0.9999995,True
+"Cheese spread, pressurized can",3,3,1.2805603e-13,1.6303932e-06,0.0038558133,0.99614257,True
+"Abalone, cooked, NS as to cooking method",2,2,2.5243824e-06,5.2011186e-12,0.99965084,0.00034671652,True
+"Infant formula, ready-to-feed (Store brand Soy)",3,3,3.23833e-40,1.243868e-33,2.273e-42,1.0,True
+"Sweet potato, boiled, made with oil",3,3,6.131249e-18,1.3772212e-08,2.1702022e-07,0.99999976,True
+"Bread, Cuban",3,3,1.0378564e-33,1.6576073e-22,5.9624196e-23,1.0,True
+"Stewed gizzards, Puerto Rican style",3,3,9.973e-42,4.024384e-23,1.4040241e-18,1.0,True
+Cereal (Healt Valley Fiber 7 Flakes),3,3,5.9907237e-27,2.625122e-35,1.7000492e-33,1.0,True
+"Margarine, whipped, tub, salted",3,3,0.0,4.7355457e-20,7.2395e-41,1.0,True
+"Chicken, fried, with potatoes, vegetable, frozen meal",3,3,1.9378934e-31,5.923439e-19,1.495714e-14,1.0,True
+"Beef and egg noodles, baby food, junior",2,2,1.6771636e-22,8.397341e-11,0.995086,0.004914035,True
+"Beans, string, yellow, cooked, from frozen, made with margarine",3,3,1.2023459e-19,2.6557008e-09,7.16841e-09,1.0,True
+"Croaker, coated, baked or broiled, fat added in cooking",3,3,7.151774e-17,6.8347504e-15,1.3856426e-08,1.0,True
+"Beet greens, cooked, fat not added in cooking",0,0,0.9999833,6.9075856e-10,9.32844e-06,7.4468767e-06,True
+"Chocolate milk, made from dry mix, NS as to type of milk",3,3,4.0967006e-06,1.0933169e-08,7.1648133e-06,0.9999887,True
+"Applesauce with cherries, baby food, NS as to strained or junior",2,2,3.971395e-08,2.9270342e-15,0.99999976,2.9368547e-07,True
+"Diplomat pudding, Puerto Rican style",3,3,1.16418e-35,3.2110304e-22,4.957365e-18,1.0,True
+Biryani with meat,3,3,1.3296394e-31,1.2966155e-16,1.8324034e-16,1.0,True
+"Potato, baked, peel eaten, with butter",3,3,1.0021948e-17,1.3212617e-08,2.2659439e-11,1.0,True
+"Cod, coated, baked or broiled, made with oil",3,3,7.962128e-21,9.343132e-16,2.0710914e-10,1.0,True
+"Peach, dried, cooked, with sugar",0,0,0.9999876,3.243316e-12,1.2439604e-05,1.2835885e-11,True
+"Chickpeas, canned, drained, made with oil",3,3,2.863781e-23,9.4432435e-09,3.845346e-06,0.9999962,True
+"Infant formula, ready-to-feed (Similac Expert Care NeoSure)",3,3,1.15e-43,4.3696777e-38,0.0,1.0,True
+Hush puppy,3,3,1.8419862e-36,2.2508263e-17,2.3846385e-18,1.0,True
+"Luncheon meat sandwich, NFS, with spread",3,3,1.659953e-39,1.4357801e-25,2.6960547e-25,1.0,True
+"Oatmeal, regular or quick, made with water, fat added in cooking",3,3,7.727043e-17,1.3698068e-09,7.481531e-08,0.9999999,True
+"Ranch dip, yogurt based",3,3,5.3885733e-37,1.3405844e-16,1.1399089e-20,1.0,True
+"Crackers, sandwich, reduced fat, peanut butter filled",3,3,0.0,4.262336e-38,1.1629434e-32,1.0,True
+"Potato, baked, peel not eaten, with sour cream",3,3,6.0898757e-18,5.9980015e-10,6.265204e-10,1.0,True
+"Boysenberries, frozen",0,0,0.999997,1.88343e-17,2.9402895e-06,1.9543884e-11,True
+"Venison or deer, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3,3,1e-45,6.8619006e-28,2.5309762e-28,1.0,True
+"Ravioli, NS as to filling, no sauce",3,3,2.6067796e-28,1.5008949e-18,5.2046617e-16,1.0,True
+"Cookie, shortbread",3,3,0.0,3.8622992e-27,1.0954722e-32,1.0,True
+"Cheese, Muenster",2,2,4.535808e-11,2.2938922e-11,0.9999963,3.701982e-06,True
+"Turnip greens, cooked, from frozen, fat added in cooking, NS as to type of fat",3,3,5.5213617e-25,2.4155905e-13,1.371583e-19,1.0,True
+"Flounder, raw",0,0,0.9999995,1.662189e-13,1.7234095e-07,3.0489068e-07,True
+"Lambsquarter, cooked, fat not added in cooking",0,0,0.9756216,1.8504032e-06,0.018054733,0.0063217953,True
+"Onions, green, cooked, from fresh, fat not added in cooking",2,2,1.0430187e-13,1.2867744e-14,1.0,6.695595e-10,True
+"Whiting, baked or broiled, made without fat",2,2,0.0004385605,1.8467672e-13,0.99956137,6.1827388e-09,True
+"Chicken fricassee, Puerto Rican style",3,3,0.0,8.112047e-21,6.825815e-22,1.0,True
+"Pizza with meat and vegetables, from frozen, medium crust",3,3,0.0,4.004409e-26,3.3277788e-22,1.0,True
+"Rice, brown, with carrots and dark green vegetables, fat not added in cooking",3,3,7.741817e-14,5.5547416e-12,7.470152e-07,0.9999993,True
+"Guava shell, canned in heavy syrup",2,0,0.99895835,1.9257474e-16,0.0010416614,1.3032932e-10,False
+"Spinach, cooked, NS as to form, fat added in cooking, NS as to type of fat",3,3,3.719606e-15,2.0494967e-11,6.9987537e-15,1.0,True
+"Grilled cheese sandwich, reduced fat American cheese, on whole wheat bread",3,3,2.4945528e-35,3.304935e-20,7.2151256e-14,1.0,True
+"Chicken, NS as to part, baked, broiled, or roasted, skin eaten",2,2,7.394613e-11,1.1494213e-13,0.9999982,1.8405552e-06,True
+Shrimp chips,3,3,1.4327617e-30,2.4822476e-15,6.9546546e-15,1.0,True
+"Chicken or turkey creole, without rice",3,3,1.88127e-29,4.8776518e-14,3.435595e-11,1.0,True
+"Infant formula, powder, made with tap water (Enfamil Enfagrow Toddler Transitions)",3,3,6.074312e-39,1.3800695e-34,1.8094e-40,1.0,True
+"Salmon, coated, baked or broiled, made without fat",3,3,5.5248778e-11,1.11516595e-11,0.00054723147,0.99945277,True
+"Peanut butter and jelly sandwich, with reduced fat peanut butter, reduced sugar jelly, on wheat bread",3,3,4.1549615e-26,2.2059046e-15,1.9730362e-14,1.0,True
+"Corn, yellow, cooked, NS as to form, fat not added in cooking",2,2,6.7361006e-11,9.6850066e-08,0.99272233,0.007277562,True
+"Ham, rice, and potato soup, Puerto Rican style",3,3,1.0004337e-17,1.5429081e-09,2.4186238e-07,0.99999976,True
+"Salisbury steak with gravy, potatoes, vegetable, soup or macaroni and cheese, dessert, frozen meal",3,3,9.964791e-28,3.5730168e-16,1.6415405e-13,1.0,True
+"Coffee, bottled/canned, light",0,0,0.9779563,1.0639268e-08,1.1779147e-06,0.022042576,True
+"Bread, black",3,3,1.5115668e-23,7.5267195e-15,1.4428876e-14,1.0,True
+"Turkey ham, prepackaged or deli, luncheon meat",3,2,6.0300665e-20,1.6152075e-19,1.0,2.3433897e-08,False
+Cereal (Kellogg's Frosted Flakes),3,3,0.0,0.0,0.0,1.0,True
+Flax seeds,0,0,0.9999386,1.0747736e-09,6.060065e-05,8.6771246e-07,True
+"Roll, sweet, frosted",3,3,0.0,1.3500057e-32,9.428577e-35,1.0,True
+"Margarine like spread, fat free, tub, salted",3,3,0.0,5.733656e-22,0.0,1.0,True
+"Potato chips, ruffled, barbecue flavored",3,3,7.1396475e-31,1.613897e-10,4.1061768e-12,1.0,True
+"Fruit Supreme dessert, baby food",2,2,0.0037152413,1.14072884e-08,0.9962586,2.6069283e-05,True
+"Rigatoni with meat sauce and cheese, diet frozen meal",3,3,3.256622e-38,4.307255e-22,2.4885936e-20,1.0,True
+"Turtle, cooked, NS as to cooking method",2,2,0.0007368483,1.2720403e-12,0.9992631,5.8087856e-08,True
+"Turkey, tail",2,2,4.0732856e-14,7.5007363e-19,1.0,1.0081191e-09,True
+"Pastry, puff",3,3,0.0,2.815231e-25,6.901214e-31,1.0,True
+Pastrami sandwich,3,3,6e-45,6.167283e-25,1.3661696e-24,1.0,True
+Baby Ruth,3,3,8.932315e-35,4.5576993e-17,3.583213e-16,1.0,True
+"Lime, raw",0,0,0.9866261,2.4301068e-08,0.013313851,6.00304e-05,True
+"Oatmeal,  instant, plain, made with milk, fat added in cooking",3,3,1.3014213e-25,5.6739476e-16,9.683773e-13,1.0,True
+"Cheese sandwich, American cheese, on white bread, no spread",3,3,4.88697e-40,3.3708853e-23,2.1092492e-19,1.0,True
+"Pork chop, NS as to cooking method, lean and fat eaten",2,2,1.5289651e-11,8.836833e-22,1.0,8.815624e-14,True
+"Peas, dry, cooked with pork",3,3,1.7070525e-28,5.56845e-16,1.26119055e-14,1.0,True
+"Fritter, berry",3,3,5.970779e-36,9.0354076e-26,1.221181e-21,1.0,True
+"Muffin, cheese",3,3,6e-45,9.466786e-26,2.303807e-25,1.0,True
+"Catfish, baked or broiled, made with margarine",2,2,0.0002570842,3.1640536e-06,0.9765171,0.023222579,True
+"Fish and vegetables excluding carrots, broccoli, and dark- green leafy; no potatoes, tomato-based sauce",3,3,8.00631e-39,8.362379e-19,1.4281806e-19,1.0,True
+"Popcorn chips, other flavors",3,3,6.2506666e-21,2.4470991e-11,9.525362e-11,1.0,True
+"Ham, breaded or floured, fried, NS as to fat eaten",2,2,1.4990894e-20,5.830171e-20,0.9999989,1.0466513e-06,True
+"Salmon, coated, baked or broiled, made with cooking spray",3,3,3.8331307e-11,9.967349e-12,0.0005066871,0.99949324,True
+"Chicken or turkey stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",3,3,1.1123462e-31,5.076464e-22,1.4674121e-20,1.0,True
+"Squash, winter type, baked, no sugar added in cooking, made with butter",3,3,1.9682597e-16,4.0249907e-07,1.5722568e-08,0.9999995,True
+"Mixed nuts, with peanuts, salted",2,2,8.909363e-09,2.302641e-12,0.99999833,1.6249926e-06,True
+"Carrots, cooked, from canned, glazed",3,3,5.6611773e-36,1.00228e-15,4.391762e-19,1.0,True
+Tahini,0,0,0.6106369,1.7201788e-07,0.38703045,0.002332555,True
+"Cheeseburger, 1 small patty, with condiments, on white bun",3,3,0.0,3.7783002e-28,4.9249687e-31,1.0,True
+"Beans, lima, immature, from fresh, creamed or with cheese sauce",3,3,2.3063564e-18,1.4531236e-13,8.8408954e-11,1.0,True
+Avocado dressing,3,3,0.0,2.815223e-23,1.6856413e-34,1.0,True
+"Chicken fillet, grilled",2,3,1.4205259e-25,3.5510964e-10,2.4258232e-12,1.0,False
+"Turnip greens with roots, cooked, from fresh, NS as to fat added in cooking",3,3,8.861147e-20,1.972723e-11,3.880001e-14,1.0,True
+"Apple, fried",3,3,8.1098127e-22,2.81124e-07,3.192681e-09,0.99999976,True
+"Whipped topping, sugar free",3,3,1.286035e-39,1.1917095e-14,4.670931e-16,1.0,True
+"Bread, caressed, Puerto Rican style",3,3,2.83109e-40,4.6406286e-25,2.2370294e-23,1.0,True
+"Lo mein, with beef",3,3,1.3135803e-34,1.9904867e-19,2.8238485e-16,1.0,True
+"Tea, iced, bottled, green, unsweetened",3,3,3.8796128e-12,3.0525752e-23,9.3347575e-24,1.0,True
+"Chicken drumstick, baked or broiled, skin not eaten, from fast food / restaurant",2,2,2.051223e-16,5.814351e-16,0.9999995,4.980639e-07,True
+"Ham, smoked or cured, cooked, lean only eaten",2,2,9.11627e-13,1.6403753e-17,0.99999964,3.6049897e-07,True
+"Rice, creamed, made with milk and sugar, Puerto Rican style",3,3,6.4305583e-22,1.09924025e-16,1.7899441e-14,1.0,True
+"Peach, cooked or canned, NS as to sweetened or unsweetened; sweetened, NS as to type of sweetener",2,2,0.00090943475,3.243028e-07,0.9982765,0.0008137122,True
+Pork and beans,3,3,2.0658646e-28,2.3720802e-12,5.7909585e-08,1.0,True
+"Chicken, bacon, and tomato club sandwich, with lettuce and spread",3,3,0.0,1.6038231e-28,1.0526569e-26,1.0,True
+"Bean sprouts, cooked, from fresh, fat not added in cooking",3,3,5.940695e-20,8.2529156e-10,1.1485757e-06,0.9999988,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from fresh, made with margarine",3,3,6.572641e-22,1.1521362e-13,6.0348054e-13,1.0,True
+"Blueberries, frozen, unsweetened",0,0,0.9995739,2.6763958e-12,0.00042559477,4.82449e-07,True
+"Lasagna with meat, frozen",3,3,3.98e-43,3.292513e-21,6.2942867e-21,1.0,True
+"Double hamburger, 2 small patties, with condiments, on bun, from fast food / restaurant",3,3,0.0,9.614295e-25,1.5582035e-25,1.0,True
+Almond paste,2,0,0.82239544,1.0193918e-07,0.009579744,0.16802469,False
+Truffles,3,3,1.2691545e-28,3.3545589e-21,3.3977546e-21,1.0,True
+"Peppers, green, cooked, made with oil",3,3,8.2097564e-14,2.002695e-06,0.0008207676,0.99917716,True
+"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",3,3,2.4743258e-37,5.5418118e-24,1.0443153e-23,1.0,True
+"Chicken or turkey noodle soup, reduced sodium, canned or ready-to-serve",3,3,1.623282e-10,4.96627e-07,0.064339854,0.93565965,True
+"Frankfurter or hot dog sandwich, NFS, plain, on white bun",3,3,1.12e-43,6.7842805e-22,4.208117e-23,1.0,True
+"Tomato soup, instant type, prepared with water",3,3,1.7615344e-20,4.405089e-11,0.0003976604,0.9996024,True
+Vodka and energy drink,3,3,1.0941619e-15,3.8367936e-26,1.6477681e-12,1.0,True
+"Coffee, espresso, decaffeinated",0,0,0.5325602,6.195889e-11,0.0005195803,0.4669201,True
+Cereal (Post Great Grains Double Pecan Whole Grain Cereal),3,3,2.0237623e-33,3.3974305e-36,1.2033141e-34,1.0,True
+"Corn, white, cooked, from canned, made with oil",2,3,3.4210042e-19,8.6565103e-07,0.00034853249,0.9996506,False
+"Dietetic or low calorie candy, chocolate covered",3,3,1.2114648e-14,6.1746974e-14,6.7759093e-12,1.0,True
+Ham stroganoff,3,3,7.4924944e-28,4.680262e-15,9.2223224e-10,1.0,True
+"Frankfurter or hot dog sandwich, chicken and/or turkey, plain, on multigrain bread",3,3,1.3610129e-23,1.1068776e-12,1.330413e-05,0.99998665,True
+"Chicken or turkey vegetable soup with rice, stew type, chunky style",3,3,1.2375246e-35,5.217984e-15,2.6117156e-10,1.0,True
+"Sopa de tortilla, Mexican style tortilla soup, home recipe",3,3,1.0042052e-37,3.0549628e-16,2.4870518e-16,1.0,True
+"Broccoli, cooked, NS as to form, NS as to fat added in cooking",3,3,3.1401427e-22,5.043565e-10,3.632946e-13,1.0,True
+"Cereal, frosted corn flakes",3,3,0.0,0.0,0.0,1.0,True
+"Tea, hot, chai, with milk",3,3,1.209957e-10,2.5187e-10,1.092683e-08,1.0,True
+"Spinach, cooked, from canned, with cheese sauce",3,3,6.6589905e-18,8.1592686e-13,2.1430069e-13,1.0,True
+"Beef liver, fried",2,2,0.0017474161,1.1228126e-19,0.9982486,4.043253e-06,True
+Chicken or turkey and noodles with cream or white sauce,3,3,1.2827763e-31,2.3976684e-22,7.941972e-17,1.0,True
+"Egg omelet or scrambled egg, NS as to fat added in cooking",3,3,0.07659933,0.00045251998,0.0354466,0.88750154,True
+"Cheeseburger, 1 medium patty, plain, on bun, from fast food / restaurant",3,3,1.5356372e-34,3.798836e-21,3.131729e-17,1.0,True
+"Croaker, steamed or poached",2,2,8.263656e-06,2.0221338e-17,0.9999918,2.1951497e-08,True
+"Turkey and bacon submarine sandwich, with cheese, lettuce, tomato and spread",3,3,0.0,1.161141e-29,3.5220112e-32,1.0,True
+"Ice cream sundae, prepackaged type, flavors other than chocolate",3,3,2.0702414e-22,7.7273715e-16,1.2732799e-15,1.0,True
+"Tortellini, meat-filled, with tomato sauce",3,3,0.0,1.4064117e-30,3.9663087e-27,1.0,True
+"Beef, oxtails, cooked",2,2,4.897309e-19,2.0009047e-23,1.0,2.462784e-12,True
+"Beef, NS as to cut, cooked, lean only eaten",2,2,2.406176e-18,6.370461e-25,1.0,1.3574842e-12,True
+"Chocolate milk, made from light syrup with fat free milk",0,3,0.49534303,1.4857168e-06,0.00018763471,0.50446784,False
+"Lima bean soup, home recipe, canned or ready-to-serve",3,3,7.896994e-14,2.7591993e-09,0.0013161422,0.99868387,True
+"Honey mustard dressing, light",3,3,1.698605e-39,3.12723e-16,3.2823543e-14,1.0,True
+"Waffle, whole grain, reduced fat",3,3,3.7112343e-35,1.8840355e-21,3.5380222e-17,1.0,True
+"Breadsticks, NFS",3,3,0.0,6.46328e-33,2.9514685e-36,1.0,True
+"Tomato juice, 100%, low sodium",0,0,1.0,7.999536e-23,1.7168002e-08,2.3504944e-15,True
+"Spanish rice, from restaurant",3,3,0.0,2.0439567e-34,1.8165721e-36,1.0,True
+"Yogurt, frozen, cone, flavors other than chocolate",3,3,2.7297413e-24,8.261396e-18,3.2767982e-15,1.0,True
+"Squash, summer, yellow or green, cooked, from canned, NS as to fat added in cooking",3,3,1.2369796e-15,2.1010194e-07,3.45635e-07,0.9999994,True
+"Green or yellow split peas, dry, cooked, made with oil",3,3,8.797318e-21,8.2779605e-10,7.129426e-09,1.0,True
+"Vegetables, stew type, cooked, made with margarine",3,3,1.8212974e-21,4.822141e-10,6.383756e-10,1.0,True
+"Cookie, sugar wafer, sugar free",3,3,1.21624e-40,7.9234926e-22,1.0999203e-30,1.0,True
+"Cheese, Gouda or Edam",2,2,4.2884477e-10,1.01437045e-11,0.9999858,1.4236313e-05,True
+"Potato, boiled, from fresh, peel eaten, made with butter",3,3,1.0536827e-16,3.3036567e-08,7.1913545e-11,1.0,True
+"Fruit juice drink, reduced sugar (Sunny D)",3,3,4.3227307e-11,1.582276e-13,9.065739e-07,0.99999905,True
+Burrito with chicken and sour cream,3,3,0.0,1.02415e-26,1.7486627e-26,1.0,True
+Soybean meal,0,0,1.0,8.996799e-15,3.0450142e-09,3.2579484e-10,True
+"Broccoli, chinese, cooked, NS as to form, made with butter",3,3,1.1069827e-24,3.1768133e-14,7.119212e-19,1.0,True
+"Double bacon cheeseburger, 2 medium patties, with condiments, on bun, from fast food / restaurant",3,3,0.0,3.3138444e-22,1.5410153e-23,1.0,True
+"Energy drink, low calorie (Monster)",3,3,0.0,6e-45,1.29e-43,1.0,True
+"Frozen coffee drink, decaffeinated, nonfat, with whipped cream ",3,3,0.0008807054,1.9585475e-06,7.310739e-05,0.99904424,True
+"Syrup, NFS",3,3,0.0,5.9882517e-21,3.0233615e-37,1.0,True
+Cereal (Kellogg's Special K Low Fat Granola),3,3,1.009e-42,1e-45,2.5909e-40,1.0,True
+"Hot chocolate / Cocoa, ready to drink",3,3,0.06821396,3.8471276e-07,1.9991126e-06,0.9317837,True
+Cereal (Post Fruity Pebbles),3,3,0.0,0.0,0.0,1.0,True
+"Mixed vegetables, canned, low sodium, made with oil",2,2,1.0645627e-08,3.2270584e-08,0.9999995,4.2008597e-07,True
+"Pasta, whole grain, with cream sauce and meat, restaurant",3,3,5.4750834e-36,8.024213e-20,2.754734e-15,1.0,True
+Quesadilla with vegetables and meat,3,3,0.0,1.2742093e-28,3.1226796e-29,1.0,True
+"Corn, white, cooked, NS as to form, fat added in cooking, NS as to type of fat",3,3,1.4138655e-25,4.2375634e-12,1.6095622e-14,1.0,True
+Liver dumpling,3,3,5.5255264e-20,1.4764451e-22,4.9436696e-12,1.0,True
+"Green or yellow split peas, dry, cooked, made with animal fat or meat drippings",3,3,5.2876826e-27,5.1462117e-13,5.408533e-13,1.0,True
+"Eggplant, cooked, made with oil",3,3,4.4210733e-28,5.5053405e-12,1.3722106e-12,1.0,True
+Cereal (General Mills Cheerios),3,3,4.3e-44,1.8650218e-36,1.3978861e-37,1.0,True
+"Peas and onions, cooked, fat added in cooking, NS as to type of fat",3,3,9.254127e-25,9.428336e-14,1.1067645e-14,1.0,True
+"Rice, brown, with tomatoes and/or tomato based sauce, fat not added in cooking",3,3,5.6565893e-19,2.291342e-13,1.834494e-05,0.99998164,True
+"Stuffed shells, cheese-filled, with meat sauce",3,3,4.08e-43,2.0081002e-23,8.855123e-22,1.0,True
+"Cheese, Cheddar, reduced sodium",2,2,9.34767e-05,8.735663e-06,0.8858287,0.11406913,True
+"Chicken, back",2,2,6.312892e-13,5.162956e-10,0.9987006,0.0012993297,True
+"Grapefruit and orange sections, cooked, canned, or frozen, NS as to added sweetener",2,2,0.00019435682,2.6816965e-10,0.9997985,7.116243e-06,True
+"Menudo soup, home recipe",3,3,1.284411e-16,2.854487e-08,4.3628966e-06,0.9999956,True
+"Turnips, from canned, creamed",3,3,3.2807648e-29,7.057656e-15,4.798482e-20,1.0,True
+"Coffee, Cappuccino, decaffeinated, nonfat",0,0,0.99816954,1.9377276e-06,2.7218684e-08,0.0018285887,True
+"Onions, cooked, NS as to form, NS as to fat added in cooking",3,3,2.5354661e-13,1.5645259e-05,1.1131206e-06,0.9999832,True
+"Venison or deer, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",3,3,3.2445892e-26,2.9823726e-13,1.4916505e-15,1.0,True
+"Beans, lima and corn, cooked, fat not added in cooking",2,2,1.3241832e-12,8.774453e-08,0.99220675,0.007793128,True
+"Beans, string, yellow, cooked, from frozen, fat not added in cooking",2,2,6.035072e-16,1.9807337e-16,1.0,4.1177863e-11,True
+"Hot chocolate / Cocoa, made with no sugar added dry mix and non-dairy milk",3,3,1.9529076e-37,1.2783466e-37,7.0604386e-35,1.0,True
+"Croissant sandwich, filled with chicken, broccoli, and cheese sauce",3,3,3.99771e-40,1.8034782e-24,7.864647e-23,1.0,True
+"Almonds, salted",2,2,6.3544356e-09,1.2114353e-10,0.99999464,5.3782023e-06,True
+"Pie, pineapple, individual size or tart",3,3,0.0,1.4767673e-28,2.025479e-31,1.0,True
+"Frozen mocha coffee drink, with non-dairy milk",3,3,1.78e-43,5.777146e-38,1.6157896e-38,1.0,True
+Pinacbet,3,3,5.3167755e-23,1.6764801e-11,0.0001493292,0.99985063,True
+"Beef noodle soup, home recipe",3,3,1.0022252e-21,1.3815369e-11,3.622402e-05,0.99996376,True
+"Rice, brown, with peas and carrots, fat not added in cooking",3,3,6.1497126e-17,9.5333194e-12,1.8924336e-05,0.99998105,True
+"Crepe, chocolate filled",3,3,2.4677458e-30,2.1996787e-22,7.434157e-21,1.0,True
+"Chicken or turkey noodle soup, chunky style, canned or ready-to-serve",3,3,1.0772947e-20,1.054749e-08,3.5979733e-06,0.9999964,True
+Pizza rolls,3,3,0.0,1.5935605e-34,1.68855e-40,1.0,True
+Shrimp with crab stuffing,3,3,1.4575089e-16,1.960571e-12,0.02299235,0.9770076,True
+"Bread, marble rye and pumpernickel",3,3,2.4111035e-31,1.8043076e-20,2.0107017e-20,1.0,True
+"Squash, summer, yellow or green, cooked, from canned, fat not added in cooking",2,2,2.3556e-09,2.0118378e-08,0.9982886,0.0017114695,True
+"Grits, instant, made with milk, NS as to fat added in cooking",3,3,1.533e-42,3.9718462e-29,2.7545212e-32,1.0,True
+"Cookies, Puerto Rican style",3,3,0.0,8.938301e-23,6.7583983e-22,1.0,True
+"Frozen coffee drink, nonfat",3,0,0.90590024,2.7518695e-08,8.885402e-05,0.09401093,False
+"Cheese, processed cream cheese product, nonfat or fat free",3,2,1.3514753e-07,5.181964e-13,0.9999957,4.228991e-06,False
+"Cake or cupcake, raisin-nut",3,3,3.115001e-39,1.7924161e-23,1.2828226e-20,1.0,True
+Cereal (Kellogg's Frosted Krispies),3,3,0.0,0.0,0.0,1.0,True
+"Light ice cream, no sugar added, cone, chocolate",3,3,2.6403645e-37,5.631992e-28,6.038547e-32,1.0,True
+"Pasta with tomato-based sauce, meat, and added vegetables, restaurant",3,3,0.0,1.8636132e-29,7.3442306e-31,1.0,True
+"Peanuts, roasted, unsalted",2,2,0.00035801652,2.6651044e-09,0.9996418,2.0905263e-07,True
+"Beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",3,3,6.6851775e-15,6.9753328e-09,0.022253554,0.9777465,True
+"Butter, stick, salted",1,1,6e-44,0.99999654,3.1570641e-24,3.4797745e-06,True
+Orange chicken,3,3,0.0,4.3409e-24,1.279983e-27,1.0,True
+"Collards, cooked, NS as to form, made with butter",3,3,8.696073e-24,1.2966128e-09,3.3921847e-14,1.0,True
+"Peppers, hot, cooked, from canned, fat not added in cooking",2,2,9.887833e-23,9.638099e-15,0.99999976,2.8743574e-07,True
+"Pudding, ready-to-eat, flavors other than chocolate",3,3,2.0284764e-13,1.4290068e-05,5.8586714e-14,0.9999857,True
+"Gravy, beef or meat, low sodium",3,3,2.6203268e-06,6.0199392e-05,0.006668888,0.9932683,True
+"Yogurt, Greek, nonfat milk, plain",0,0,0.9715315,2.08298e-09,0.026991194,0.0014773742,True
+"Cornish game hen, roasted, skin not eaten",2,2,4.9852577e-11,2.0516725e-13,0.99999774,2.3160503e-06,True
+"Salmon, cooked, NS as to cooking method",2,2,2.8120677e-08,6.4947776e-15,1.0,3.206023e-08,True
+"Ham and cheese submarine sandwich, with lettuce, tomato and spread",3,3,1.659953e-39,1.4357801e-25,2.6960547e-25,1.0,True
+"Pear, dried, cooked, unsweetened",0,0,0.9999975,1.4282101e-11,2.5384097e-06,3.788986e-13,True
+"Peas, cowpeas, field peas, or blackeye peas, not dried, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,9.544865e-32,9.465669e-18,1.1795318e-18,1.0,True
+"Frankfurter or hot dog sandwich, meatless, plain, on bread",3,3,2.073216e-34,1.7966358e-35,8.325323e-28,1.0,True
+"Bagel, with raisins",3,3,2.1060502e-33,1.2992698e-23,3.460243e-26,1.0,True
+Mussels with tomato-based sauce,0,3,2.57993e-18,1.3525663e-16,0.0002570785,0.9997429,False
+"Spaghetti, tomato sauce, and beef, baby food, junior",3,3,1.5299632e-22,1.8390027e-13,7.48752e-10,1.0,True
+"Pretzels, hard, multigrain",3,3,3.053494e-39,3.056642e-23,1.8557354e-25,1.0,True
+"Bacon and cheese sandwich, with spread",3,3,1.1716e-41,1.5102361e-22,1.0928498e-19,1.0,True
+French cruller,3,3,0.0,3.2913052e-30,5.841423e-34,1.0,True
+"Raisins, yogurt covered",3,3,7.329046e-09,2.157286e-10,1.6597759e-09,1.0,True
+Peach nectar,3,3,1.5220731e-05,0.00087672,0.2587721,0.740336,True
+Vegetable curry,3,3,2.7148608e-09,3.6785843e-07,0.46682993,0.53316975,True
+"Pizza, with meat other than pepperoni, stuffed crust",3,3,0.0,1.8190208e-35,5.676718e-39,1.0,True
+"Lychee, cooked or canned, in sugar or syrup",2,2,0.07224335,3.2652757e-08,0.9276955,6.1087594e-05,True
+"Vegetable submarine sandwich, with fat free spread",3,3,0.0,9.434315e-39,6.331517e-36,1.0,True
+"Chicken breast, baked, broiled, or roasted with marinade, skin not eaten, from raw",2,2,5.99512e-10,6.991134e-12,0.9999505,4.9452345e-05,True
+"Cheese, cottage, NFS",2,2,2.1035416e-06,3.068044e-11,0.9997805,0.00021739965,True
+"Mixed vegetables, cooked, from canned, fat added in cooking, NS as to type of fat",3,3,1.07707166e-29,2.0836017e-12,4.9661256e-19,1.0,True
+"Broccoli, cooked, NS as to form, made with margarine",3,3,2.1703659e-16,1.1813319e-08,2.2770726e-06,0.99999774,True
+"Beef taco filling: beef, cheese, tomato, taco sauce",3,3,9.952e-42,8.631121e-19,1.7723224e-18,1.0,True
+Chicken or turkey and rice with mushroom sauce,3,3,5.3840814e-34,3.54514e-18,9.4362e-21,1.0,True
+"Cereal, baby food, jarred, NFS",3,3,1.025367e-31,9.02539e-32,2.2008038e-29,1.0,True
+"Cookie, vanilla wafer, reduced fat",3,3,0.0,5.548757e-29,1.370094e-32,1.0,True
+"Cheese, Feta",2,2,5.91023e-13,7.777679e-15,0.99998844,1.1541632e-05,True
+Iced Tea / Lemonade juice drink,0,0,0.99945575,5.4124347e-11,0.00031290363,0.00023138658,True
+"Cookie, coconut",3,3,3.8587704e-20,7.4178445e-08,2.1156438e-05,0.9999788,True
+"Pudding, ready-to-eat, chocolate",3,3,2.6403559e-21,4.444377e-12,1.834008e-20,1.0,True
+"Cake, angel food, without icing or filling",3,3,6.2583653e-31,3.8219218e-19,1.3018678e-18,1.0,True
+"Soft drink, pepper type, decaffeinated, diet",3,3,3.1298772e-10,2.4390105e-18,1.1672207e-14,1.0,True
+"Sour cream, fat free",3,3,9.277517e-12,1.6267236e-31,2.0014228e-09,1.0,True
+"Rice, white, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, fat added in cooking",3,3,2.906e-42,3.445902e-24,2.3318753e-21,1.0,True
+"Beans, string, cooked, from canned, NS as to color, NS as to fat added in cooking",3,3,5.2463855e-30,4.7338244e-11,2.1524964e-15,1.0,True
+"Shark, coated, baked or broiled, fat added in cooking",3,3,4.3672674e-20,6.0670675e-15,5.989639e-08,0.9999999,True
+Funnel cake with sugar,3,3,8.063e-42,7.716753e-27,5.053847e-26,1.0,True
+"Sugar substitute, sucralose, powder",3,3,1.6888365e-12,7.9278403e-16,3.299566e-29,1.0,True
+"Rice, white, with other vegetables, fat not added in cooking",3,3,5.345864e-22,1.3405078e-12,5.101463e-09,1.0,True
+"Corn, yellow, from canned, cream style",3,3,1.734754e-13,4.7471293e-08,0.0006831764,0.9993168,True
+"Muffin, chocolate chip",3,3,0.0,4.4858578e-32,1.794266e-35,1.0,True
+"French toast, plain, from fast food / restaurant",3,3,9.667405e-39,2.2598678e-25,1.0025484e-21,1.0,True
+"Pork stew, with potatoes, tomato-based sauce, Mexican style",3,3,1.3050597e-28,1.086021e-15,2.8051547e-06,0.99999714,True
+"Focaccia, Italian flatbread, plain",3,3,5.630479e-39,9.412468e-22,9.380173e-22,1.0,True
+"Ham, fried, lean only eaten",2,2,2.0985493e-13,3.7178466e-15,0.99998474,1.5249885e-05,True
+"Steak and cheese submarine sandwich, with lettuce and tomato",3,3,0.0,6.692444e-28,6.3835456e-26,1.0,True
+"Biscuit, cinnamon-raisin",3,3,0.0,1.6721043e-32,3.0069268e-36,1.0,True
+"Bacon, breaded fried chicken fillet, and tomato club with lettuce and spread",3,3,0.0,2.6134369e-31,5.2010216e-34,1.0,True
+"Pear, cooked or canned, in heavy syrup",2,2,0.08910743,1.7513847e-06,0.90813094,0.0027598895,True
+Tiramisu,3,3,0.0,2.8470184e-30,2.4379408e-33,1.0,True
+"Doughnut, custard-filled, with icing",3,3,0.0,3.664165e-35,1.3628814e-37,1.0,True
+"Nutritional drink or shake, ready-to-drink, sugar free (Glucerna)",3,3,0.0,0.0,0.0,1.0,True
+"Teriyaki sauce, reduced sodium",3,3,9.81964e-23,1.01700473e-19,1.0005741e-06,0.99999905,True
+Cereal (Weetabix Whole Grain),3,3,1.5073223e-09,9.0972285e-11,8.258205e-09,1.0,True
+"Beef, baby food, NS as to strained or junior",2,2,4.2593572e-05,8.5438955e-08,0.9992005,0.00075684907,True
+"Pasta, whole grain, with tomato-based sauce, seafood, and added vegetables, ready-to-heat",3,3,5.5470176e-38,2.248838e-22,1.7923778e-20,1.0,True
+Cocktail sauce,3,3,7.0501974e-24,1.5156686e-20,1.0570138e-09,1.0,True
+"Rice, white, cooked, fat not added in cooking",3,3,5.51838e-22,8.193746e-14,2.8069283e-12,1.0,True
+"Oatmeal with applesauce and bananas, baby food, jarred",3,3,1.025367e-31,9.02539e-32,2.2008038e-29,1.0,True
+"Cereal, puffed wheat, sweetened",3,3,1.9360634e-36,0.0,4.015e-42,1.0,True
+"Stewed seasoned ground beef, Mexican style",3,3,2.5670449e-23,1.241832e-08,0.0013466586,0.9986533,True
+Bouillabaisse,3,3,8.816223e-19,1.2496556e-11,3.632801e-05,0.99996364,True
+"Stewed potatoes, Puerto Rican style",3,3,2.2538207e-28,1.1687892e-10,8.309436e-11,1.0,True
+"Green peppers and onions, cooked, made with butter",3,3,8.7109276e-21,1.2633179e-08,2.6584094e-11,1.0,True
+"Pecans, honey roasted",3,3,1.3375816e-17,1.776892e-07,0.03185186,0.96814793,True
