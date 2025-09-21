@@ -70,5 +70,3 @@ The Backend is organized as a Python package with the following structure:
   - `data/` - Dataset files
   - `config/` - Configuration files
   - `checkpoints/` - Model checkpoint files
-
-This structure allows for clean imports between modules and better organization of the codebase.
